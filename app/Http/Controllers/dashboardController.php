@@ -9,6 +9,7 @@ class dashboardController extends Controller
 
 	public function index()
 	{
-		return view("index");
+		return "hello world";
+		//return view("index");
 	}
 }
