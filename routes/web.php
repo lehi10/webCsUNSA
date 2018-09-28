@@ -13,3 +13,24 @@
 
 Route::get('/','dashboardController@index');
 
+
+Route::group(['prefix'=>'blog'],function()
+{
+    Route::get('/',  'blogController@index' );
+});
+
+Route::group(['prefix'=>'resources'],function()
+{
+    Route::get('/',  'resourcesController@index' );
+});
+
+Route::group(['prefix'=>'events'],function()
+{
+    Route::get('/',  'eventsController@index' );
+});
+
+Route::group(['prefix'=>'research'],function()
+{
+    Route::get('/',  'researchController@index' );
+});
+    
