@@ -166,7 +166,7 @@
 
 
 
-    <section class="section-cover" data-stellar-background-ratio="0.5" style="background-image: url(images/banner.jpg);">
+    <section class="section-cover" data-stellar-background-ratio="0.5" style="background-image: url(images/banners/banner.jpg);">
       <div class="container">
         <div class="row justify-content-center align-items-center intro">
           <div class="col-md-10 text element-animate">
