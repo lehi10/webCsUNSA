@@ -44,10 +44,8 @@
         <div class="mb-5 element-animate">
             <img src="images/cslogos/logoDarkBackground.png" style="width: 350px;">
 
-            <p class="lead"><strong>Escuela Profesional de Ciencia de la Computación</strong></p>
+            <p class="lead"><strong>Semana de la Computación</strong></p>
             <h1 id="countdown"></h1>
-            <p class="lead">Para la Semana de la Computación</p>
-
         </div>            
       </div>
     </div>
