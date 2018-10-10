@@ -35,58 +35,223 @@
 	</script>
 @endsection
 
-@section('poster')
-<section class="site-hero overlay" style="background-image: url(images/banners/science.jpg);">
-  <div class="container">
-    <div class="row align-items-center site-hero-inner justify-content-center">
-      <div class="col-md-8 text-center">
-
-        <div class="mb-5 element-animate">
-            <img src="images/cslogos/logoDarkBackground.png" style="width: 350px;">
-
-            <p class="lead"><strong>Semana de la Computación</strong></p>
-            <h1 id="countdown"></h1>
-        </div>            
-      </div>
-    </div>
-  </div>
-</section>
-@endsection
-
 
 @section('body')
-<section class="site-section">
+
+<section  style="background-image: url(images/banners/science.jpg);">
+  <div style="padding:15px;" class="row ">  
+        <center>
+          <img src="images/cslogos/logoDarkBackground.png" class="logoImg">
+          <h2 class="textWhite">Semana de la Computación </h2>
+          <strong><h2 class="textWhite" id="countdown"></h2></strong>
+        </center>
+  </div>
+</section>
+
+
+<div class="container" style="padding:30px;">
+  <h2>¿QUE ES LA SEMANA DE LA COMPUTACIÓN?</h2>
+  <br>
+  <p class="paragraph" >Es un evento compuesto por diferentes tipos de actividades que se realiza una vez cada año, y dura 5 días. Estas actividades comprenden: Charlas , exposiciones, concursos, actividades recreativas entre otros.</p>
+  <p class="paragraph" >El objetivo es motivar a los estudiantes con respecto a la carrera profesional, dar a conocer los proyectos y logros de los estudiantes, fortalecer la relación alumno-profesor , promover la participación y el trabajo en equipo, entre otros.</p>
+  <p class="paragraph" >Este es el primer año en el que se lleva a cabo La Semana de la Computación, y se espera que se realice cada año.</p>
+  <hr>
+
+  <h2>CRONOGRAMA</h2>
+  
+  
+
+<style type="text/css">
+
+table td:first-child {
+	width: 5%;
+}
+ 
+table td:nth-child(2) {
+	width: 19%;
+}
+ 
+table td:nth-child(3) {
+	width: 19%;
+}
+table td:nth-child(4) {
+	width: 19%;
+}
+table td:nth-child(5) {
+	width: 19%;
+}
+table td:nth-child(6) {
+	width: 19%;
+}
+
+.tg  {border-collapse:collapse;border-spacing:0;  }
+.tg td{font-family:Montserrat, sans-serif;font-size:15px;padding:10px 5px;;overflow:hidden;word-break:normal;}
+.tg th{font-family:Montserrat, sans-serif;font-size:17px;font-weight:bold;padding:10px 5px;;overflow:hidden;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:center}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:center}
+
+</style>
+  <div class="table-responsive">
+    <table class="tg  table-bordered">
+      <tr>
+        <th class="tg-0lax"></th>
+        <th class="tg-0lax">LUNES</th>
+        <th class="tg-0lax">MARTES</th>
+        <th class="tg-0lax">MIÉRCOLES</th>
+        <th class="tg-0lax">JUEVES</th>
+        <th class="tg-0lax">VIERNES</th>
+      </tr>
+      <tr>
+        <td class="tg-0lax">8:30</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax" rowspan="9">
+          Concurso de Programación Competitiva:
+          <ul>
+          <li>Avanzado</li>
+          <li>Principiante</li>
+          </ul>
+          
+          </td>
+        <td class="tg-0lax" rowspan="9">
+          Concursos:
+          <ul>
+          <li>Dota 2</li>
+          <li>Just Dance</li>
+          </ul>
+          Demoday
+        <td class="tg-0lax" rowspan="3">Mejores Trabajos de Pregrado</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">9:00</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">9:30</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">10:00</td>
+        <td class="tg-0lax">Brindis</td>
+        <td class="tg-0lax" rowspan="6">
+          Invitados:
+          <ul>
+            <li>Incubadora JAKU UNSA</li>
+            <li>Kenny Lazo - Code en mi Cole</li>
+          </ul>
+          
+        </td>
+        <td class="tg-0lax" rowspan="3">Mesa Redonda: CS 10 años después</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">10:30</td>
+        <td class="tg-0lax" rowspan="2">Inauguración</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">11:00</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">11:30</td>
+        <td class="tg-0lax" rowspan="2">Charla Plenaria</td>
+        <td class="tg-0lax" rowspan="2">Cierre </td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">12:00</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">12:30</td>
+        <td class="tg-0lax"></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">13:00</td>
+        <td class="tg-amwm" colspan="4" rowspan="5">ALMUERZO</td>
+        <td class="tg-0lax" rowspan="10">
+          Confraternización
+          <ul>
+            <li>Almuerzo CS</li>
+            <li>Futbol</li>
+            <li>Voley</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">13:30</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">14:00</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">14:30</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">15:00</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">15:30</td>
+        <td class="tg-0lax" rowspan="5">
+          <ul>
+          <li>Eber Huanca Cayo</li>
+          </ul>      
+        </td>
+        <td class="tg-0lax" rowspan="5">
+          Exposiciones Docentes :
+          <ul>
+            <li>Por confirmar</li>
+          </ul>
+        </td>
+        <td class="tg-0lax" rowspan="5">
+          Exposiciones Docentes :
+          <ul>
+            <li>Por confirmar</li>
+          </ul>
+        </td>
+        <td class="tg-0lax" rowspan="5">Exalumnos</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">16:00</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">16:30</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">17:00</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">17:30</td>
+      </tr>
+
+    </table>
+  </div>
+</div>
+
+
+
+
       <div class="container">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-7 text-center">
-            <h2>Semana de la Computación</h2>
-            <p class="lead">Organizado por la escuela profesional de Ciencia de la Computación de la Universidad Nacional de San Agustín</p>
-          </div>
-        </div>
           <h3>Participa en los eventos y concursos</h3>
           <br>
-          <table class="table">
+
+          <table class="tg table">
             <thead>
               <tr>
                 <th>Evento</th>
-                <th>Fecha</th>
                 <th>Formulario</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td>Exposiciones</td>
-                <td>Jueves 18 (Por Confirmar)</td>
+                <td>Exposiciones y proyectos</td>
                   <td><a href="https://goo.gl/forms/SEjPjaMAMU12uEiC3" target="_blank"> Ir al Formulario</a></td>
               </tr>
               <tr>
                 <td>Concurso de Programación Competitiva</td>
-                <td>Miercoles 17</td>
                 <td><a href='https://goo.gl/forms/eSZbXmg1hVgg10FT2' target="_blank"> Ir al Formulario</a></td>
               </tr>
               <tr>
                 <td>Concurso de Dota 2</td>
-                <td>Viernes 18</td>
                 <td> <a href="https://goo.gl/forms/R4ICY2kbStTbJf3l2" target="_blank">Ir al Formulario</a></td>
               </tr>
             </tbody>
@@ -95,65 +260,12 @@
           <hr>
           <br>
           <br>
-          <div class="row justify-content-center mb-5">
-          <div class="col-md-7 text-center">
-            <h2>Invitados</h2>
-            <p class="lead"></p>
-          </div>
-        </div>
+         
           
-        <section class="school-features text-dark d-flex">            
-          <div class="inner">
-            <div class="media d-block feature text-center">
-              <img src="" alt="Invitado 1" class="mb-3">
-              <div class="media-body">
-                <h3 class="mt-0">Abraham Dávila</h3>
-                <!--
-                  <p class="instructor-meta">WordPress Expert</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
-                -->
-              </div>
-            </div>
-
-            <div class="media d-block feature text-center">
-              <img src="" alt="Invitado 2" class="mb-3">
-              <div class="media-body">
-                <h3 class="mt-0">Ernesto Cuadros</h3>
-                <!--
-                  <p class="instructor-meta">WordPress Expert</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
-                -->
-              </div>
-            </div>
-
-            <div class="media d-block feature text-center">
-              <img src="" alt="Invitado 3" class="mb-3">
-              <div class="media-body">
-                <h3 class="mt-0">Erick Gomez</h3>
-                <!--
-                  <p class="instructor-meta">WordPress Expert</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
-                -->
-              </div>
-            </div>
-
-
-            <div class="media d-block feature text-center">
-              <img src="" alt="Ivitado 4" class="mb-3">
-              <div class="media-body">
-                <h3 class="mt-0">Renzo Mora</h3>
-                <!--
-                  <p class="instructor-meta">WordPress Expert</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!</p>
-                -->
-              </div>
-            </div>
-          </div>
-        </section>
-
+       
 
       </div>
-    </section>
+    
 
 
 

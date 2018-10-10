@@ -17,6 +17,8 @@ Route::get('/','dashboardController@index');
 Route::group(['prefix'=>'blog'],function()
 {
     Route::get('/',  'blogController@index' );
+    Route::get('/{url}',  'blogController@postRequest' );
+
 });
 
 Route::group(['prefix'=>'resources'],function()

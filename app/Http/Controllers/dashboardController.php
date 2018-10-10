@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace webCS\Http\Controllers;
 
 use Illuminate\Http\Request;
 
@@ -9,6 +9,7 @@ class dashboardController extends Controller
 
 	public function index()
 	{
-		return view("index");
+		$posts=\webCS\Post::All();
+		return view("index",compact('posts'));
 	}
 }

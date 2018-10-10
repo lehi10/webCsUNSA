@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace webCS\Http\Controllers;
 
 use Illuminate\Http\Request;
 
@@ -10,4 +10,13 @@ class blogController extends Controller
 	{
 		return view("blog/index");
 	}
+
+	public function postRequest(Request $request)
+	{
+		$urlIndex = $request->url;
+
+		return view("blog/post");
+	}
+
+	
 }
