@@ -41,6 +41,9 @@ $app->singleton(
     webCS\Exceptions\Handler::class
 );
 
+
+
+
 /*
 |--------------------------------------------------------------------------
 | Return The Application

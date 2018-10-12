@@ -29,6 +29,8 @@ Route::group(['prefix'=>'resources'],function()
 Route::group(['prefix'=>'events'],function()
 {
     Route::get('/',  'eventsController@index' );
+    Route::get('/generateQr',  'eventsController@generateQr' );
+    Route::get('/downloadQr',  'eventsController@downloadQr' );
 });
 
 Route::group(['prefix'=>'research'],function()
