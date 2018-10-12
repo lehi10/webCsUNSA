@@ -2,7 +2,18 @@
 
 @section('title','Semana de la Computación')
 
+@section('scripts')
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126304326-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-126304326-1');
+</script>
+
+@endsection
 
 
 @section('body')
@@ -16,7 +27,7 @@
         </center>
   </div>
 </section>
-
+get
 
 <div class="container" style="padding:30px;">
   <h2>Registro para alumnos UNSA</h2>

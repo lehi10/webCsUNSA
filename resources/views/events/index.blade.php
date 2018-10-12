@@ -57,6 +57,14 @@
   <p class="paragraph" >Este es el primer año en el que se lleva a cabo La Semana de la Computación, y se espera que se realice cada año.</p>
   <hr>
 
+  <h3>¿Eres estudiante CS-UNSA?</h3>
+  <p class="paragraph" >Ingresa al siguiente enlace para descargar tu tarjeta de asistencia, esta sirve para que se registre tu asistencia en cada las charlas. Un grupo de alumnos estarán registrando la asistencia, solo deberas acercar el código Qr generado a la camara de los encargados y tu asistencia será registrada.
+  </p>
+
+  
+
+<hr>
+
   <h2>CRONOGRAMA</h2>
   
   
@@ -106,13 +114,7 @@ table td:nth-child(6) {
         <td class="tg-0lax"></td>
         <td class="tg-0lax"></td>
         <td class="tg-0lax" rowspan="9">
-          Concurso de Programación Competitiva:
-          <ul>
-          <li>Avanzado</li>
-          <li>Principiante</li>
-          </ul>
-          
-          </td>
+          Exposiciones Docentes:
         <td class="tg-0lax" rowspan="9">
           Concursos:
           <ul>
@@ -140,7 +142,9 @@ table td:nth-child(6) {
           <ul>
             <li>Incubadora JAKU UNSA</li>
             <li>Kenny Lazo - Code en mi Cole</li>
+            <li>José Ochoa</li>
           </ul>
+
           
         </td>
         <td class="tg-0lax" rowspan="3">Mesa Redonda: CS 10 años después</td>
@@ -192,21 +196,29 @@ table td:nth-child(6) {
       <tr>
         <td class="tg-0lax">15:30</td>
         <td class="tg-0lax" rowspan="5">
+          Invitados especiales
           <ul>
           <li>Eber Huanca Cayo</li>
+          <li>Abraham Davida</li>
+          <li>Renzo Mora</li>
+          
           </ul>      
         </td>
         <td class="tg-0lax" rowspan="5">
           Exposiciones Docentes :
           <ul>
-            <li>Por confirmar</li>
+            
           </ul>
         </td>
         <td class="tg-0lax" rowspan="5">
-          Exposiciones Docentes :
+          Concurso de Programación Competitiva:
           <ul>
-            <li>Por confirmar</li>
+          <li>Avanzado</li>
+          <li>Principiante</li>
           </ul>
+          
+          </td>
+          
         </td>
         <td class="tg-0lax" rowspan="5">Exalumnos</td>
       </tr>
