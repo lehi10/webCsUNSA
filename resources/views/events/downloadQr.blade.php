@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>Semana de la Computación</title>
   <meta charset="utf-8style="width:105mm;height:148mm"
 ">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +26,7 @@ body{margin:0px;}
 <div class="container">
 <div class="row">
 <h3><strong> SEMANA DE LA COMPUTACIÓN 2018</strong></h3>
-<h4>Escuela Profesinoal de Ciencia de la Computación</h4>
+<h4>Escuela Profesional de Ciencia de la Computación</h4>
 <hr>
   
   <div class="col-xs-4">
