@@ -38,10 +38,10 @@
 
 @section('body')
 
-<section  style="background-image: url(images/banners/science.jpg);">
+<section  style="background-image: url(/images/banners/science.jpg);">
   <div style="padding:15px;" class="row ">  
         <center>
-          <img src="images/cslogos/logoDarkBackground.png" class="logoImg">
+          <img src="/images/cslogos/logoDarkBackground.png" class="logoImg">
           <h2 class="textWhite">Semana de la Computación </h2>
           <strong><h2 class="textWhite" id="countdown"></h2></strong>
         </center>
@@ -70,174 +70,173 @@
   
 
 <style type="text/css">
-
-table td:first-child {
-	width: 5%;
-}
- 
-table td:nth-child(2) {
-	width: 19%;
-}
- 
-table td:nth-child(3) {
-	width: 19%;
-}
-table td:nth-child(4) {
-	width: 19%;
-}
-table td:nth-child(5) {
-	width: 19%;
-}
-table td:nth-child(6) {
-	width: 19%;
-}
-
-.tg  {border-collapse:collapse;border-spacing:0;  }
-.tg td{font-family:Montserrat, sans-serif;font-size:15px;padding:10px 5px;;overflow:hidden;word-break:normal;}
-.tg th{font-family:Montserrat, sans-serif;font-size:17px;font-weight:bold;padding:10px 5px;;overflow:hidden;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:center}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:center}
-
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-  <div class="table-responsive">
-    <table class="tg  table-bordered">
-      <tr>
-        <th class="tg-0lax"></th>
-        <th class="tg-0lax">LUNES</th>
-        <th class="tg-0lax">MARTES</th>
-        <th class="tg-0lax">MIÉRCOLES</th>
-        <th class="tg-0lax">JUEVES</th>
-        <th class="tg-0lax">VIERNES</th>
-      </tr>
-      <tr>
-        <td class="tg-0lax">8:30</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-0lax"></td>
-        <td class="tg-0lax" rowspan="9">
-          Exposiciones Docentes:
-        <td class="tg-0lax" rowspan="9">
-          Concursos:
-          <ul>
-          <li>Dota 2</li>
-          <li>Just Dance</li>
-          </ul>
-          Demoday
-        <td class="tg-0lax" rowspan="3">Mejores Trabajos de Pregrado</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">9:00</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">9:30</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">10:00</td>
-        <td class="tg-0lax">Brindis</td>
-        <td class="tg-0lax" rowspan="6">
-          Invitados:
-          <ul>
-            <li>Incubadora JAKU UNSA</li>
-            <li>Kenny Lazo - Code en mi Cole</li>
-            <li>José Ochoa</li>
-          </ul>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky">LUNES</th>
+    <th class="tg-0pky">MARTES</th>
+    <th class="tg-0pky">MIÉRCOLES</th>
+    <th class="tg-0pky">JUEVES</th>
+    <th class="tg-0pky">VIERNES</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">08:30</td>
+    <td class="tg-0pky" rowspan="3"></td>
+    <td class="tg-0pky" rowspan="3"></td>
+    <td class="tg-0pky" rowspan="9">
+      <strong>Exposiciones Docentes:</strong>
+      
+        <li>8:30-10:00 Ernesto Cuadros</li>
+        <li>10:00-10:30 TUTORIA</li>
+        <li>10:30-11:00 Edwar Hinojosa</li>
+        <li>11:00-11:30 Cristian Portugal</li>
+        <li>11:30-12:00 Edgar Sarmiento</li>
+        <li>12:00-12:30 Alvaro Mamani</li>
+        <li>12:30-13:00 Video (Lehi)</li>
+      
+    </td>
+    <td class="tg-0pky" rowspan="8">		
+      <strong>Concursos</strong>
+      
+        <li>Dota2</li>
+        <li>Just Dance</li>
+        <li>Smash Bros</li>
+      
+    </td>
+    <td class="tg-0pky" rowspan="4">
+      <strong>Proyectos Pre-grado</strong>
+      <li>8:30-9:00 Dydier Sullca - Juego de Memoria</li>
+      <li>9:00-9:30 Alexander Apaza - Cuanto me Falta</li>
+      <li>9:30-10:00 Santiago Pancca - Simulación de Sismos con Realidad Virtual</li>
+      <li>10:00-10:30 Alexis , Cristian y Diego Extracción de Fondo de Video</li>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">09:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">09:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:00</td>
+    <td class="tg-0pky" rowspan="3">
+      <strong> Inauguración</strong>
+    </td>
+    <td class="tg-0pky" rowspan="6">
+      <strong>Empresas, emprendimiento:</strong>
+      
+        <li>10:00-10:20 Video de egresados</li>
+        <li>10:20-11:00 Cesar Juárez</li>
+        <li>11:00-12:00 Keny Lazo CEO Code en mi Cole</li>
+        <li>12:00-13:00 Jean Luis Gelot. (Camara Comercio)</li>
+      
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:30</td>
+    <td class="tg-0pky" rowspan="3">
+      <strong>Mesa Redonda</strong> <br>
+      10 años despues
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:30</td>
+    <td class="tg-0pky" rowspan="3">
+      <strong>Charla Plenaria</strong><br>
+      Edwar H. - Acreditacion
+      </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:00</td>
+    <td class="tg-0pky" rowspan="2"><strong>CIERRE</strong></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:30</td>
+    <td class="tg-0pky">FOTOS CS</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">13:00</td>
+    <td class="tg-c3ow" colspan="4" rowspan="4">
+    <strong>ALMUERZO</strong>
+    </td>
+    <td class="tg-c3ow" rowspan="11">
+      <strong>Confraternización</strong>
+        <li>Futbol</li>
+        <li>Voley</li>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">13:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:00</td>
+    <td class="tg-0pky" rowspan="5">
+      <strong>Exposición de invitados:</strong>
+      <li>3:00-3:40 Ebert Huanca</li>
+      <li>3:40-4:30 Julio Santiestevan</li>
+      <li>4:30-5:00 Video de Egresados</li>
+    </td>
+    <td class="tg-0pky" rowspan="7">
+      <strong>Exposiciones Docentes: </strong>
+      
+      <li>3:00-3:30 Ernesto Suarez</li>
+      <li>3:30-4:00 Edward Hinojosa</li>
+      <li>4:00-4:30 Tony</li>
+      <li>4:30-5:00 Roxana Flores</li>
+      <li>5:00-5:30 Vicente</li>
+      <li>5:30-6:00 Christian Revilla</li>
+      
+      
+    </td>
+    <td class="tg-0pky" rowspan="7">Concurso de Programación</td>
+    <td class="tg-0pky" rowspan="7">
+      <strong>Momento alumnos y exalumnos:</strong>
+      <li>3:00-3:30 Grimaldo y Lorena</li>
+      <li>3:30-4:00 Olenka y Rosa</li>
+      <li>4:00-4:30 Diego Charrez</li>
+      <li>4:30-5:00 Christofer</li>
+      <li>5:00-5:30 Edi Cáceres</li>
+      <li>5:30-6:00 Prof. Wilber - Romulo</li>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">17:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">17:30</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">18:00</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</table>
 
-          
-        </td>
-        <td class="tg-0lax" rowspan="3">Mesa Redonda: CS 10 años después</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">10:30</td>
-        <td class="tg-0lax" rowspan="2">Inauguración</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">11:00</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">11:30</td>
-        <td class="tg-0lax" rowspan="2">Charla Plenaria</td>
-        <td class="tg-0lax" rowspan="2">Cierre </td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">12:00</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">12:30</td>
-        <td class="tg-0lax"></td>
-        <td class="tg-0lax"></td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">13:00</td>
-        <td class="tg-amwm" colspan="4" rowspan="5">ALMUERZO</td>
-        <td class="tg-0lax" rowspan="10">
-          Confraternización
-          <ul>
-            <li>Almuerzo CS</li>
-            <li>Futbol</li>
-            <li>Voley</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">13:30</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">14:00</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">14:30</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">15:00</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">15:30</td>
-        <td class="tg-0lax" rowspan="5">
-          Invitados especiales
-          <ul>
-          <li>Eber Huanca Cayo</li>
-          <li>Abraham Davida</li>
-          <li>Renzo Mora</li>
-          
-          </ul>      
-        </td>
-        <td class="tg-0lax" rowspan="5">
-          Exposiciones Docentes :
-          <ul>
-            
-          </ul>
-        </td>
-        <td class="tg-0lax" rowspan="5">
-          Concurso de Programación Competitiva:
-          <ul>
-          <li>Avanzado</li>
-          <li>Principiante</li>
-          </ul>
-          
-          </td>
-          
-        </td>
-        <td class="tg-0lax" rowspan="5">Exalumnos</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">16:00</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">16:30</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">17:00</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">17:30</td>
-      </tr>
 
-    </table>
-  </div>
-</div>
 
 
 
@@ -246,7 +245,7 @@ table td:nth-child(6) {
           <h3>Participa en los eventos y concursos</h3>
           <br>
 
-          <table class="tg table">
+          <table class=" table">
             <thead>
               <tr>
                 <th>Evento</th>
