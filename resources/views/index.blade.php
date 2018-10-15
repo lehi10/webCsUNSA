@@ -47,10 +47,6 @@
         <h3>Anuncios</h3>
         <hr>
 
-
-
-
-
         <h3>Publicaciones Recientes</h3>
         <hr>
     
@@ -103,9 +99,9 @@
         <hr>
         </div>
 
-        <div class="row-fluid">
+        <div class="row-fluid">Torne
             <h4><strong>Torneo de Dota 2</strong></h4>
-            <span class="glyphicon glyphicon-calendar"></span> 19-Octubre-2018
+            <span class="glyphicon glyphicon-calendar"></span> 18-Octubre-2018
             <hr>
         </div>
     </div>
