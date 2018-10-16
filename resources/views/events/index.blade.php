@@ -201,7 +201,7 @@
         
         <li>3:00-3:30 Ernesto Suarez</li>
         <li>3:30-4:00 Edward Hinojosa</li>
-        <li>4:00-4:30 Tony</li>
+        <li>4:00-4:30 Jorge Thony Ramírez Ticona</li>
         <li>4:30-5:00 Roxana Flores</li>
         <li>5:00-5:30 Vicente</li>
         <li>5:30-6:00 Christian Revilla</li>
