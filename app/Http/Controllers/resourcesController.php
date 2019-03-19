@@ -10,4 +10,17 @@ class resourcesController extends Controller
 	{
 		return view("resources/index");
 	}
+
+  public function getConstancia(Request $request)
+  {
+    if(isset($request['cui']))
+    {
+        $cui=$request['cui'];
+        return view("resources.constancia",['cui'=>$cui]);
+    }
+    else
+      return view("resources.constancia");
+
+  }
+
 }

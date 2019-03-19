@@ -24,17 +24,15 @@ Route::group(['prefix'=>'blog'],function()
 Route::group(['prefix'=>'resources'],function()
 {
     Route::get('/',  'resourcesController@index' );
+    Route::get('/constancia', 'resourcesController@getConstancia');
 });
 
 Route::group(['prefix'=>'events'],function()
 {
     Route::get('/',  'eventsController@index' );
-    Route::get('/generateQr',  'eventsController@generateQr' );
-    Route::get('/downloadQr',  'eventsController@downloadQr' );
 });
 
 Route::group(['prefix'=>'research'],function()
 {
     Route::get('/',  'researchController@index' );
 });
-    

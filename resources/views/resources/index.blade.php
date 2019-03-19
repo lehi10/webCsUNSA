@@ -3,18 +3,18 @@
 @section('title','School Of Computer Science UNSA')
 
 
-@section('blog','active')
+@section('resources','active')
 
 @section('body')
-   
-    <div class="container bg-3">    
+
+    <div class="container bg-3">
     <div class="row">
         <div class="col-sm-12">
             <h1>RECURSOS</h1>
             [En contrucción]
             <hr>
-            
-            
+
+
             <div class="row">
                 <h2>Plan Curricular</h2>
                 <div class="col-sm-4 text-center">
@@ -29,22 +29,22 @@
                 </div>
             </div>
             <hr>
-                
+
             <div class="row">
                 <h2>Titutlo 2</h2>
-                <div class="col-xs-4"> 
+                <div class="col-xs-4">
                     <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
                 </div>
 
-                <div class="col-xs-4"> 
+                <div class="col-xs-4">
                     <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
                     <hr>
                 </div>
 
-                <div class="col-xs-4"> 
+                <div class="col-xs-4">
                     <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
                     <hr>
-                </div>                
+                </div>
             </div>
 
             <div class="row">
@@ -60,16 +60,16 @@
 
                 <div class="tab-content">
                     <div id="linux" class="tab-pane fade in active">
-                        
+
                         <div class="col-sm-12">
-                            <h3>Welcome to Linux</h3> 
+                            <h3>Welcome to Linux</h3>
                             <div class="col-sm-4">
                                 <img src="/images/linux.png" style=" padding:15px 15px 15px;" width="80%"></img>
                             </div>
-                            
+
                             <div class="col-sm-8">
-                                
-                                <p></p> 
+
+                                <p></p>
                                 <table class="table">
                                 <thead>
                                 <tr>
@@ -110,13 +110,13 @@
                                         </a>
                                     </td>
                                 </tr>
-                                
+
                                 </tbody>
-                            </table>      
+                            </table>
                             </div>
                         </div>
 
-                        
+
                     </div>
                     <div id="home" class="tab-pane fade ">
                         <h3>LaTeX</h3>
@@ -130,16 +130,14 @@
                     </div>
                     <div id="menu3" class="tab-pane fade">
                         <h3>Arte Computacional</h3>
-                        
+
                     </div>
                 </div>
 
             </div>
-        </div>        
+        </div>
     </div>
     </div>
 
 
 @endsection
-
-
