@@ -51,6 +51,7 @@
             <li class="@yield('blog')">       <a href="/blog">Blog</a></li>
             <li class="@yield('resources')">  <a href="/resources">Resources</a></li>
             <li class="@yield('events')">     <a href="/events">Eventos</a></li>
+            <li class="@yield('gossip')">     <a href="http://gossip.csunsa.win">Gossip</a></li>
           </ul>
         </div>
       </div>
