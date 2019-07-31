@@ -14,6 +14,7 @@
   <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
   <link rel="stylesheet" href="/css/mystyle.css">
+  <link rel="stylesheet" href="/css/GoogleCalendar.css">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126304326-1"></script>
@@ -47,11 +48,25 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav navbar-right">
+            
             <li class="@yield('home')">       <a href="/">Inicio</a></li>
             <li class="@yield('blog')">       <a href="/blog">Blog</a></li>
-            <li class="@yield('resources')">  <a href="/resources">Resources</a></li>
+            
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Recursos
+              <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/resources/schedule">Horarios</a></li>
+                <li><a href="/resources/library">Biblioteca</a></li>
+                <li><a href="/resources/material">Material</a></li>
+              </ul>
+            </li>
             <li class="@yield('events')">     <a href="/events">Eventos</a></li>
-            <li class="@yield('gossip')">     <a href="http://gossip.csunsa.win">Gossip</a></li>
+            <!--
+            <li class="@yield('resources')">  <a href="/resources">Recursos</a></li>
+            -->
+            
+            
           </ul>
         </div>
       </div>
@@ -65,7 +80,7 @@
 
     <footer class="container-fluid-inverse text-center">
       @yield('footer')
-      <p>School of Computer Science - UNSA 2018</p>
+      <p>School of Computer Science - UNSA 2019</p>
     </footer>
 
 

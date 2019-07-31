@@ -1,0 +1,180 @@
+/* Utilize Google WebFonts in your FeedWind widget */
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+/* Styling for the Google Calendar feed container – NOTE: the background-color affects the footer background.*/
+#fw-gc-container {
+text-align: left;
+padding: 0px;
+font-family: ‘Noto Sans’, Helvetica, sans-serif;
+box-sizing: border-box;
+background-color:#4e82d0;
+height:auto;
+}
+
+/* Styling for the header container*/
+#header {
+margin: 10px 20px 10px 20px;
+color: #fff;
+font-size: 18px;
+background-color: #888;
+}
+
+/* Styling for an individual calendar event item */
+
+.fw-gc-feed-item {
+display:block;
+}
+
+/* Styling for the Main Calendar Title in the header container*/
+.fw-gc-feed-title {
+margin: 10px 20px;
+font-weight: bold;
+word-wrap: break-word;
+text-align: center;
+text-shadow: 1px 1px 0 blue;
+display:block;
+}
+
+/* Styling for the Main Title link in the header container*/
+.fw-gc-feed-title a:link {
+color: #fef;
+text-decoration: none;
+}
+
+/* Styling for a “visited” Main Feed Title link in the header container*/
+.fw-gc-feed-title a:visited {
+color: #ddd;
+text-decoration: none;
+}
+
+/* Styling for a Main Title link on “mouseover” (also known as “hover”) in the header container*/
+.fw-gc-feed-title a:hover {
+color: #fff;
+text-decoration: none;
+}
+
+/* Styling for an “active” Main Title link in the header container*/
+.fw-gc-feed-title a:active {
+color: #fff;
+text-decoration: none;
+}
+
+/* Styling for the feed body (i.e all Feed Items) container. */
+/* WARNING: be careful adding Left or Right Padding as you can lose the scrollbar
+when the L/R padding is set to more than 8px; the scrollwheel on a mouse still works however,
+but the scrollbar can disappear after 8px of padding either side. Use Margins instead add space around the content container.*/
+
+/* Styling for the Event Feed Items’ content module – i.e. the body container */
+.fw-gc-feed-item-content-module {
+margin: 10px 10px 10px 0;
+padding: 10px;
+border-bottom: 1px solid #7a86c4;
+border-top: 1px #7a86c4 solid;
+box-shadow: 0 1px 1px #222;
+/* Fallback color */
+background-color:#237ffc;
+/* CSS3 color */
+background-color: rgba(30, 30, 30, 0.6);
+}
+
+/* This is the styling for the Event Item Title in the body container*/
+.fw-gc-feed-item-title {
+display:block;
+}
+
+/* Styling for an “unvisited/unclicked” Event Item Title link in the body container*/
+.fw-gc-feed-item-title a:link {
+margin: 20px 0 10px 0!important;
+color: #8FAF10;
+text-decoration: none;
+font-size: 16px;
+}
+
+/* Styling for a “visited/clicked” Event Item Title link in the body container*/
+.fw-gc-feed-item-title a:visited {
+color: #39f;
+padding: 20px 0 0 0;
+text-decoration: none;
+}
+/* Styling for an Event Item Title link on “mouseover” (also known as “hover”) in the body container*/
+.fw-gc-feed-item-title a:hover {
+color: #39c;
+text-decoration: none;
+padding: 20px 0 0 0;
+}
+/* Styling for an active Event Item Item Title link in the body container*/
+.fw-gc-feed-item-title a:active {
+color: #09f;
+text-decoration: none;
+padding: 20px 0 0 0;
+}
+
+/* Styling affecting an “unvisited/unclicked” Feed Item anchor for a feed item in the body container*/
+.fw-gc-feed-item-link a{
+color: #123456;
+text-decoration: none;
+}
+
+/* Styling for the Description in a Feed Item (i.e. the text of a Feed Item in Thumbnail mode, or text+images in Full HTML mode)*/
+.fw-gc-feed-item-description {
+font-size: 12px;
+text-align: left;
+color: #333;
+word-wrap: break-word;
+text-decoration:none;
+display:block;
+height:60px;
+
+}
+
+/*This is the styling for the clock icon which appears alongside the date. Use display:none!important to remove it (as below) */
+
+.fa.fa-clock-o{
+background: #52ca1d;
+padding: 6px;
+display: none!important;
+color: white;
+width: 15px;
+text-transform: uppercase;
+text-align: center;
+font-size: 16px;
+}
+
+/* Styling for the Date component of Date/time */
+
+.fw-gc-feed-item-date-only {
+background: #52ca1d;
+padding: 6px;
+display: inline-block;
+color: white;
+width: 80px;
+text-transform: uppercase;
+text-align: center;
+font-size: 14px;
+}
+
+/* Styling for the Time component of Date/time */
+
+.fw-gc-feed-item-time-only {
+background: #098e89;
+color: white;
+padding: 6px;
+display: inline-block;
+clear: both;
+width: 40px;
+text-align: center;
+margin-top: -3px;
+}
+
+/* Styling for the whole date/time container */
+
+.fw-gc-feed-item-date {
+padding: 5px 20px 0 20px;
+font-size: 14px;
+color: #929ba3;
+overflow: hidden;
+text-overflow: ellipsis;
+display: inline-table;
+float: right;
+margin-top: -125px;
+}

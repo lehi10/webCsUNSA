@@ -25,6 +25,8 @@ Route::group(['prefix'=>'resources'],function()
 {
     Route::get('/',  'resourcesController@index' );
     Route::get('/constancia', 'resourcesController@getConstancia');
+    Route::get('/schedule', 'resourcesController@getSchedule');
+    Route::get('/library', 'resourcesController@getLibrary');
 });
 
 Route::group(['prefix'=>'events'],function()

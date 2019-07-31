@@ -2,6 +2,9 @@
 
 @section('title','School Of Computer Science UNSA')
 
+@section('scripts')
+
+@endsection
 
 @section('home','active')
 
@@ -80,26 +83,13 @@
 
     </div>
     <div class="col-sm-4">
-    <h2>Calendario</h2>
-    <p>Proximos eventos y actividades</p>
-    <hr>
-        <div class="row-fluid">
-        <h4><strong>Inicio de Clases 2019 Semestre I 2do , 3ro, 4to y 5to</strong></h4>
-            <span class="glyphicon glyphicon-calendar"></span> 18-Marzo-2019
+        <h2>Calendario</h2>
+        <p>Proximos eventos y actividades , ver el Calendario completo haciendo <a href="/events">Click Aquí</a>:</p>
+        <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23A79B8E&amp;ctz=America%2FLima&amp;src=Nm5pa3J2NGltdm11MzYwZXU3aGF0aW1wYzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZXMucGUjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23795548&amp;color=%230B8043&amp;mode=AGENDA&amp;showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showDate=0&amp;showCalendars=0&amp;showTz=0" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+        
+        
         <hr>
-        </div>
-
-        <div class="row-fluid">
-        <h4><strong>Inicio de Clases 1er año Semestre I 2019</strong></h4>
-            <span class="glyphicon glyphicon-calendar"></span> 25-Marzo-2019
-        <hr>
-        </div>
-
-        <div class="row-fluid">
-            <h4><strong>Inicio de convocatoria para elecciones Centro de Estudiantes 2019</strong></h4>
-            <span class="glyphicon glyphicon-calendar"></span> 18-Marzo-2019
-            <hr>
-        </div>
+            
     </div>
 
   </div>

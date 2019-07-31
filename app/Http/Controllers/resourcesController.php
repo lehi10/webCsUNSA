@@ -23,4 +23,13 @@ class resourcesController extends Controller
 
   }
 
+  public function getSchedule()
+	{
+		return view("resources/schedule");
+	}
+
+  public function getLibrary()
+	{
+		return view("resources/library");
+	}
 }

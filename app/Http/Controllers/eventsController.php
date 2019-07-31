@@ -11,6 +11,7 @@ class eventsController extends Controller
 		return view("events/index");
 	}
 	
+	
 	public function generateQr()
 	{
 		return view("events/generateQr");
