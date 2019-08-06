@@ -1,6 +1,6 @@
 @extends('templates.theme')
 
-@section('title','School Of Computer Science UNSA')
+@section('title','Schedule - School Of Computer Science UNSA')
 
 
 @section('resources','active')
