@@ -14,7 +14,6 @@
     <div class="col-sm-8">
         <h2>HORARIOS</h2>
         <hr>
-        <i>Los horarios aún no están disponibles</i>
         <iframe src="https://drive.google.com/embeddedfolderview?id=1wdH4i4fWMgRpXYEqSpvsjxB3rX8bhsE2#grid" width="100%" height="500" frameborder="0"></iframe>
 
         <hr>
