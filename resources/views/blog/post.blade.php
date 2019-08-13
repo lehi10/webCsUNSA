@@ -13,10 +13,23 @@
     <div class="container">    
         <div class="row">
             <div class="col-sm-8">
-                <h1>Titulo</h1>
+                <h1>{{$post->name}}</h1>
+                Categoría : <a href="{{route('category',$post->category->slug)}}"><strong>{{$post->category->name}}</strong></a>
                 <hr>
-                <p>Texto bla bla bla bla</p>
+                @if($post->file)
+                    <img src="{{$post->file}}" class="img-responsive">
+                @endif
+                    <br>
+                    <i>{{$post->excerpt}}</i>
                 <hr>
+                <p>{!! $post->body !!}</p>
+                <hr>
+                Etiquetas: 
+                @foreach($post->tags as $tag)
+                <a href="{{route('tag',$tag->slug)}}">
+                    {{$tag->name}}
+                </a> 
+                @endforeach
                 <h3>Comentarios</h3>
                 <div class="fb-comments" data-href="https://www.facebook.com/csunsa/" data-width="100%" data-numposts="15"></div>
 

@@ -47,39 +47,51 @@
 <div class="container bg-3">
   <div class="row">
     <div class="col-sm-8">
-        <h3>Anuncios</h3>
-        <i>En Contruccion ... </i>
+        
+        <h3>Publicaciones Recientes</h3>
         <hr>
 
-        <h3>Publicaciones Recientes</h3>
-        <i>En Contruccion ... </i>
-        <hr>
+
         @for ($iPost = 0 ; $iPost < count($posts) ; $iPost+=2)
             <div class="col-lg-12">
                 <div class="bannerPost col-sm-6">
-                    <a href="/blog/{{$posts[$iPost]->urlpost}}">
-                        <img src="{{$posts[$iPost]->urlimg}}" class="img-responsive" style="width:100%" alt="Image">
+                        <a href="/blog/post/{{$posts[$iPost]->slug}}">
+                            <img src="{{$posts[$iPost]->file}}" class="img-responsive" style="width:100%" alt="Image">
+                            <h4><strong>{{$posts[$iPost]->name}}</strong></h4>
+                        </a>
+
                         <div class="iconsPost">
                             <span class="glyphicon glyphicon-calendar"></span> {{ date_format($posts[$iPost]->created_at , 'Y-M-d') }}
+                            <br>
+                            <span class="glyphicon glyphicon-th-list"></span> {{ $posts[$iPost]->category->name  }}
                         </div>
-                        <h4><strong>{{$posts[$iPost]->title}}</strong></h4>
+                        <p>{{$posts[$iPost]->excerpt}}</p>
                         <hr>
-                    </a>
+                    
                 </div>
 
                 @if (  $iPost+1 < count($posts))
                     <div class="bannerPost col-sm-6">
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                        <a href="/blog/post/{{$posts[$iPost+1]->slug}}">
+                            <img src="{{$posts[$iPost+1]->file}}" class="img-responsive" style="width:100%" alt="Image">
+                            <h4><strong>{{$posts[$iPost+1]->name}}</strong></h4>
+                        </a>
                         <div class="iconsPost">
-                            <span class="glyphicon glyphicon-calendar"></span> 15 Oct 2018
+                            <span class="glyphicon glyphicon-calendar"></span> {{ date_format($posts[$iPost+1]->created_at , 'Y-M-d') }}
+                            <br>
+                            <span class="glyphicon glyphicon-th-list"></span> {{ $posts[$iPost+1]->category->name  }}
                         </div>
-                        <h4><strong>{{$posts[$iPost+1]->title}}</strong></h4>
+                        
+                        <p>{{$posts[$iPost]->excerpt}}</p>
                         <hr>
+                    
                     </div>
                 @endif
-
+            
             </div>
         @endfor
+        
+        {{$posts->render()}}
 
     </div>
     <div class="col-sm-4">

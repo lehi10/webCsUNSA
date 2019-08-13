@@ -18,7 +18,7 @@
             <div class="row">
                 <h2>Plan Curricular</h2>
                 <div class="col-sm-4 text-center">
-                    <img src="/images/cslogos/logocs.png" width="50%" ></img>
+                    <img src="/images/cslogos/logocs.png" width="50%" >
                 </div>
                 <div class="col-sm-8">
                     <ul class="list-group">
