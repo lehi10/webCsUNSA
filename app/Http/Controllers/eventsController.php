@@ -11,7 +11,7 @@ class eventsController extends Controller
 {
     public function index()
 	{
-		$category   = Category::where('slug',"voluptas-consequatur-quia")->pluck('id')->first();
+		$category   = Category::where('slug',"events")->pluck('id')->first();
         $posts       = Post::where('category_id',$category)
                             ->orderBy('id','DESC')->where('status','PUBLISHED')->paginate(8);
             
