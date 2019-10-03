@@ -2,19 +2,27 @@
 
 namespace webCS\Http\Controllers;
 
+use webCS\Post;
+use webCS\Category;
+
 use Illuminate\Http\Request;
 
 class eventsController extends Controller
 {
     public function index()
 	{
-		return view("events/index");
+		$category   = Category::where('slug',"voluptas-consequatur-quia")->pluck('id')->first();
+        $posts       = Post::where('category_id',$category)
+                            ->orderBy('id','DESC')->where('status','PUBLISHED')->paginate(8);
+            
+
+		return view("events/index",compact('posts'));
 	}
 	
 	
 	public function generateQr()
 	{
-		return view("events/generateQr");
+		return view("events/generateqr");
 	}
 	
 	public function downloadQr(Request $request)

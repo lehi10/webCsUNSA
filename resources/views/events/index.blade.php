@@ -6,7 +6,7 @@
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Aug 19, 2019 07:00:00").getTime();
+var countDownDate = new Date("Oct 7, 2019 10:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -43,30 +43,75 @@ var x = setInterval(function() {
         <center>
           <img src="/images/cslogos/logoDarkBackground.png" class="logoImg">
           
-          <h2 class="textWhite">Inicio De Clases Semestre B - 2019</h2>
+          <h2 class="textWhite">Inicio De La Jornada de Ciencia de la Computación</h2>
           <strong><h2 class="textWhite" id="countdown"></h2></strong>
         </center>
   </div>
 </section>
 
 
-<div class="container" style="padding:30px;">
-  <h2>Calendario </h2>
-  <hr>
-  <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLima&amp;src=Nm5pa3J2NGltdm11MzYwZXU3aGF0aW1wYzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZXMucGUjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;color=%230B8043&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showTz=0&amp;showCalendars=0&amp;hl=en" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
+<div class="container bg-3">
+  <div class="row">
+    <div class="col-sm-9">
+        <div>
+        <h3>Descarga tu Tarjeta de Asistencia</h3>
+        <h4>Solo para estudiantes de pregrado de Ciencia de la Computación UNSA</h4>
+        <p>Ingresa tu CUI y descarga una tarjeta que tiene un código QR que te servirá para registrar la hora de ingreso a las charlas. No olvides imprimirla o descargarla en tu celular y llevarla cada día que dure en evento.</p>
+        <br>
+          <form action="events/downloadQr">
+          <div class="form-group">
+            <label class="control-label col-sm-2" for="CUI">Ingresa tu CUI :</label>
+            <div class="col-sm-10">
+              <input name="cui" type="text" class="form-control" id="CUI" placeholder="CUI">
+              <br>
+              <button type="submit" class="btn btn-default">Submit</button>
+            </div>
+          </div>
+          </form>
+        </div>
 
-  <hr>
-    <h3>Proximos Eventos</h3>
-    <h4>Fechas por definir</h4>
+        <h3>Publicaciones</h3>
+        <hr>
+
+      @foreach($posts as $post)
+        <div class="col-sm-12">
+          <div class="row" >
+          
+
+            <div class="col-sm-8">
+              <div class="well"  >
+                <h4 style="cursor: pointer;" onclick="window.location='{{route('post',$post->slug)}}';"  >{{$post->name}}</h4>
+                <span class="glyphicon glyphicon-calendar"></span>
+                {{  date("d-M-Y", strtotime($post->created_at)) }}
+                <br>
+                <strong>Categoría : </strong>
+                <a href="{{ route('category',$post->category->slug) }}"><i>{{$post->category->name}}</i></a>
+                <hr>
+                <p>{{$post->excerpt}}</p> 
+               
+              </div>
+            </div>
+            <div class="col-sm-4 " >
+              <div class="well ">
+                
+                <img  src="{{$post->file}}" width="100%">
+              </div>
+            </div>
+          </div>
+        </div>
+      @endforeach
+      {{ $posts->render() }}
     
-    <li>Paseo de Escuela 2019</li>
-    <li>Semana de la Computación 2019</li>
-    <li>Concurso de programación competitiva ACM <i>(Lugar por confirmarse)</i></li>
-    <li>Evento Cultural por fin de año <i>(Por confirmarse)</i></li>
-
-    
-
-
+      
+    </div>
+    <div class="col-sm-3 ">
+    <h3>Página en Facebook</h3>
+    <hr>
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcsunsa%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1008206179314313" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+  </div>
 </div>
+
+
 @endsection

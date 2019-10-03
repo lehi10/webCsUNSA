@@ -39,10 +39,6 @@ Route::group(['prefix'=>'admin'],function()
 
 
 
-
-
-
-
 Route::group(['prefix'=>'resources'],function()
 {
     Route::get('/',  'resourcesController@index' );
@@ -54,6 +50,7 @@ Route::group(['prefix'=>'resources'],function()
 Route::group(['prefix'=>'events'],function()
 {
     Route::get('/',  'eventsController@index' );
+    Route::get('/downloadQr','eventsController@downloadQr');
 });
 
 Route::group(['prefix'=>'research'],function()
@@ -64,3 +61,4 @@ Route::group(['prefix'=>'research'],function()
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
