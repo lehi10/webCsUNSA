@@ -54,7 +54,10 @@ class ApiController extends Controller
                 
             ]);
         }
+    }
 
-        
+    public function register(Request $request)
+    {
+
     }
 }

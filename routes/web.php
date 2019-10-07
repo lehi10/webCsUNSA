@@ -62,4 +62,11 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Route::get('/api','ApiController@attendance');
+
+
+
+Route::group(['prefix'=>'api'],function()
+{
+    Route::get('/attendance',  'ApiController@attendance' );
+    Route::get('/registerStudent','ApiController@register');
+});
