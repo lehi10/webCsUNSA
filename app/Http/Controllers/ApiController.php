@@ -101,7 +101,7 @@ class ApiController extends Controller
                     $new_attendance->cui= $cui;
                     $new_attendance->code_day= $codeOfSession;
                     
-                    if($request['turn']==1)
+                    if($request['turn']==true)
                     {
                         $new_attendance->entry_time = $date;
                     }
@@ -117,7 +117,7 @@ class ApiController extends Controller
                     $attendance->cui= $cui;
                     $attendance->code_day= $codeOfSession;
                     
-                    if($request['turn']==1)
+                    if($request['turn']==true)
                     {
                         $attendance->entry_time = $date;
                     }
