@@ -16,11 +16,9 @@ class CreateAttendancesTable extends Migration
         Schema::create('attendances', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('cui');
-            $table->string('name');
-            $table->string('surname');
-            $table->boolean('turn');
-            $table->dateTime('register_date');
-            $table->timestamps();
+            $table->string('code_day');
+            $table->dateTime('entry_time')->nullable();
+            $table->dateTime('exit_time')->nullable();
         });
     }
 

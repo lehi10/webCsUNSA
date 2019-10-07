@@ -16,23 +16,118 @@ class ApiController extends Controller
         return view("api/index");
     }
 
+
+    public function getCodeDay($date)
+    {
+        
+        return $codeOfSession;
+    }
+
+
     public function attendance(Request $request)
     {
-        try
+        //try
         {
             $cui=$request["cui"];
             $student = Student::find($cui);
             
             if(isset($student))
             {
-                
-                $attendance = new Attendance;
-                $attendance->cui=$cui;
-                $attendance->turn=$request['turn'];
-                $attendance->register_date=$request['date'];
-                $attendance->name=$student['name'];
-                $attendance->surname=$student['surname'];
-                $attendance->save();
+                   
+                $date = $request['date'];
+                $unixTimestamp = strtotime($date);
+                $dayOfWeek = date("d", $unixTimestamp);
+                $hourOfDay = date("h", $unixTimestamp);
+
+                $codeOfSession ="";
+
+                if($dayOfWeek==7)
+                {
+                    if($hourOfDay>=8 && $hourOfDay<=12)
+                    {
+                        $codeOfSession="7M";
+                    }
+                    else 
+                    if($hourOfDay>=2 && $hourOfDay<=6)
+                    {
+                        $codeOfSession="7T";
+                    }
+                }
+
+                else if($dayOfWeek==9)
+                {
+                    if($hourOfDay>=8 && $hourOfDay<=12)
+                    {
+                        $codeOfSession="9M";
+                    }
+                    else 
+                    if($hourOfDay>=2 && $hourOfDay<=6)
+                    {
+                        $codeOfSession="9T";
+                    }
+                }
+
+                else if($dayOfWeek==10)
+                {
+                    if($hourOfDay>=8 && $hourOfDay<=12)
+                    {
+                        $codeOfSession="10M";
+                    }
+                    else 
+                    if($hourOfDay>=2 && $hourOfDay<=6)
+                    {
+                        $codeOfSession="10T";
+                    }
+                }
+
+                else if($dayOfWeek==11)
+                {
+                    if($hourOfDay>=8 && $hourOfDay<=12)
+                    {
+                        $codeOfSession="11M";
+                    }
+                    else 
+                    if($hourOfDay>=2 && $hourOfDay<=6)
+                    {
+                        $codeOfSession="11T";
+                    }
+                }                
+
+                $attendance= Attendance::where('cui',(string)$cui)->where('code_day',$codeOfSession)->first();
+
+                if(isset($attendance)==0)
+                {
+                    $new_attendance = new Attendance;
+                    $new_attendance->cui= $cui;
+                    $new_attendance->code_day= $codeOfSession;
+                    
+                    if($request['turn']==true)
+                    {
+                        $new_attendance->entry_time = $date;
+                    }
+                    else
+                    {
+                        $new_attendance->exit_time = $date;
+                    }
+                    
+                    $new_attendance->save();
+                }        
+                else
+                {
+                    $attendance->cui= $cui;
+                    $attendance->code_day= $codeOfSession;
+                    
+                    if($request['turn']==true)
+                    {
+                        $attendance->entry_time = $date;
+                    }
+                    else
+                    {
+                        $attendance->exit_time = $date;
+                    }
+                    $attendance->save();
+                }
+
 
                 return response()->json([
                     'message' =>'OK',
@@ -49,11 +144,11 @@ class ApiController extends Controller
 
             
         }
-        catch(Exception $e)
+        //catch(Exception $e)
         {
             return response()->json([
                 'code' => 500,
-                'message' =>"Error",
+                'message' =>$e->getMessage(),
                 'datos'=> null,
                 'cui'=> $request['cui']
             ]);
