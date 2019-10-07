@@ -9,6 +9,9 @@ use Exception;
 
 class ApiController extends Controller
 {
+    
+    
+
     public function attendance(Request $request)
     {
         try
@@ -51,7 +54,6 @@ class ApiController extends Controller
                 'message' =>"Error",
                 'datos'=> null,
                 'cui'=> $request['cui']
-                
             ]);
         }
     }

@@ -11,7 +11,7 @@ class eventsController extends Controller
 {
     public function index()
 	{
-		$category   = Category::where('slug',"events")->pluck('id')->first();
+		$category   = Category::where('slug',"eventos")->pluck('id')->first();
         $posts       = Post::where('category_id',$category)
                             ->orderBy('id','DESC')->where('status','PUBLISHED')->paginate(8);
             
@@ -34,8 +34,6 @@ class eventsController extends Controller
 		{
 			$apellidos = $alumnos[$cui]['apellidos'];
 			$nombres = $alumnos[$cui]['nombres'];
-			//return view("events/downloadQr",['cui'=>$cui ,'apellidos'=>$apellidos,'nombres'=>$nombres ]);	
-
 			$view =  \View::make('events.downloadQr',['cui'=>$cui,'nombres'=>$nombres,'apellidos'=>$apellidos])->render();
 			$pdf = \App::make('dompdf.wrapper');
 			$pdf->loadHTML($view)->setPaper('a6', 'landscape');
