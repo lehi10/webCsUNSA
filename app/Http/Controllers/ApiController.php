@@ -4,6 +4,7 @@ namespace webCS\Http\Controllers;
 
 use Illuminate\Http\Request;
 use webCS\Attendance;
+use webCS\Student;
 use Exception;
 
 
@@ -68,18 +69,12 @@ class ApiController extends Controller
             if($request['cui']=="" or $request['name']=="" or $request['surname']=="")
                 throw new Exception("Hay datos en blanco");
 
-            $strJsonFileContents = file_get_contents("listaAlumnos.json");
-            $students = json_decode($strJsonFileContents, true);
-            $cui=$request['cui'];
 
-            $newStudent = array();
-            $newStudent['apellidos']=$request['surname'];
-            $newStudent['nombres']=$request['name'];
-            $students[$cui]=$newStudent;
-            
-            $fp = fopen('listaAlumnos.json', 'w');
-            fwrite($fp, json_encode($students));
-            fclose($fp);
+            $student = new Student;
+            $student->id  = $request['cui'];
+            $student->name =$request['name'];     
+            $student->surname = $request['surname'];
+            $student->save();
 
             return response()->json([
                 'code' => 200,

@@ -64,7 +64,6 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 
 
-
 Route::group(['prefix'=>'api'],function()
 {
     Route::get('/attendance',  'ApiController@attendance' );
