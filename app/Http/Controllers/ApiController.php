@@ -43,12 +43,12 @@ class ApiController extends Controller
 
                 if($dayOfWeek==7)
                 {
-                    if($hourOfDay>=8 && $hourOfDay<=12)
+                    if($hourOfDay>=8 && $hourOfDay<=13)
                     {
                         $codeOfSession="7M";
                     }
                     else 
-                    if($hourOfDay>=14 && $hourOfDay<=18)
+                    if($hourOfDay>=14 && $hourOfDay<=20)
                     {
                         $codeOfSession="7T";
                     }
@@ -56,12 +56,12 @@ class ApiController extends Controller
 
                 else if($dayOfWeek==9)
                 {
-                    if($hourOfDay>=8 && $hourOfDay<=12)
+                    if($hourOfDay>=8 && $hourOfDay<=13)
                     {
                         $codeOfSession="9M";
                     }
                     else 
-                    if($hourOfDay>=14 && $hourOfDay<=18)
+                    if($hourOfDay>=14 && $hourOfDay<=20)
                     {
                         $codeOfSession="9T";
                     }
@@ -69,12 +69,12 @@ class ApiController extends Controller
 
                 else if($dayOfWeek==10)
                 {
-                    if($hourOfDay>=8 && $hourOfDay<=12)
+                    if($hourOfDay>=8 && $hourOfDay<=13)
                     {
                         $codeOfSession="10M";
                     }
                     else 
-                    if($hourOfDay>=14 && $hourOfDay<=18)
+                    if($hourOfDay>=14 && $hourOfDay<=20)
                     {
                         $codeOfSession="10T";
                     }
@@ -82,7 +82,7 @@ class ApiController extends Controller
 
                 else if($dayOfWeek==11)
                 {
-                    if($hourOfDay>=8 && $hourOfDay<=12)
+                    if($hourOfDay>=8 && $hourOfDay<=13)
                     {
                         $codeOfSession="11M";
                     }
@@ -97,25 +97,25 @@ class ApiController extends Controller
 
                 if(isset($attendance)==0)
                 {
-                    $new_attendance = new Attendance;
-                    $new_attendance->cui= $cui;
-                    $new_attendance->code_day= $codeOfSession;
+                    $new_attendance         = new Attendance;
+                    $new_attendance->cui    = $cui;
+                    $new_attendance->code_day = $codeOfSession;
                     
-                    if($request['turn']=='true')
+                    if($request['turn'] == 'true')
                     {
                         $new_attendance->entry_time = $date;
                     }
                     else
                     {
-                        $new_attendance->exit_time = $date;
+                        $new_attendance->exit_time  = $date;
                     }
                     
                     $new_attendance->save();
                 }        
                 else
                 {
-                    $attendance->cui= $cui;
-                    $attendance->code_day= $codeOfSession;
+                    $attendance->cui = $cui;
+                    $attendance->code_day = $codeOfSession;
                     
                     if($request['turn']=='true')
                     {
@@ -130,19 +130,16 @@ class ApiController extends Controller
 
 
                 return response()->json([
-                    'message' =>'OK',
-                    'code' => 200,
-                    'cui'=>$cui,
-                    'datos'=> $student
+                    'message'   =>'OK',
+                    'code'      => 200,
+                    'cui'       => $cui,
+                    'datos'     => $student
                 ]);
                 
 
             }
             else
                 throw new Exception("Cui no existe");
-            
-
-            
         }
         //catch(Exception $e)
         {
@@ -204,16 +201,16 @@ class ApiController extends Controller
                 if(!isset($student))
                 {
                     $student = new Student;
-                    $student->id  = $key;
-                    $student->name =$val['nombres'];     
-                    $student->surname =$val['apellidos'];
+                    $student->id        = $key;
+                    $student->name      = $val['nombres'];     
+                    $student->surname   = $val['apellidos'];
                     $student->save();
                 }
                 
             }
             return response()->json([
-                'code' => 200,
-                'message' => "OK, updated",
+                'code'      => 200,
+                'message'   => "OK, updated",
             ]); 
         }
         catch(Exception $e)
