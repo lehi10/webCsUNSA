@@ -43,10 +43,8 @@ class ApiController extends Controller
 
                 if($dayOfWeek==7)
                 {
-                    if($hourOfDay>=14 && $hourOfDay<=20)
-                    {
-                        $codeOfSession="7T";
-                    }
+                    
+                    $codeOfSession="7T";
                 }
 
                 else if($dayOfWeek==9)
