@@ -33,10 +33,9 @@ Route::group(['prefix'=>'admin'],function()
     Route::resource('/categories',   'Admin\CategoryController');
     Route::resource('/posts',        'Admin\PostController');
 
+    
+
 });
-
-
-
 
 
 Route::group(['prefix'=>'resources'],function()
@@ -66,6 +65,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::group(['prefix'=>'api'],function()
 {
+    Route::get('/',  'ApiController@index' )->name('api');
     Route::get('/attendance',  'ApiController@attendance' );
     Route::get('/register','ApiController@register');
     Route::get('/loadStudentsFile','ApiController@loadStudentsFile');

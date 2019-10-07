@@ -47,6 +47,7 @@
                             
                         @else
                             
+                            <li class="nav-item"><a class="nav-link" href="/api/">API</a></li>
                             <li class="nav-item"><a class="nav-link" href="{{route('tags.index')}}">Etiquetas</a></li>
                             <li class="nav-item"><a class="nav-link" href="{{route('categories.index')}}">Categorias</a></li>
                             <li class="nav-item"><a class="nav-link" href="{{route('posts.index')}}">Entradas</a></li>

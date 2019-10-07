@@ -11,7 +11,10 @@ use Exception;
 class ApiController extends Controller
 {
     
-    
+    public function index()
+    {
+        return view("api/index");
+    }
 
     public function attendance(Request $request)
     {
@@ -88,6 +91,11 @@ class ApiController extends Controller
             ]); 
         }
         
+    }
+
+    public function store(Request $request)
+    {
+
     }
 
     public function loadStudentsFile()
