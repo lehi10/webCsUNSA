@@ -103,7 +103,7 @@ class ApiController extends Controller
                     
                     if($request['turn']==true)
                     {
-                        $new_attendance->code = $request['turn'];
+                        $new_attendance->code_day = $request['turn'];
                     }
                     else
                     {
