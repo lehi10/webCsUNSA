@@ -58,6 +58,40 @@ class ApiController extends Controller
 
     public function register(Request $request)
     {
+        try
+        {
+            if(!isset($request['cui']) or !isset($request['name']) or !isset($request['surname']))
+                throw new Exception("No se ingreso un dato");
 
+            if($request['cui']=="" or $request['name']=="" or $request['surname']=="")
+                throw new Exception("Hay datos en blanco");
+
+            $strJsonFileContents = file_get_contents("listaAlumnos.json");
+            $students = json_decode($strJsonFileContents, true);
+            $cui=$request['cui'];
+
+            $newStudent = array();
+            $newStudent['apellidos']=$request['surname'];
+            $newStudent['nombres']=$request['name'];
+            $students[$cui]=$newStudent;
+            
+            $fp = fopen('listaAlumnos.json', 'w');
+            fwrite($fp, json_encode($students));
+            fclose($fp);
+
+            return response()->json([
+                'code' => 200,
+                'message' => "OK",
+            ]); 
+            
+        }
+        catch(Exception $e)
+        {
+            return response()->json([
+                'code' => 500,
+                'message' => $e->getMessage(),
+            ]); 
+        }
+        
     }
 }
