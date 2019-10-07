@@ -48,7 +48,7 @@ class ApiController extends Controller
                         $codeOfSession="7M";
                     }
                     else 
-                    if($hourOfDay>=2 && $hourOfDay<=6)
+                    if($hourOfDay>=14 && $hourOfDay<=18)
                     {
                         $codeOfSession="7T";
                     }
@@ -61,7 +61,7 @@ class ApiController extends Controller
                         $codeOfSession="9M";
                     }
                     else 
-                    if($hourOfDay>=2 && $hourOfDay<=6)
+                    if($hourOfDay>=14 && $hourOfDay<=18)
                     {
                         $codeOfSession="9T";
                     }
@@ -74,7 +74,7 @@ class ApiController extends Controller
                         $codeOfSession="10M";
                     }
                     else 
-                    if($hourOfDay>=2 && $hourOfDay<=6)
+                    if($hourOfDay>=14 && $hourOfDay<=18)
                     {
                         $codeOfSession="10T";
                     }
@@ -87,7 +87,7 @@ class ApiController extends Controller
                         $codeOfSession="11M";
                     }
                     else 
-                    if($hourOfDay>=2 && $hourOfDay<=6)
+                    if($hourOfDay>=14 && $hourOfDay<=18)
                     {
                         $codeOfSession="11T";
                     }
