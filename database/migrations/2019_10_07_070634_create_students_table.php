@@ -17,6 +17,7 @@ class CreateStudentsTable extends Migration
             $table->string('id');
             $table->string('name');
             $table->string('surname');
+            $table->primary('id');
         });
     }
 

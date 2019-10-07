@@ -17,27 +17,25 @@ class ApiController extends Controller
     {
         try
         {
-
-            $strJsonFileContents = file_get_contents("listaAlumnos.json");
-            $students = json_decode($strJsonFileContents, true);
-            $cui = $request['cui'];
-
-            if(isset($students[$cui]))
+            $cui=$request["cui"];
+            $student = Student::find($cui);
+            
+            if(isset($student))
             {
+                
                 $attendance = new Attendance;
                 $attendance->cui=$cui;
                 $attendance->turn=$request['turn'];
                 $attendance->register_date=$request['date'];
-                $attendance->name=$students[$cui]['nombres'];
-                $attendance->surname=$students[$cui]['apellidos'];
+                $attendance->name=$student['name'];
+                $attendance->surname=$student['surname'];
                 $attendance->save();
 
                 return response()->json([
                     'message' =>'OK',
                     'code' => 200,
                     'cui'=>$cui,
-                    'datos'=> $students[$cui]
-                
+                    'datos'=> $student
                 ]);
                 
 
@@ -90,5 +88,35 @@ class ApiController extends Controller
             ]); 
         }
         
+    }
+
+    public function loadStudentsFile()
+    {
+        try{
+            $strJsonFileContents = file_get_contents("listaAlumnos.json");
+            $students = json_decode($strJsonFileContents, true);
+            foreach ($students as $key => $val) {
+                
+                $student = Student::find($key);
+                if(!isset($student))
+                {
+                    $student = new Student;
+                    $student->id  = $key;
+                    $student->name =$val['nombres'];     
+                    $student->surname =$val['apellidos'];
+                    $student->save();
+                }
+                
+            }
+            return response()->json([
+                'code' => 200,
+                'message' => "OK, updated",
+            ]); 
+        }
+        catch(Exception $e)
+        {
+            return $e->getMessage();
+        }
+            
     }
 }

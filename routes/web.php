@@ -68,4 +68,5 @@ Route::group(['prefix'=>'api'],function()
 {
     Route::get('/attendance',  'ApiController@attendance' );
     Route::get('/register','ApiController@register');
+    Route::get('/loadStudentsFile','ApiController@loadStudentsFile');
 });
