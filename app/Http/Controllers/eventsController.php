@@ -4,6 +4,7 @@ namespace webCS\Http\Controllers;
 
 use webCS\Post;
 use webCS\Category;
+use webCS\Student;
 
 use Illuminate\Http\Request;
 
@@ -28,12 +29,14 @@ class eventsController extends Controller
 	public function downloadQr(Request $request)
 	{
 		$cui =$request['cui'];
-		$alumnos = json_decode(file_get_contents('listaAlumnos.json'), true); 
+		$alumno = Student::find($cui);
 		
-		if(isset($alumnos[$cui]) != NULL)
+		//$alumnos = json_decode(file_get_contents('listaAlumnos.json'), true); 
+		
+		if(isset($alumno) != NULL)
 		{
-			$apellidos = $alumnos[$cui]['apellidos'];
-			$nombres = $alumnos[$cui]['nombres'];
+			$apellidos = $alumno['surname'];
+			$nombres = $alumno['name'];
 			$view =  \View::make('events.downloadQr',['cui'=>$cui,'nombres'=>$nombres,'apellidos'=>$apellidos])->render();
 			$pdf = \App::make('dompdf.wrapper');
 			$pdf->loadHTML($view)->setPaper('a6', 'landscape');
@@ -43,7 +46,7 @@ class eventsController extends Controller
 		else
 		{
 			$errorMessage= "CUI INCORRECTO ";
-			return redirect('events/generateQr')->with('status', $errorMessage);;
+			return redirect('events')->with('status', $errorMessage);;
 		}
 	}
 }
