@@ -20,7 +20,7 @@
         <a href="http://cs-unsa.herokuapp.com/api/register">http://cs-unsa.herokuapp.com/api/register</a>
     </p>
 
-    <h3>Register Student</h3>
+    <h3>Register for Student</h3>
     
     {{ Form::open(array('url' => '/api/register', 'method' => 'get')) }}
 
