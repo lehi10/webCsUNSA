@@ -41,51 +41,17 @@ class ApiController extends Controller
 
                 $codeOfSession ="";
 
-                if($dayOfWeek==7)
+                switch($dayOfWeek)
                 {
-                    
-                    $codeOfSession="7T";
-                }
-
-                else if($dayOfWeek==9)
-                {
-                    if($hourOfDay>=8 && $hourOfDay<=13)
-                    {
-                        $codeOfSession="9M";
-                    }
-                    else 
-                    if($hourOfDay>=14 && $hourOfDay<=20)
-                    {
-                        $codeOfSession="9T";
-                    }
-                }
-
-                else if($dayOfWeek==10)
-                {
-                    if($hourOfDay>=8 && $hourOfDay<=13)
-                    {
-                        $codeOfSession="10M";
-                    }
-                    else 
-                    if($hourOfDay>=14 && $hourOfDay<=20)
-                    {
+                    case 10:
                         $codeOfSession="10T";
-                    }
-                }
-
-                else if($dayOfWeek==11)
-                {
-                    if($hourOfDay>=8 && $hourOfDay<=13)
-                    {
+                        break;
+                    case 11:
                         $codeOfSession="11M";
-                    }
-                    else 
-                    if($hourOfDay>=14 && $hourOfDay<=18)
-                    {
-                        $codeOfSession="11T";
-                    }
-                }                
-
+                        break;
+                }
+                
+                
                 $attendance= Attendance::where('cui',(string)$cui)->where('code_day',$codeOfSession)->first();
 
                 if(isset($attendance)==0)
@@ -154,7 +120,6 @@ class ApiController extends Controller
 
             if($request['cui']=="" or $request['name']=="" or $request['surname']=="")
                 throw new Exception("Hay datos en blanco");
-
 
             $student = new Student;
             $student->id  = $request['cui'];
