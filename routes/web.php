@@ -13,6 +13,11 @@
 
 Route::get('/','dashboardController@index');
 
+Route::get('/contest', function(){
+    return view('contest');
+});
+
+
 
 Route::group(['prefix'=>'blog'],function()
 {
