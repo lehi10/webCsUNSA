@@ -73,10 +73,12 @@
 <div class="container bg-3">
   <div class="row">
     <div class="col-sm-8">
-
+        <h2>Cronograma - 3ra. Jornada de Computer Science</h2>
+        <div>
+            <img width="100%" height="100%" src="/images/3j.png">
+        </div>
         <h3>Publicaciones Recientes</h3>
         <hr>
-
 
         @for ($iPost = 0 ; $iPost < count($posts) ; $iPost+=2)
             <div class="col-lg-12">

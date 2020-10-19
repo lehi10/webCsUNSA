@@ -72,8 +72,17 @@
 }
 
 /* 100% Image Width on Smaller Screens */
-@media only screen and (max-width: 700px){
+@media only screen and (max-width: 800px){
   .mmodal-content {
     width: 100%;
+  }
+  .weekComp2020Close {
+    position: fixed;
+    color: #f1f1f1;
+    top: 92.5%;
+    right: 2.5%;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
   }
 }
