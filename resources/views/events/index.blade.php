@@ -27,7 +27,7 @@ var x = setInterval(function() {
   document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
   + minutes + "m " + seconds + "s ";
 
-  // If the count down is finished, write some text 
+  // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
     document.getElementById("countdown").innerHTML = "EXPIRED";
@@ -42,7 +42,7 @@ var x = setInterval(function() {
   <div style="padding:10px;" class="row ">
         <center>
           <img src="/images/cslogos/logoDarkBackground.png" class="logoImg">
-          
+
           <h2 class="textWhite">Inicio De La Jornada de Ciencia de la Computación</h2>
           <strong><h2 class="textWhite" id="countdown"></h2></strong>
         </center>
@@ -61,11 +61,11 @@ var x = setInterval(function() {
         <br>
           <form action="events/downloadQr">
           <div class="form-group">
-            <label class="control-label col-sm-2" for="CUI">Ingresa tu CUI :</label>
+            <label class="control-label col-sm-2" for="CUI">Ingresa tu CUI:</label>
             <div class="col-sm-10">
-              <input name="cui" type="text" class="form-control" id="CUI" placeholder="CUI">
+              <input name="cui" type="text" class="form-control" id="CUI" placeholder="EXPIRED" disabled>
               <br>
-              <button type="submit" class="btn btn-default">Submit</button>
+              <button type="submit" class="btn btn-default" disabled>Submit</button>
             </div>
           </div>
           </form>
@@ -77,7 +77,7 @@ var x = setInterval(function() {
       @foreach($posts as $post)
         <div class="col-sm-12">
           <div class="row" >
-          
+
 
             <div class="col-sm-8">
               <div class="well"  >
@@ -88,13 +88,13 @@ var x = setInterval(function() {
                 <strong>Categoría : </strong>
                 <a href="{{ route('category',$post->category->slug) }}"><i>{{$post->category->name}}</i></a>
                 <hr>
-                <p>{{$post->excerpt}}</p> 
-               
+                <p>{{$post->excerpt}}</p>
+
               </div>
             </div>
             <div class="col-sm-4 " >
               <div class="well ">
-                
+
                 <img  src="{{$post->file}}" width="100%">
               </div>
             </div>
@@ -102,8 +102,8 @@ var x = setInterval(function() {
         </div>
       @endforeach
       {{ $posts->render() }}
-    
-      
+
+
     </div>
     <div class="col-sm-3 ">
     <h3>Página en Facebook</h3>
