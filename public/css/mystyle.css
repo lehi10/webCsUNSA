@@ -1,9 +1,42 @@
+html {
+    scroll-behavior: smooth;
+}
 
 .navbar {
-    margin-bottom: 0;
-    border-radius: 0;
-    font-family: 'Open Sans',sans-serif;
-    
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand img {
+    //padding-left: 200px;
+    height: 25px;
+}
+
+.navbar .navbar-header .navbar-brand p {
+   padding: 0;
+}
+
+.navbar-default .navbar-nav>.active>a {
+    background-color: #d8d8d8;
+    //background-color: #e7e7e7;
+}
+
+#top {
+    position: fixed;
+    bottom: 8px;
+    right: 8px;
+    width: 64px;
+    height: 64px;
+    transform-origin: center center;
+    z-index: 1;
+}
+
+#top:hover {
+    cursor: pointer;
+}
+
+.m-footer {
+    font-family: 'Montserrat';
 }
 
 /* Add a gray background color and some padding to the footer */
@@ -20,17 +53,16 @@ footer {
 }
 
 .hero-image {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)
-    ), url("/images/poster.jpg");
-  background-color: #cccccc;
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-    
+    background-image: linear-gradient(
+        rgba(0, 0, 0.2, 0.4),
+        rgba(0, 0, 0.2, 0.4)
+    ), url("/images/13.png");
+    background-color: #cccccc;;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 .hero-text {
@@ -51,9 +83,8 @@ h3.textWhite{
     height: 5em;
     display: flex;
     align-items: center
-    
-}
 
+}
 
 h2.textWhite{
     color: white;
@@ -77,16 +108,83 @@ p.textWhite{
     margin-bottom: 20px;
 }
 
+span.textWhite{
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 15px;
+}
+
+h3.textBlack{
+    color: #777;
+    font-family: 'Montserrat';
+    font-size: 28px;
+    margin-bottom: 20px;
+    height: 5em;
+    display: flex;
+    align-items: center
+
+}
+
+h2.textBlack{
+    color: #777;
+    font-family: 'Montserrat';
+    font-size: 35px;
+    margin-bottom: 25px;
+
+}
+
+h4.textBlack{
+    color: #777;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+p.textBlack{
+    color: #777;
+    font-family: 'Montserrat';
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+span.textBlack{
+    color: #777;
+    font-family: 'Montserrat';
+    font-size: 15px;
+}
+
+.monsteratted {
+    font-family: 'Montserrat';
+}
+
 p.paragraph{
     font-family: 'Open Sans';
     font-size: 18px;
     margin-bottom: 20px;
 }
 
+.whiteBackground{
+    padding-top: 25px;
+    padding-bottom: 20px;
+    background-color: 	white;
+}
+
+.cyanBackground{
+    padding-top: 25px;
+    padding-bottom: 20px;
+    background-color: 	#00d1cf;
+}
+
+.blueBackground {
+    padding-top: 25px;
+    padding-bottom: 20px;
+    background-color: 	#003a82;
+}
+
 .darkBackground{
     padding-top: 25px;
     padding-bottom: 20px;
-    background-color: 	#222222 ;
+    background-color: #222222;
 }
 
 .iconsPost
@@ -96,11 +194,11 @@ p.paragraph{
 }
 .bannerPost
 {
-    padding: 10px 10px;   
+    padding: 10px 10px;
 }
 
 div.body{
-    padding:  50px 0;   
+    padding:  50px 0;
 }
 
 .marginOnTop{

@@ -12,3 +12,6 @@ npm-debug.log
 yarn-error.log
 
 .phpunit.result.cache
+.env.local
+.env.lehi.local
+.env.asulcons.local
