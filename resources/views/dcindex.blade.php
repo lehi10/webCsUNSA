@@ -77,7 +77,7 @@
 			<div class="row">
 				<div class="col-6 col-md-3">
 					<div class="item">
-						<div class="number">100+</div>
+						<div class="number">250+</div>
 						<div class="unit">Asistentes</div>
 					</div><!--//item-->
 				</div><!--//col-->
@@ -89,7 +89,7 @@
 				</div><!--//col-->
 				<div class="col-6 col-md-3">
 					<div class="item">
-						<div class="number">15+</div>
+						<div class="number">20+</div>
 						<div class="unit">Charlas</div>
 					</div><!--//item-->
 				</div><!--//col-->
