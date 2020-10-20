@@ -9,12 +9,10 @@ use webCS\Category;
 
 class dashboardController extends Controller
 {
-
 	public function index()
 	{
 		$posts  = Post::select('*')->paginate(10);
 
-		return view("index",compact('posts'));
+		return view("index", compact('posts'));
 	}
 }
-

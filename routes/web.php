@@ -11,13 +11,18 @@
 |
 */
 
-Route::get('/','dashboardController@index');
+Route::get('/', 'weekComp2020Controller@index');
+
+Route::group(['prefix'=>'weekComp2020'],function()
+{
+    Route::get('/', 'weekComp2020Controller@index');
+});
+
+Route::get('/dashboard','dashboardController@index');
 
 Route::get('/contest', function(){
     return view('contest');
 });
-
-
 
 Route::group(['prefix'=>'blog'],function()
 {
@@ -27,21 +32,14 @@ Route::group(['prefix'=>'blog'],function()
     Route::get('/tag/{slug}', 'Blog\PageController@tag' )->name('tag');
 });
 
-
-
 Route::group(['prefix'=>'admin'],function()
 {
-
     Route::get('/', 'Admin\AdminController@index')->name('home');
-    
+
     Route::resource('/tags',         'Admin\TagController');
     Route::resource('/categories',   'Admin\CategoryController');
     Route::resource('/posts',        'Admin\PostController');
-
-    
-
 });
-
 
 Route::group(['prefix'=>'resources'],function()
 {

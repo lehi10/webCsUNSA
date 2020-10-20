@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="/css/mystyle.css">
   <link rel="stylesheet" href="/css/mmodal.css">
   <link rel="stylesheet" href="/css/GoogleCalendar.css">
-  <script src="/js/onLoad.js"></script>
+  <script src="/js/mmodal.js"></script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126304326-1"></script>
