@@ -11,20 +11,16 @@
 |
 */
 
-Route::get('/', 'weekComp2020Controller@index');
-
-Route::group(['prefix'=>'weekComp2020'],function()
-{
-    Route::get('/', 'weekComp2020Controller@index');
-});
+Route::get('/', 'MainController@index');
 
 Route::get('/dashboard','dashboardController@index');
 
-Route::get('/contest', function(){
+Route::get('/contest', function()
+{
     return view('contest');
 });
 
-Route::group(['prefix'=>'blog'],function()
+Route::group(['prefix'=>'blog'], function()
 {
     Route::get('/',  'Blog\PageController@index' )->name('index');
     Route::get('/post/{slug}', 'Blog\PageController@post' )->name('post');
@@ -32,7 +28,7 @@ Route::group(['prefix'=>'blog'],function()
     Route::get('/tag/{slug}', 'Blog\PageController@tag' )->name('tag');
 });
 
-Route::group(['prefix'=>'admin'],function()
+Route::group(['prefix'=>'admin'], function()
 {
     Route::get('/', 'Admin\AdminController@index')->name('home');
 
@@ -41,7 +37,7 @@ Route::group(['prefix'=>'admin'],function()
     Route::resource('/posts',        'Admin\PostController');
 });
 
-Route::group(['prefix'=>'resources'],function()
+Route::group(['prefix'=>'resources'], function()
 {
     Route::get('/',  'resourcesController@index' );
     Route::get('/constancia', 'resourcesController@getConstancia');
@@ -49,13 +45,13 @@ Route::group(['prefix'=>'resources'],function()
     Route::get('/library', 'resourcesController@getLibrary');
 });
 
-Route::group(['prefix'=>'events'],function()
+Route::group(['prefix'=>'events'], function()
 {
     Route::get('/',  'eventsController@index' );
     Route::get('/downloadQr','eventsController@downloadQr');
 });
 
-Route::group(['prefix'=>'research'],function()
+Route::group(['prefix'=>'research'], function()
 {
     Route::get('/',  'researchController@index' );
 });
@@ -66,7 +62,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 
 
-Route::group(['prefix'=>'api'],function()
+Route::group(['prefix'=>'api'], function()
 {
     Route::get('/',  'ApiController@index' )->name('api');
     Route::get('/attendance',  'ApiController@attendance' );
