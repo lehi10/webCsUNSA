@@ -61,9 +61,9 @@
 		<div class="hero-block-mask"></div>
 		<div class="container">
 			<div class="hero-text-block">
-				<h1 class="hero-heading mb-2">3ra. Semana CS 2020</h1>
-				<div class="hero-meta mb-3"><i class="far fa-calendar-alt mr-2"></i>26 - 30 Oct <i class="fas fa-map-marker-alt mx-2"></i>Arequipa, Perú</div>
-				<div class="hero-intro mb-4">El mayor evento de la Escuela Profesional <br>de Ciencia de la Computación.</div>
+				<h1 class="hero-heading mb-2">Semana de la Computación 2020</h1>
+				<div class="hero-meta mb-3">3ra Edición<br><i class="far fa-calendar-alt mr-2"></i>26 - 30 Oct <i class="fas fa-map-marker-alt mx-2"></i>Arequipa, Perú</div>
+				<div class="hero-intro mb-4"></div>
 				<!-- Register -->
 				<div class="hero-cta"><a class="btn btn-primary btn-lg" href="#" target="_blank">Registrarse</a></div>
 
@@ -168,13 +168,13 @@
 			<div class="row">
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-1" data-toggle="modal" data-target="#modal-speaker-1"><img src="/images/speakers/luciano-romero.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-luciano-romero" data-toggle="modal" data-target="#modal-luciano-romero"><img src="/images/speakers/luciano-romero.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Luciano Romero</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Estudiante de Ph. D. en Computer Science</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-1" data-toggle="modal" data-target="#modal-speaker-1">Leer más &rarr;</a>
+							<a href="#modal-luciano-romero" data-toggle="modal" data-target="#modal-luciano-romero">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -187,13 +187,13 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-2" data-toggle="modal" data-target="#modal-speaker-2"><img src="/images/speakers/lizeth-fuentes.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-lizeth-fuentes" data-toggle="modal" data-target="#modal-lizeth-fuentes"><img src="/images/speakers/lizeth-fuentes.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Lizeth Fuentes</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Estudiante de Ph. D. en Computer Science</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-2" data-toggle="modal" data-target="#modal-speaker-2">Leer más &rarr;</a>
+							<a href="#modal-lizeth-fuentes" data-toggle="modal" data-target="#modal-lizeth-fuentes">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -206,14 +206,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-3" data-toggle="modal" data-target="#modal-speaker-3"><img src="/images/speakers/marcelo-flores.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-marcelo-flores" data-toggle="modal" data-target="#modal-marcelo-flores"><img src="/images/speakers/marcelo-flores.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Marcelo Flores</h5>
 							<div class="card-text mb-3">
 								<div class="meta">MSc. Informatica</div>
 								<div class="meta">Senior Developer</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-3" data-toggle="modal" data-target="#modal-speaker-3">Leer más &rarr;</a>
+							<a href="#modal-marcelo-flores" data-toggle="modal" data-target="#modal-marcelo-flores">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -226,13 +226,13 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-4" data-toggle="modal" data-target="#modal-speaker-4"><img src="/images/speakers/jesus-mena.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-jesus-mena" data-toggle="modal" data-target="#modal-jesus-mena"><img src="/images/speakers/jesus-mena.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Jesús Mena</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science - IME/USP/Brasil</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-4" data-toggle="modal" data-target="#modal-speaker-4">Leer más &rarr;</a>
+							<a href="#modal-jesus-mena" data-toggle="modal" data-target="#modal-jesus-mena">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -245,14 +245,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-5" data-toggle="modal" data-target="#modal-speaker-5"><img src="/images/speakers/jorge-poco.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco"><img src="/images/speakers/jorge-poco.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Jorge Poco</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">New York University</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-5" data-toggle="modal" data-target="#modal-speaker-5">Leer más &rarr;</a>
+							<a href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -265,14 +265,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-6" data-toggle="modal" data-target="#modal-speaker-6"><img src="/images/speakers/pablo-calcina.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-pablo-calcina" data-toggle="modal" data-target="#modal-pablo-calcina"><img src="/images/speakers/pablo-calcina.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Pablo Calcina</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">Universidad de São Paulo</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-6" data-toggle="modal" data-target="#modal-speaker-6">Leer más &rarr;</a>
+							<a href="#modal-pablo-calcina" data-toggle="modal" data-target="#modal-pablo-calcina">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -285,14 +285,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-7" data-toggle="modal" data-target="#modal-speaker-7"><img src="/images/speakers/edward-pacheco.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-edward-pacheco" data-toggle="modal" data-target="#modal-edward-pacheco"><img src="/images/speakers/edward-pacheco.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Edward Pacheco</h5>
 							<div class="card-text mb-3">
 								<div class="meta">MSc. en Informatica</div>
 								<div class="meta">PUC-RJ, Brasil</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-7" data-toggle="modal" data-target="#modal-speaker-7">Leer más &rarr;</a>
+							<a href="#modal-edward-pacheco" data-toggle="modal" data-target="#modal-edward-pacheco">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -305,14 +305,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-8" data-toggle="modal" data-target="#modal-speaker-8"><img src="/images/speakers/omar-flores.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-omar-flores" data-toggle="modal" data-target="#modal-omar-flores"><img src="/images/speakers/omar-flores.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Omar Florez</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">Investigador en Machine Learning, Twitter</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-8" data-toggle="modal" data-target="#modal-speaker-8">Leer más &rarr;</a>
+							<a href="#modal-omar-flores" data-toggle="modal" data-target="#modal-omar-flores">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -325,14 +325,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-9" data-toggle="modal" data-target="#modal-speaker-9"><img src="/images/speakers/yamilet-serrano.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-yamilet-serrano" data-toggle="modal" data-target="#modal-yamilet-serrano"><img src="/images/speakers/yamilet-serrano.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Yamilet Serrano</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">National University of Singapore</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-9" data-toggle="modal" data-target="#modal-speaker-9">Leer más &rarr;</a>
+							<a href="#modal-yamilet-serrano" data-toggle="modal" data-target="#modal-yamilet-serrano">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -345,14 +345,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-10" data-toggle="modal" data-target="#modal-speaker-10"><img src="/images/speakers/lizeth-tapia.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-lizeth-tapia" data-toggle="modal" data-target="#modal-lizeth-tapia"><img src="/images/speakers/lizeth-tapia.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Lizeth Tapia</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">Universidad de Oslo</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-10" data-toggle="modal" data-target="#modal-speaker-10">Leer más &rarr;</a>
+							<a href="#modal-lizeth-tapia" data-toggle="modal" data-target="#modal-lizeth-tapia">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -365,14 +365,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-11" data-toggle="modal" data-target="#modal-speaker-11"><img src="/images/speakers/ernesto-cuadros.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-ernesto-cuadros" data-toggle="modal" data-target="#modal-ernesto-cuadros"><img src="/images/speakers/ernesto-cuadros.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Ernesto Cuadros</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">Fundador de la Sociedad Peruana de Computación</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-11" data-toggle="modal" data-target="#modal-speaker-11">Leer más &rarr;</a>
+							<a href="#modal-ernesto-cuadros" data-toggle="modal" data-target="#modal-ernesto-cuadros">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -385,14 +385,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-12" data-toggle="modal" data-target="#modal-speaker-12"><img src="/images/speakers/cristian-lopez.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-cristian-lopez" data-toggle="modal" data-target="#modal-cristian-lopez"><img src="/images/speakers/cristian-lopez.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Cristian Lopez</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">Universidad Nacional de San Agustin</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-12" data-toggle="modal" data-target="#modal-speaker-12">Leer más &rarr;</a>
+							<a href="#modal-cristian-lopez" data-toggle="modal" data-target="#modal-cristian-lopez">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -405,14 +405,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-13" data-toggle="modal" data-target="#modal-speaker-13"><img src="/images/speakers/juan-vilca.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-juan-vilca" data-toggle="modal" data-target="#modal-juan-vilca"><img src="/images/speakers/juan-vilca.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Juan Vilca</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Software Developer</div>
 								<div class="meta">Amazon</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-13" data-toggle="modal" data-target="#modal-speaker-13">Leer más &rarr;</a>
+							<a href="#modal-juan-vilca" data-toggle="modal" data-target="#modal-juan-vilca">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -425,14 +425,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-14" data-toggle="modal" data-target="#modal-speaker-14"><img src="/images/speakers/alexander-benavides.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-alexander-benavides" data-toggle="modal" data-target="#modal-alexander-benavides"><img src="/images/speakers/alexander-benavides.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Alexander Benavides</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">Universidad Federal de Rio Grande do Sul</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-14" data-toggle="modal" data-target="#modal-speaker-14">Leer más &rarr;</a>
+							<a href="#modal-alexander-benavides" data-toggle="modal" data-target="#modal-alexander-benavides">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -445,14 +445,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-speaker-15" data-toggle="modal" data-target="#modal-speaker-15"><img src="/images/speakers/daniel-aliaga.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-daniel-aliaga" data-toggle="modal" data-target="#modal-daniel-aliaga"><img src="/images/speakers/daniel-aliaga.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Daniel Aliaga</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta"> University of North Carolina at Chapel Hill</div>
 							</div><!--//card-text-->
-							<a href="#modal-speaker-15" data-toggle="modal" data-target="#modal-speaker-15">Leer más &rarr;</a>
+							<a href="#modal-daniel-aliaga" data-toggle="modal" data-target="#modal-daniel-aliaga">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -476,7 +476,7 @@
 
 	<section id="schedule-section" class="schedule-section section">
 		<div class="container">
-			<h3 class="section-heading text-center mb-5">Cronograma</h3>
+			<h3 class="section-heading text-center mb-5">Programa</h3>
 
 			<!-- Nav tabs -->
 			<ul class="schedule-nav nav nav-pills nav-fill" id="myTab" role="tablist">
@@ -519,8 +519,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">8:00 - 9:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-16" data-toggle="modal" data-target="#modal-speaker-16"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/wilber-ramos.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-16" data-toggle="modal" data-target="#modal-speaker-16">Wilber Ramos</a></div>
+								<a href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/wilber-ramos.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos">Wilber Ramos</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -535,8 +535,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">9:00 - 10:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-1" data-toggle="modal" data-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/luciano-romero.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-1" data-toggle="modal" data-target="#modal-speaker-1">Luciano Romero</a></div>
+								<a href="#modal-luciano-romero" data-toggle="modal" data-target="#modal-luciano-romero"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/luciano-romero.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-luciano-romero" data-toggle="modal" data-target="#modal-luciano-romero">Luciano Romero</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -551,8 +551,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">10:00 - 11:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-2" data-toggle="modal" data-target="#modal-speaker-2"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/lizeth-fuentes.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-2" data-toggle="modal" data-target="#modal-speaker-2">Lizeth Fuentes</a></div>
+								<a href="#modal-lizeth-fuentes" data-toggle="modal" data-target="#modal-lizeth-fuentes"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/lizeth-fuentes.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-lizeth-fuentes" data-toggle="modal" data-target="#modal-lizeth-fuentes">Lizeth Fuentes</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -567,8 +567,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">11:00 - 12:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-3" data-toggle="modal" data-target="#modal-speaker-3"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/marcelo-flores.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-3" data-toggle="modal" data-target="#modal-speaker-3">Marcelo Flores</a></div>
+								<a href="#modal-marcelo-flores" data-toggle="modal" data-target="#modal-marcelo-flores"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/marcelo-flores.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-marcelo-flores" data-toggle="modal" data-target="#modal-marcelo-flores">Marcelo Flores</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -591,51 +591,15 @@
 							</div>
 						</div><!--//content-->
 					</div><!--//item-->
-					<div class="item item-talk">
+					<div class="item item-other">
 						<div class="meta">
-							<h4 class="time mb-3">15:00 - 16:00</h4>
-							<div class="profile">
-								<a href="#modal-speaker-17" data-toggle="modal" data-target="#modal-speaker-17"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/jimmy-tullume.png" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-17" data-toggle="modal" data-target="#modal-speaker-17">Jimmy Túllume</a></div>
-							</div><!--//profile-->
+							<h4 class="time mb-3">15:00 - 18:00</h4>
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">ICACIT - Jimmy Túllume</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google  Meet</div>
+							<h3 class="title mb-3">Encuentro de los Egresados de la EPCC</h3>
+							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
-								<br><br><br><br>
-							</div>
-						</div><!--//content-->
-					</div><!--//item-->
-					<div class="item item-talk">
-						<div class="meta">
-							<h4 class="time mb-3">16:00 - 17:00</h4>
-							<div class="profile">
-								<a href="#modal-speaker-18" data-toggle="modal" data-target="#modal-speaker-18"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/edward-hinojosa.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-18" data-toggle="modal" data-target="#modal-speaker-18">Edward Hinojosa</a></div>
-							</div><!--//profile-->
-						</div><!--//meta-->
-						<div class="content">
-							<h3 class="title mb-3">Acreditación - Edward Hinojosa</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google  Meet</div>
-							<div class="desc">
-								<br><br><br><br>
-							</div>
-						</div><!--//content-->
-					</div><!--//item-->
-					<div class="item item-talk">
-						<div class="meta">
-							<h4 class="time mb-3">17:30 - 18:00</h4>
-							<div class="profile">
-								<a href="#modal-speaker-19" data-toggle="modal" data-target="#modal-speaker-19"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/juan-carlos-gutierrez.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-19" data-toggle="modal" data-target="#modal-speaker-19">Juan Carlos Gutiérrez</a></div>
-							</div><!--//profile-->
-						</div><!--//meta-->
-						<div class="content">
-							<h3 class="title mb-3">Perspectiva - Juan Carlos Gutiérrez</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google  Meet</div>
-							<div class="desc">
-								<br><br><br><br>
+								<br><br>
 							</div>
 						</div><!--//content-->
 					</div><!--//item-->
@@ -646,12 +610,12 @@
 						<div class="meta">
 							<h4 class="time mb-3">8:00 - 9:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-4" data-toggle="modal" data-target="#modal-speaker-4"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/jesus-mena.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-4" data-toggle="modal" data-target="#modal-speaker-4">Jesús Mena</a></div>
+								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/cslogos/kusisqa.png" alt=""></a>
+								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Kusisqa</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Genealogia academica: Caracterización y análisis usando métodos computacionales</h3>
+							<h3 class="title mb-3">Proyecto Kusisqa</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -662,8 +626,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">9:00 - 10:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-5" data-toggle="modal" data-target="#modal-speaker-5"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/jorge-poco.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-5" data-toggle="modal" data-target="#modal-speaker-5">Jorge Poco</a></div>
+								<a href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/jorge-poco.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco">Jorge Poco</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -681,22 +645,6 @@
 								were we applied our automated diagram interpretation techniques: i) automatic recoloring to improve perceptual effectiveness, ii)
 								interactive overlays to enable improved reading of static visualizations, and iii) use voices instead of text to generate overlays
 								on a chart in real-time.
-							</div>
-						</div><!--//content-->
-					</div><!--//item-->
-					<div class="item item-talk">
-						<div class="meta">
-							<h4 class="time mb-3">10:00 - 11:00</h4>
-							<div class="profile">
-								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/cslogos/kusisqa.png" alt=""></a>
-								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Kusisqa</a></div>
-							</div><!--//profile-->
-						</div><!--//meta-->
-						<div class="content">
-							<h3 class="title mb-3">Proyecto Kusisqa</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
-							<div class="desc">
-								<br><br><br><br>
 							</div>
 						</div><!--//content-->
 					</div><!--//item-->
@@ -747,8 +695,24 @@
 						<div class="meta">
 							<h4 class="time mb-3">8:00 - 9:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-16" data-toggle="modal" data-target="#modal-speaker-16"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/wilber-ramos.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-16" data-toggle="modal" data-target="#modal-speaker-16">Wilber Ramos</a></div>
+								<a href="#modal-jesus-mena" data-toggle="modal" data-target="#modal-jesus-mena"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/jesus-mena.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-jesus-mena" data-toggle="modal" data-target="#modal-jesus-mena">Jesús Mena</a></div>
+							</div><!--//profile-->
+						</div><!--//meta-->
+						<div class="content">
+							<h3 class="title mb-3">Genealogia academica: Caracterización y análisis usando métodos computacionales</h3>
+							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
+							<div class="desc">
+								<br><br><br><br>
+							</div>
+						</div><!--//content-->
+					</div><!--//item-->
+					<div class="item item-talk">
+						<div class="meta">
+							<h4 class="time mb-3">8:00 - 9:00</h4>
+							<div class="profile">
+								<a href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/wilber-ramos.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos">Wilber Ramos</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -763,8 +727,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">9:00 - 10:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-6" data-toggle="modal" data-target="#modal-speaker-6"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/pablo-calcina.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-6" data-toggle="modal" data-target="#modal-speaker-6">Pablo Calcina</a></div>
+								<a href="#modal-pablo-calcina" data-toggle="modal" data-target="#modal-pablo-calcina"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/pablo-calcina.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-pablo-calcina" data-toggle="modal" data-target="#modal-pablo-calcina">Pablo Calcina</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -779,8 +743,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">10:00 - 11:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-7" data-toggle="modal" data-target="#modal-speaker-7"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/edward-pacheco.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-7" data-toggle="modal" data-target="#modal-speaker-7">Edward Pacheco</a></div>
+								<a href="#modal-edward-pacheco" data-toggle="modal" data-target="#modal-edward-pacheco"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/edward-pacheco.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-edward-pacheco" data-toggle="modal" data-target="#modal-edward-pacheco">Edward Pacheco</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -799,8 +763,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">11:00 - 12:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-8" data-toggle="modal" data-target="#modal-speaker-8"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/omar-flores.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-8" data-toggle="modal" data-target="#modal-speaker-8">Omar Flores</a></div>
+								<a href="#modal-omar-flores" data-toggle="modal" data-target="#modal-omar-flores"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/omar-flores.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-omar-flores" data-toggle="modal" data-target="#modal-omar-flores">Omar Flores</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -842,8 +806,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">8:00 - 9:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-9" data-toggle="modal" data-target="#modal-speaker-9"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/yamilet-serrano.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-9" data-toggle="modal" data-target="#modal-speaker-9">Yamilet Serrano</a></div>
+								<a href="#modal-yamilet-serrano" data-toggle="modal" data-target="#modal-yamilet-serrano"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/yamilet-serrano.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-yamilet-serrano" data-toggle="modal" data-target="#modal-yamilet-serrano">Yamilet Serrano</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -858,8 +822,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">9:00 - 10:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-10" data-toggle="modal" data-target="#modal-speaker-10"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/lizeth-tapia.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-10" data-toggle="modal" data-target="#modal-speaker-10">Lizeth Tapia</a></div>
+								<a href="#modal-lizeth-tapia" data-toggle="modal" data-target="#modal-lizeth-tapia"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/lizeth-tapia.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-lizeth-tapia" data-toggle="modal" data-target="#modal-lizeth-tapia">Lizeth Tapia</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -874,8 +838,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">9:00 - 10:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-11" data-toggle="modal" data-target="#modal-speaker-11"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/ernesto-cuadros.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-11" data-toggle="modal" data-target="#modal-speaker-11">Ernesto Cuadros</a></div>
+								<a href="#modal-ernesto-cuadros" data-toggle="modal" data-target="#modal-ernesto-cuadros"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/ernesto-cuadros.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-ernesto-cuadros" data-toggle="modal" data-target="#modal-ernesto-cuadros">Ernesto Cuadros</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -923,8 +887,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">15:00 - 16:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-12" data-toggle="modal" data-target="#modal-speaker-12"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/cristian-lopez.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-12" data-toggle="modal" data-target="#modal-speaker-12">Cristian Lopez</a></div>
+								<a href="#modal-cristian-lopez" data-toggle="modal" data-target="#modal-cristian-lopez"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/cristian-lopez.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-cristian-lopez" data-toggle="modal" data-target="#modal-cristian-lopez">Cristian Lopez</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -939,8 +903,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">16:00 - 17:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-13" data-toggle="modal" data-target="#modal-speaker-13"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/juan-vilca.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-13" data-toggle="modal" data-target="#modal-speaker-13">Juan Vilca</a></div>
+								<a href="#modal-juan-vilca" data-toggle="modal" data-target="#modal-juan-vilca"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/juan-vilca.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-juan-vilca" data-toggle="modal" data-target="#modal-juan-vilca">Juan Vilca</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -955,8 +919,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">17:00 - 18:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-14" data-toggle="modal" data-target="#modal-speaker-14"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/alexander-benavides.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-14" data-toggle="modal" data-target="#modal-speaker-14">Alexander Benavides</a></div>
+								<a href="#modal-alexander-benavides" data-toggle="modal" data-target="#modal-alexander-benavides"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/alexander-benavides.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-alexander-benavides" data-toggle="modal" data-target="#modal-alexander-benavides">Alexander Benavides</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -1006,8 +970,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">10:00 - 11:00</h4>
 							<div class="profile">
-								<a href="#modal-speaker-15" data-toggle="modal" data-target="#modal-speaker-15"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/daniel-aliaga.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-speaker-15" data-toggle="modal" data-target="#modal-speaker-15">Daniel Aliaga</a></div>
+								<a href="#modal-daniel-aliaga" data-toggle="modal" data-target="#modal-daniel-aliaga"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/daniel-aliaga.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-daniel-aliaga" data-toggle="modal" data-target="#modal-daniel-aliaga">Daniel Aliaga</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -1113,8 +1077,48 @@
 		</div><!--//container-->
 	</section><!--//sponsors-section-->
 
-	<!-- Modal Speaker 1 -->
-	<div class="modal modal-speaker modal-speaker-1" id="modal-speaker-1" tabindex="-1" role="dialog" aria-labelledby="speaker-1-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-wilber-ramos" id="modal-wilber-ramos" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Wilber Roberto Ramos Lovón</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/wilber-ramos.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Wilber Roberto Ramos Lovón</h2>
+							<div class="meta">Lic. en Matemática</div>
+							<div class="meta">MSc. en Computer Science</div>
+							<div class="meta mb-2">Director de la Escuela Profesional de Ciencia de la Computación de la UNSA</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Pionero y Promotor de la Ciencia de la Computación en Arequipa, participó en el Diseño de la
+							COMPUTER SCIENCE CURRICULA FOR PERUVIAN UNIVERSITIES, ha sido fundador y director de la Escuela Profesional
+							de Ciencia de la Computación de la UNSA, Coordinador de la Cátedra en la FCIFF de la UCSM, Se ha capacitado
+							en Semánticas y Aplicaciones en Montevideo Uruguay, Matemáticas Discretas en el Instituto de Sistemas Complejos
+							de Valparaíso Chile, Evaluación para la Acreditación en Programas de Ingeniería de ICACIT Perú, estudio su Maestría
+							en Matemática en la Pontificia Universidad Catolica del Perú, actualmente es Candidato a Doctor en la Universidad
+							Nacional de San Agustín.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-luciano-romero" id="modal-luciano-romero" tabindex="-1" role="dialog" aria-labelledby="speaker-1-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1151,8 +1155,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 2 -->
-	<div class="modal modal-speaker modal-speaker-2" id="modal-speaker-2" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-lizeth-fuentes" id="modal-lizeth-fuentes" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1189,8 +1193,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 3 -->
-	<div class="modal modal-speaker modal-speaker-3" id="modal-speaker-3" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-marcelo-flores" id="modal-marcelo-flores" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1225,43 +1229,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 4 -->
-	<div class="modal modal-speaker modal-speaker-4" id="modal-speaker-4" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Jesús P. Mena-Chalco</h4>
-				</div>
-				<div class="modal-body p-0">
-					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/jesus-mena.jpg" alt="" />
-
-						<div class="media-body text-center text-md-left mx-auto">
-							<h2 class="name mb-2">Jesús P. Mena-Chalco</h2>
-							<div class="meta">MSc. y Ph. D. en Computer Science</div>
-							<div class="meta mb-2">Professor Adjunto - CMCC - UFABC</div>
-							<ul class="social-list list-inline mb-0">
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
-							</ul><!--//social-list-->
-						</div><!--//media-body-->
-					</div><!--//media-->
-
-					<div class="desc p-4 p-lg-5">
-						<p class="mb-0">
-							Ex aluno de Ingeniería de Sistemas - UNSA/Perú, Magister y Doctor en Ciencia de la Computación
-							- IME/USP/Brasil, y Profesor en el Departamento de Ciência de la Computação en la Universidade
-							Federal do ABC - São Paulo/Brasil.
-						</p>
-					</div>
-				</div><!--//modal-body-->
-			</div><!--//modal-content-->
-		</div><!--//modal-dialog-->
-	</div><!--//modal-->
-	<!-- Modal Speaker 5 -->
-	<div class="modal modal-speaker modal-speaker-5" id="modal-speaker-5" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-jorge-poco" id="modal-jorge-poco" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1300,8 +1269,123 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 6 -->
-	<div class="modal modal-speaker modal-speaker-6" id="modal-speaker-6" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-alvaro-cuno" id="modal-alvaro-cuno" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Alvaro Ernesto Cuno Parari</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/jorge-poco.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Alvaro Ernesto Cuno Parari</h2>
+							<div class="meta">MSc. y Ph. D. en Computer Science</div>
+							<div class="meta mb-2">Universidad Federal de Rio de Janeiro, Brazil</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Alvaro Cuno es especialista en proyectos basados en las Tecnologías de la Información, con énfasis en el diseño,
+							construcción e integración de componentes y servicios, que dan soporte a la digitalización de las organizaciones.
+							Asimismo, posee amplia experiencia en seguridad de la información, gestión de TI, firmas digitales, identidades
+							digitales, tarjetas inteligentes, entre otros. Su formación académica empezó en la Universidad Nacional de San Agustín,
+							donde obtuvo el título de Ingeniero de Sistemas. Seguidamente, obtuvo su maestría en Ingeniería de Sistemas y Computación
+							en la Universidad Federal de Río de Janeiro, y finalmente, obtuvo el grado de doctor en la misma universidad. En el 2016,
+							realizó una pasantía de tres meses en la Freie University of Berlin - Alemania con la finalidad de reforzar sus conocimientos
+							en el área de Identidad Digital. Actualmente, se desempeña como Investigador Asociado del proyecto KUSISQA adscrito a la EP
+							de Ciencia de la Computación de la UNSA.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-liliana-mamani" id="modal-liliana-mamani" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Liliana Mamani Sanchez</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/jorge-poco.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Liliana Mamani Sanchez</h2>
+							<div class="meta">MSc. y Ph. D. en Computer Science</div>
+							<div class="meta mb-2">Trinity College Dublin</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Liliana es bachiller en Ingeniería de Sistemas por la UNSA. Realizó estudios de maestría en Brasil
+							en el Instituto Militar de Engenharia, donde se especializó en el área de Lingüística Computacional.
+							Siguiendo su interés en el procesamiento automático de lenguajes fue a Irlanda donde se graduó como
+							Phd in Computer Science en Trinity College Dublin. Ella ha trabajado como docente en el área en Perú
+							e Irlanda y también como investigadora post-doctoral. En la actualidad, trabaja en una empresa Alemana
+							de gestión de reputación online en el área de Procesamiento Lenguaje Natural. Aún extraña el ceviche
+							con pescado fresco.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-jesus-mena" id="modal-jesus-mena" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Jesús P. Mena-Chalco</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/jesus-mena.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Jesús P. Mena-Chalco</h2>
+							<div class="meta">MSc. y Ph. D. en Computer Science</div>
+							<div class="meta mb-2">Professor Adjunto - CMCC - UFABC</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Ex aluno de Ingeniería de Sistemas - UNSA/Perú, Magister y Doctor en Ciencia de la Computación
+							- IME/USP/Brasil, y Profesor en el Departamento de Ciência de la Computação en la Universidade
+							Federal do ABC - São Paulo/Brasil.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-pablo-calcina" id="modal-pablo-calcina" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1337,8 +1421,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 7 -->
-	<div class="modal modal-speaker modal-speaker-7" id="modal-speaker-7" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-edward-pacheco" id="modal-edward-pacheco" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1373,8 +1457,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 8 -->
-	<div class="modal modal-speaker modal-speaker-8" id="modal-speaker-8" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-omar-flores" id="modal-omar-flores" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1417,8 +1501,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 9 -->
-	<div class="modal modal-speaker modal-speaker-9" id="modal-speaker-9" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-yamilet-serrano" id="modal-yamilet-serrano" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1461,8 +1545,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 10 -->
-	<div class="modal modal-speaker modal-speaker-10" id="modal-speaker-10" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-lizeth-tapia" id="modal-lizeth-tapia" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1509,8 +1593,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 11 -->
-	<div class="modal modal-speaker modal-speaker-11" id="modal-speaker-11" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-ernesto-cuadros" id="modal-ernesto-cuadros" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1552,8 +1636,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 12 -->
-	<div class="modal modal-speaker modal-speaker-12" id="modal-speaker-12" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-cristian-lopez" id="modal-cristian-lopez" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1591,8 +1675,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 13 -->
-	<div class="modal modal-speaker modal-speaker-13" id="modal-speaker-13" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-juan-vilca" id="modal-juan-vilca" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1625,8 +1709,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 14 -->
-	<div class="modal modal-speaker modal-speaker-14" id="modal-speaker-14" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-alexander-benavides" id="modal-alexander-benavides" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1663,8 +1747,8 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 15 -->
-	<div class="modal modal-speaker modal-speaker-15" id="modal-speaker-15" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-daniel-aliaga" id="modal-daniel-aliaga" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1701,47 +1785,7 @@
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
 
-	<!-- Modal Speaker 16 -->
-	<div class="modal modal-speaker modal-speaker-16" id="modal-speaker-16" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Wilber Roberto Ramos Lovón</h4>
-				</div>
-				<div class="modal-body p-0">
-					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/wilber-ramos.jpg" alt="" />
-
-						<div class="media-body text-center text-md-left mx-auto">
-							<h2 class="name mb-2">Wilber Roberto Ramos Lovón</h2>
-							<div class="meta">Lic. en Matemática</div>
-							<div class="meta">MSc. en Computer Science</div>
-							<div class="meta mb-2">Director de la Escuela Profesional de Ciencia de la Computación de la UNSA</div>
-							<ul class="social-list list-inline mb-0">
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
-							</ul><!--//social-list-->
-						</div><!--//media-body-->
-					</div><!--//media-->
-
-					<div class="desc p-4 p-lg-5">
-						<p class="mb-0">
-							Pionero y Promotor de la Ciencia de la Computación en Arequipa, participó en el Diseño de la
-							COMPUTER SCIENCE CURRICULA FOR PERUVIAN UNIVERSITIES, ha sido fundador y director de la Escuela Profesional
-							de Ciencia de la Computación de la UNSA, Coordinador de la Cátedra en la FCIFF de la UCSM, Se ha capacitado
-							en Semánticas y Aplicaciones en Montevideo Uruguay, Matemáticas Discretas en el Instituto de Sistemas Complejos
-							de Valparaíso Chile, Evaluación para la Acreditación en Programas de Ingeniería de ICACIT Perú, estudio su Maestría
-							en Matemática en la Pontificia Universidad Catolica del Perú, actualmente es Candidato a Doctor en la Universidad
-							Nacional de San Agustín.
-						</p>
-					</div>
-				</div><!--//modal-body-->
-			</div><!--//modal-content-->
-		</div><!--//modal-dialog-->
-	</div><!--//modal-->
-	<!-- Modal Speaker 17 -->
+	<!-- Modal Speaker -->
 	<div class="modal modal-speaker modal-speaker-17" id="modal-speaker-17" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
@@ -1779,7 +1823,7 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 18 -->
+	<!-- Modal Speaker -->
 	<div class="modal modal-speaker modal-speaker-18" id="modal-speaker-18" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
@@ -1815,7 +1859,7 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-	<!-- Modal Speaker 19 -->
+	<!-- Modal Speaker -->
 	<div class="modal modal-speaker modal-speaker-19" id="modal-speaker-19" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
@@ -1840,14 +1884,12 @@
 
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
-							Doctor en Ciencias de la Computación por la Cátedra CONCYTEC de la Universidad Nacional de San Agustín (Perú).
-							Master en Ciencias de la Computación y Matemática Computacional, realizado en el Instituto de Ciencias Matemáticas
-							y de Computación (ICMC) de la Universidad de São Paulo (Brasil). Miembro fundador de la Sociedad Peruana de Computación
-							(SPC) Perú. Actualmente desempeña el cargo de Director de Escuela Profesional de Ciencia de la Computación de la Universidad
-							Nacional de San Agustín (Arequipa - Perú). Profesor en el Programa Profesional de Ingeniería Informática en la Universidad
-							Católica San Pablo (Arequipa - Perú) Profesor en Escuela Profesional de Ingeniería de Sistemas en la Universidad Nacional
-							San Agustín (Arequipa - Perú) Áreas de interés: Redes Complejas Reconocimiento de Patrones, Redes Neuronales, Sistemas
-							dinámicos no lineales, Procesamiento de Imágenes.
+							Doctor en Ciencia de la Computación por la Cátedra CONCYTEC de la Universidad Nacional de San Agustín (Perú).
+							Master en Ciencia de la Computación y Matemática Computacional, por el Instituto de Ciencias Matemáticas y de
+							Computación (ICMC) de la Universidad de São Paulo (Brasil). Actualmente es calificado como Investigador CONCYTEC,
+							y es profesor investigador por la Universidad Nacional de San Agustín de Arequipa, es miembro fundador de la Sociedad
+							Peruana de Computación (SPC) Perú. Tiene las siguientes áreas de interés como: Deep Learning, Redes Complejas, Sistemas
+							Dinámicos no Lineales, Reconocimiento de Patrones y Procesamiento de Imágenes.
 						</p>
 					</div>
 				</div><!--//modal-body-->
