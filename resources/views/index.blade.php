@@ -35,7 +35,7 @@
 
 							<li class="nav-item"><a class="nav-link scrollto" href="#about-section">Sobre</a></li>
 							<li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Ponencias</a></li>
-							<li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Cronograma</a></li>
+							<li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Programa</a></li>
 							<li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Participación</a></li>
 							<li class="nav-item"><a class="nav-link scrollto" href="#sponsors-section">Sponsors</a></li>
 						</ul><!--//nav-->
@@ -116,7 +116,7 @@
 		<div class="container">
 			<h3 class="section-heading text-center mb-3">Sobre la Semana</h3>
 			<div class="section-intro single-col-max mx-auto mb-4">
-				La Semana de Ciencia de la Computación es un evento organizado anualmente por la Escuela Profesional de Ciencia de la Computación de la
+				La Semana de la Computación es un evento organizado anualmente por la Escuela Profesional de Ciencia de la Computación de la
 				Universidad Nacional de San Agustín de Arequipa, en la cual se exponen los distintos trabajos y logros
 				de estudiantes y docentes, además de contar con una serie de charlas y conferencias de
 				<strong>ponencias nacionales e internacionales</strong>. No bastando con las actividades académicas, también se realizan
@@ -145,8 +145,8 @@
 			<div class="container">
 				<h4 class="text-white text-center mb-3">Antes de Comenzar</h4>
 				<div class="section-intro text-center single-col-max mx-auto text-white mb-5">
-					Antes de comenzar, te proponemos revisar el video de nuestra Primera Semana de Ciencia de la Computación, la cual se dio en el año 2018 de forma presencial.
-					Debido a la situación actual, esta Tercera Semana de Ciencia de la Computación será de forma virtual, pero a pesar de ello, esta misma se hará de la mejor
+					Antes de comenzar, te proponemos revisar el video de nuestra 3ra Edición de la Semana de la Computación, la cual se dio en el año 2018 de forma presencial.
+					Debido a la situación actual, esta 3ra Edición de la Semana de la Computación será de forma virtual, pero a pesar de ello, esta misma se hará de la mejor
 					forma posible gracias a la preparación que venimos realizando previamente.
 				</div>
 				<div class="row">
@@ -164,8 +164,27 @@
 	<section id="speakers-section" class="speakers-section section">
 		<div class="container">
 			<h3 class="section-heading text-center mb-3">Ponentes</h3>
-			<div class="section-intro text-center single-col-max mx-auto mb-5">Los ponentes que estarán presentes para esta Semana de Ciencia de la Computación son:</div>
+			<div class="section-intro text-center single-col-max mx-auto mb-5">Los ponentes que estarán presentes para esta Semana de la Computación son:</div>
 			<div class="row">
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos"><img src="/images/speakers/wilber-ramos.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Wilber Ramos</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Director de la EPCC</div>
+							</div><!--//card-text-->
+							<a href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
 						<a href="#modal-luciano-romero" data-toggle="modal" data-target="#modal-luciano-romero"><img src="/images/speakers/luciano-romero.jpg" class="card-img-top rounded-0" alt=""></a>
@@ -226,13 +245,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-jesus-mena" data-toggle="modal" data-target="#modal-jesus-mena"><img src="/images/speakers/jesus-mena.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco"><img src="/images/speakers/jorge-poco.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
-							<h5 class="card-title mb-2">Jesús Mena</h5>
+							<h5 class="card-title mb-2">Jorge Poco</h5>
 							<div class="card-text mb-3">
-								<div class="meta">Ph. D. en Computer Science - IME/USP/Brasil</div>
+								<div class="meta">Ph. D. en Computer Science</div>
+								<div class="meta">New York University</div>
 							</div><!--//card-text-->
-							<a href="#modal-jesus-mena" data-toggle="modal" data-target="#modal-jesus-mena">Leer más &rarr;</a>
+							<a href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -245,14 +265,54 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco"><img src="/images/speakers/jorge-poco.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-alvaro-cuno" data-toggle="modal" data-target="#modal-alvaro-cuno"><img src="/images/speakers/alvaro-cuno.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
-							<h5 class="card-title mb-2">Jorge Poco</h5>
+							<h5 class="card-title mb-2">Alvaro Cuno</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
-								<div class="meta">New York University</div>
+								<div class="meta">Universidad Federal de Rio de Janeiro</div>
 							</div><!--//card-text-->
-							<a href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco">Leer más &rarr;</a>
+							<a href="#modal-alvaro-cuno" data-toggle="modal" data-target="#mmodal-alvaro-cuno">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-liliana-mamani" data-toggle="modal" data-target="#modal-liliana-mamani"><img src="/images/speakers/liliana-mamani.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Liliana Mamani</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Ph. D. en Computer Science</div>
+								<div class="meta">Trinity College Dublin</div>
+							</div><!--//card-text-->
+							<a href="#modal-liliana-mamani" data-toggle="modal" data-target="#mmodal-liliana-mamani">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-jesus-mena" data-toggle="modal" data-target="#modal-jesus-mena"><img src="/images/speakers/jesus-mena.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Jesús Mena</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Ph. D. en Computer Science</div>
+								<div class="meta">IME/USP/Brasil</div>
+							</div><!--//card-text-->
+							<a href="#modal-jesus-mena" data-toggle="modal" data-target="#modal-jesus-mena">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -305,14 +365,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-omar-flores" data-toggle="modal" data-target="#modal-omar-flores"><img src="/images/speakers/omar-flores.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-omar-florez" data-toggle="modal" data-target="#modal-omar-florez"><img src="/images/speakers/omar-florez.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Omar Florez</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">Investigador en Machine Learning, Twitter</div>
 							</div><!--//card-text-->
-							<a href="#modal-omar-flores" data-toggle="modal" data-target="#modal-omar-flores">Leer más &rarr;</a>
+							<a href="#modal-omar-florez" data-toggle="modal" data-target="#modal-omar-florez">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -385,14 +445,34 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-cristian-lopez" data-toggle="modal" data-target="#modal-cristian-lopez"><img src="/images/speakers/cristian-lopez.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-juan-carlos-gutierrez" data-toggle="modal" data-target="#modal-juan-carlos-gutierrez"><img src="/images/speakers/juan-carlos-gutierrez.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
-							<h5 class="card-title mb-2">Cristian Lopez</h5>
+							<h5 class="card-title mb-2">Juan Carlos Gutierrez</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Ph. D. en Computer Science</div>
+								<div class="meta">Universidad Nacional de San Agustín</div>
+							</div><!--//card-text-->
+							<a href="#modal-juan-carlos-gutierrez" data-toggle="modal" data-target="#modal-juan-carlos-gutierrez">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-ana-maria-cuadros" data-toggle="modal" data-target="#modal-ana-maria-cuadros"><img src="/images/speakers/ana-maria-cuadros.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Ana María Cuadros</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
 								<div class="meta">Universidad Nacional de San Agustin</div>
 							</div><!--//card-text-->
-							<a href="#modal-cristian-lopez" data-toggle="modal" data-target="#modal-cristian-lopez">Leer más &rarr;</a>
+							<a href="#modal-ana-maria-cuadros" data-toggle="modal" data-target="#modal-ana-maria-cuadros">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -425,14 +505,14 @@
 				</div><!--//col-->
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
-						<a href="#modal-alexander-benavides" data-toggle="modal" data-target="#modal-alexander-benavides"><img src="/images/speakers/alexander-benavides.jpg" class="card-img-top rounded-0" alt=""></a>
+						<a href="#modal-edward-hinojosa" data-toggle="modal" data-target="#modal-edward-hinojosa"><img src="/images/speakers/edward-hinojosa.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
-							<h5 class="card-title mb-2">Alexander Benavides</h5>
+							<h5 class="card-title mb-2">Edward Hinojosa</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Ph. D. en Computer Science</div>
-								<div class="meta">Universidad Federal de Rio Grande do Sul</div>
+								<div class="meta">Universidad Nacional de San Agustin</div>
 							</div><!--//card-text-->
-							<a href="#modal-alexander-benavides" data-toggle="modal" data-target="#modal-alexander-benavides">Leer más &rarr;</a>
+							<a href="#modal-edward-hinojosa" data-toggle="modal" data-target="#modal-edward-hinojosa">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -453,6 +533,26 @@
 								<div class="meta"> University of North Carolina at Chapel Hill</div>
 							</div><!--//card-text-->
 							<a href="#modal-daniel-aliaga" data-toggle="modal" data-target="#modal-daniel-aliaga">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-cesar-beltran" data-toggle="modal" data-target="#modal-cesar-beltran"><img src="/images/speakers/cesar-beltran.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">César Beltrán</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Ph. D. en Computer Science</div>
+								<div class="meta">Universidad de São Paulo</div>
+							</div><!--//card-text-->
+							<a href="#modal-cesar-beltran" data-toggle="modal" data-target="#modal-cesar-beltran">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -650,14 +750,30 @@
 					</div><!--//item-->
 					<div class="item item-talk">
 						<div class="meta">
-							<h4 class="time mb-3">11:00 - 12:00</h4>
+							<h4 class="time mb-3">10:00 - 11:00</h4>
 							<div class="profile">
-								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/default.png" alt=""></a>
-								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Ponente</a></div>
+								<a href="#modal-alvaro-cuno" data-toggle="modal" data-target="#modal-alvaro-cuno"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/alvaro-cuno.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-alvaro-cuno" data-toggle="modal" data-target="#modal-alvaro-cuno">Alvaro Cuno</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Ponencia de Alto Impacto</h3>
+							<h3 class="title mb-3">Firmas electrónicas y digitales</h3>
+							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
+							<div class="desc">
+								<br><br><br><br>
+							</div>
+						</div><!--//content-->
+					</div><!--//item-->
+					<div class="item item-talk">
+						<div class="meta">
+							<h4 class="time mb-3">11:00 - 12:00</h4>
+							<div class="profile">
+								<a href="#modal-liliana-mamani" data-toggle="modal" data-target="#modal-liliana-mamani"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/liliana-mamani.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-liliana-mamani" data-toggle="modal" data-target="#modal-liliana-mamani">Liliana Mamani</a></div>
+							</div><!--//profile-->
+						</div><!--//meta-->
+						<div class="content">
+							<h3 class="title mb-3">Procesamiento de Lenguaje Natural en una empresa de gestión de reputación online</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -681,7 +797,7 @@
 							<h4 class="time mb-3">15:00 - 18:00</h4>
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Concurso de Programación</h3>
+							<h3 class="title mb-3">Trabajos de Investigación de Pregrado</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -701,22 +817,6 @@
 						</div><!--//meta-->
 						<div class="content">
 							<h3 class="title mb-3">Genealogia academica: Caracterización y análisis usando métodos computacionales</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
-							<div class="desc">
-								<br><br><br><br>
-							</div>
-						</div><!--//content-->
-					</div><!--//item-->
-					<div class="item item-talk">
-						<div class="meta">
-							<h4 class="time mb-3">8:00 - 9:00</h4>
-							<div class="profile">
-								<a href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/wilber-ramos.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos">Wilber Ramos</a></div>
-							</div><!--//profile-->
-						</div><!--//meta-->
-						<div class="content">
-							<h3 class="title mb-3">Convenio Cyted - Director Wilber Ramos Lovón</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -763,8 +863,8 @@
 						<div class="meta">
 							<h4 class="time mb-3">11:00 - 12:00</h4>
 							<div class="profile">
-								<a href="#modal-omar-flores" data-toggle="modal" data-target="#modal-omar-flores"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/omar-flores.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-omar-flores" data-toggle="modal" data-target="#modal-omar-flores">Omar Flores</a></div>
+								<a href="#modal-omar-florez" data-toggle="modal" data-target="#modal-omar-florez"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/omar-florez.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-omar-florez" data-toggle="modal" data-target="#modal-omar-florez">Omar Flores</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
@@ -792,7 +892,7 @@
 							<h4 class="time mb-3">15:00 - 18:00</h4>
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Trabajos de Investigación de Pregrado</h3>
+							<h3 class="title mb-3">Concurso de Programación</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -811,10 +911,14 @@
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Yamilet Serrano</h3>
+							<h3 class="title mb-3">¿Cuánto sabemos del proceso de verificación de Software?</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
-								<br><br><br><br>
+								En esta charla, Prof. Yamilet Serrano presentará los fundamentos básicos para realizar
+								un software confiable y escalable. En particular, introducirá diferentes métodos formales
+								de verificación de software, los cuales han sido ampliamente usados en communication protocols,
+								e-commerce, cloud computing, etc. Por último, Prof. Serrano presentará un resumen de su tesis doctoral
+								“Applications of Perturbation Analysis in Probabilistic Model Checking”.
 							</div>
 						</div><!--//content-->
 					</div><!--//item-->
@@ -859,12 +963,12 @@
 						<div class="meta">
 							<h4 class="time mb-3">11:00 - 12:00</h4>
 							<div class="profile">
-								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/default.png" alt=""></a>
-								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Ponente</a></div>
+								<a href="#modal-juan-carlos-gutierrez" data-toggle="modal" data-target="#modal-juan-carlos-gutierrez"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/juan-carlos-gutierrez.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#César Beltrán" data-toggle="modal" data-target="#César Beltrán">Juan Carlos Gutiérrez</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Ponencia de Alto Impacto</h3>
+							<h3 class="title mb-3">Detección de Acciones Violentas en Escenas de Video con Fines de Seguridad Ciudadana</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -887,12 +991,12 @@
 						<div class="meta">
 							<h4 class="time mb-3">15:00 - 16:00</h4>
 							<div class="profile">
-								<a href="#modal-cristian-lopez" data-toggle="modal" data-target="#modal-cristian-lopez"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/cristian-lopez.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-cristian-lopez" data-toggle="modal" data-target="#modal-cristian-lopez">Cristian Lopez</a></div>
+								<a href="#modal-ana-maria-cuadros" data-toggle="modal" data-target="#modal-ana-maria-cuadros"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/ana-maria-cuadros.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-ana-maria-cuadros" data-toggle="modal" data-target="#modal-ana-maria-cuadros">Ana María Cuadros</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Cristian Lopez</h3>
+							<h3 class="title mb-3">Ana María Cuadros</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -919,12 +1023,12 @@
 						<div class="meta">
 							<h4 class="time mb-3">17:00 - 18:00</h4>
 							<div class="profile">
-								<a href="#modal-alexander-benavides" data-toggle="modal" data-target="#modal-alexander-benavides"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/alexander-benavides.jpg" alt=""></a>
-								<div class="name"><a class="theme-link" href="#modal-alexander-benavides" data-toggle="modal" data-target="#modal-alexander-benavides">Alexander Benavides</a></div>
+								<a href="#modal-edward-hinojosa" data-toggle="modal" data-target="#modal-edward-hinojosa"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/edward-hinojosa.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-edward-hinojosa" data-toggle="modal" data-target="#modal-edward-hinojosa">Edward Hinojosa</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Alexander Benavides</h3>
+							<h3 class="title mb-3">Edward Hinojosa</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -938,38 +1042,6 @@
 						<div class="meta">
 							<h4 class="time mb-3">8:00 - 9:00</h4>
 							<div class="profile">
-								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/default.png" alt=""></a>
-								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Ponente</a></div>
-							</div><!--//profile-->
-						</div><!--//meta-->
-						<div class="content">
-							<h3 class="title mb-3">Ponencia</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
-							<div class="desc">
-								<br><br><br><br>
-							</div>
-						</div><!--//content-->
-					</div><!--//item-->
-					<div class="item item-talk">
-						<div class="meta">
-							<h4 class="time mb-3">9:00 - 10:00</h4>
-							<div class="profile">
-								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/default.png" alt=""></a>
-								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Ponente</a></div>
-							</div><!--//profile-->
-						</div><!--//meta-->
-						<div class="content">
-							<h3 class="title mb-3">Ponencia de Alto Impacto</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
-							<div class="desc">
-								<br><br><br><br>
-							</div>
-						</div><!--//content-->
-					</div><!--//item-->
-					<div class="item item-talk">
-						<div class="meta">
-							<h4 class="time mb-3">10:00 - 11:00</h4>
-							<div class="profile">
 								<a href="#modal-daniel-aliaga" data-toggle="modal" data-target="#modal-daniel-aliaga"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/daniel-aliaga.jpg" alt=""></a>
 								<div class="name"><a class="theme-link" href="#modal-daniel-aliaga" data-toggle="modal" data-target="#modal-daniel-aliaga">Daniel Aliaga</a></div>
 							</div><!--//profile-->
@@ -982,12 +1054,68 @@
 							</div>
 						</div><!--//content-->
 					</div><!--//item-->
+					<div class="item item-talk">
+						<div class="meta">
+							<h4 class="time mb-3">9:00 - 10:00</h4>
+							<div class="profile">
+								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/cslogos/kusisqa.png" alt=""></a>
+								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Kusisqa</a></div>
+							</div><!--//profile-->
+						</div><!--//meta-->
+						<div class="content">
+							<h3 class="title mb-3">Proyecto Kusisqa</h3>
+							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
+							<div class="desc">
+								<br><br><br><br>
+							</div>
+						</div><!--//content-->
+					</div><!--//item-->
+					<div class="item item-talk">
+						<div class="meta">
+							<h4 class="time mb-3">10:00 - 11:00</h4>
+							<div class="profile">
+								<a href="#modal-cesar-beltran" data-toggle="modal" data-target="#modal-cesar-beltran"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/cesar-beltran.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-cesar-beltran" data-toggle="modal" data-target="#modal-cesar-beltran">César Beltrán</a></div>
+							</div><!--//profile-->
+						</div><!--//meta-->
+						<div class="content">
+							<h3 class="title mb-3">César Beltrán</h3>
+							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
+							<div class="desc">
+								<br><br><br><br>
+							</div>
+						</div><!--//content-->
+					</div><!--//item-->
 					<div class="item item-other">
 						<div class="meta">
 							<h4 class="time mb-3">11:00 - 12:00</h4>
 						</div><!--//meta-->
 						<div class="content">
 							<h3 class="title mb-3">Cierre de la Ceremonia</h3>
+							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
+							<div class="desc">
+								<br><br>
+							</div>
+						</div><!--//content-->
+					</div><!--//item-->
+					<div class="item item-other">
+						<div class="meta">
+							<h4 class="time mb-3">12:00 - 15:00</h4>
+						</div><!--//meta-->
+						<div class="content">
+							<h3 class="title mb-3">Break de Almuerzo</h3>
+							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
+							<div class="desc">
+								<br><br>
+							</div>
+						</div><!--//content-->
+					</div><!--//item-->
+					<div class="item item-other">
+						<div class="meta">
+							<h4 class="time mb-3">15:00 - 18:00</h4>
+						</div><!--//meta-->
+						<div class="content">
+							<h3 class="title mb-3">Evento Social</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br>
@@ -1008,9 +1136,9 @@
 			<div class="row py-lg-5">
 				<div class="col-12 col-lg-7 h-100">
 					<div class="desc">
-						<h4 class="text-white mb-3">Cómo participar de la 3ra Semana de Ciencia de la Computación</h4>
+						<h4 class="text-white mb-3">Cómo participar de la 3ra Semana de la Computación</h4>
 						<p>
-							Para poder participar de la 3ra Semana de Ciencia de la Computación podrás realizarlo vía Google Forms.
+							Para poder participar de la 3ra Semana de la Computación podrás realizarlo vía Google Forms.
 							De esta forma podremos tener registro de tu e-mail y poder Agendarte y Notificarte gracias a la herramienta Google Calendar,
 							donde se estarán gestionando las invitaciones y los links correspondientes de las videoconferencias que se darán
 							via Google Meet. Además, podrás sincronizar tu Google Drive con los posters o informaciones adicionales gratuitas que se
@@ -1279,7 +1407,7 @@
 				</div>
 				<div class="modal-body p-0">
 					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/jorge-poco.jpg" alt="" />
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/alvaro-cuno.jpg" alt="" />
 
 						<div class="media-body text-center text-md-left mx-auto">
 							<h2 class="name mb-2">Alvaro Ernesto Cuno Parari</h2>
@@ -1320,7 +1448,7 @@
 				</div>
 				<div class="modal-body p-0">
 					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/jorge-poco.jpg" alt="" />
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/liliana-mamani.jpg" alt="" />
 
 						<div class="media-body text-center text-md-left mx-auto">
 							<h2 class="name mb-2">Liliana Mamani Sanchez</h2>
@@ -1458,7 +1586,7 @@
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
 	<!-- Modal Speaker -->
-	<div class="modal modal-speaker modal-omar-flores" id="modal-omar-flores" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<div class="modal modal-speaker modal-omar-florez" id="modal-omar-florez" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -1467,7 +1595,7 @@
 				</div>
 				<div class="modal-body p-0">
 					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/omar-flores.jpg" alt="" />
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/omar-florez.jpg" alt="" />
 
 						<div class="media-body text-center text-md-left mx-auto">
 							<h2 class="name mb-2">Omar U. Florez</h2>
@@ -1527,18 +1655,16 @@
 
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
-							Doctora en Ciencia de Computación otorgado por el departamento de Ciencia de la Computación de la
-							Universidad Nacional de Singapur (NUS). Primera peruana en obtener el grado de doctor en NUS.
-							Experta en verificación probabilística de softwares críticos, testeo y verificación de software.
-							Actualmente sus proyectos están enfocados en la exploración y minería de datos utilizando técnicas
-							de Inteligencia Artificial. Sus áreas de investigación son Ingeniería de Software, Computación Sostenible,
-							Inteligencia Artificial, Ciencia de Datos y proyectos relacionados con las áreas de Ciencia de Computación.
-							Ha sido parte del equipo de desarrollo académico de la herramienta de trazado de contacto del aplicativo
-							Perú en tus manos junto a más de 40 investigadores del Perú y el extranjero. Actualmente, es coordinadora
-							de la carrera de Ciencia de Datos y docente investigadora de la carrera de Ciencia de la Computación de
-							Universidad de Ingeniería y Tecnología (UTEC). Además, se encuentra a cargo de la coordinación de las
-							maestrías de Ciencia de la Computación en la Escuela de Posgrado de dicha institución. Miembro activa
-							del centro de Investigación de Computación Sostenible (COMPSUST) y de IEEE Women in Engineering.
+							Actualmente, Dra. Yamilet R. Serrano Llerena es la coordinadora de Ciencia de Datos y docente en la carrera de
+							Ciencia de la Computación de UTEC. Ella obtuvo su grado de doctor en el departamento de Ciencia de la Computación
+							de la Universidad Nacional de Singapur (NUS). Su investigación se centra en las áreas de métodos formales e ingeniería
+							de software. El objetivo de sus investigaciones es estudiar el efecto de la incertidumbre en la verificación probabilística
+							de sistemas mediante el análisis de perturbaciones. Los resultados de sus investigaciones aparecen en destacadas conferencias
+							de ciencia de computación tales como Foundations of Software Engineering (FSE). Durante sus estudios de doctorado, Yamilet ha
+							participado como ponente en diversas plataformas tales como FSE2014, ESEC-FSE2017 y QMCW16 y  realizó una visita académica en
+							Humboldt-Universitat zu Berlin expandiendo sus horizontes de investigación. En varias oportunidades, Yamilet ha participado en
+							distintos proyectos de investigación de NUS tales como: “Especificación y Verificación para Futuros Programadores”, “Avances en
+							Modelamiento y Análisis Probabilístico”, y “Modelamiento y Análisis de Sistemas Estocásticos con Parámetros Perturbados”.
 						</p>
 					</div>
 				</div><!--//modal-body-->
@@ -1637,19 +1763,56 @@
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
 	<!-- Modal Speaker -->
-	<div class="modal modal-speaker modal-cristian-lopez" id="modal-cristian-lopez" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<div class="modal modal-speaker modal-juan-carlos-gutierrez" id="modal-juan-carlos-gutierrez" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Cristian Lopez del Alamo</h4>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Juan Carlos Gutierrez Cáceres</h4>
 				</div>
 				<div class="modal-body p-0">
 					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/cristian-lopez.jpg" alt="" />
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/juan-carlos-gutierrez.jpg" alt="" />
 
 						<div class="media-body text-center text-md-left mx-auto">
-							<h2 class="name mb-2">Cristian Lopez del Alamo</h2>
+							<h2 class="name mb-2">Juan Carlos Gutierrez Cáceres</h2>
+							<div class="meta">MSc. y Ph. D. en Computer Science</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Doctor en Ciencia de la Computación por la Cátedra CONCYTEC de la Universidad Nacional de San Agustín (Perú).
+							Master en Ciencia de la Computación y Matemática Computacional, por el Instituto de Ciencias Matemáticas y de
+							Computación (ICMC) de la Universidad de São Paulo (Brasil). Actualmente es calificado como Investigador CONCYTEC,
+							y es profesor investigador por la Universidad Nacional de San Agustín de Arequipa, es miembro fundador de la Sociedad
+							Peruana de Computación (SPC) Perú. Tiene las siguientes áreas de interés como: Deep Learning, Redes Complejas, Sistemas
+							Dinámicos no Lineales, Reconocimiento de Patrones y Procesamiento de Imágenes.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-ana-maria-cuadros" id="modal-ana-maria-cuadros" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Ana María Cuadros Valdivia</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/ana-maria-cuadros.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Ana María Cuadros Valdivia</h2>
 							<div class="meta">Ph. D. en Computer Science</div>
 							<div class="meta mb-2">Universidad Nacional de San Agustin</div>
 							<ul class="social-list list-inline mb-0">
@@ -1662,13 +1825,11 @@
 
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
-							Cristian López Del Alamo, es Dr. en ciencias de la computación, con Felicitaciones públicas, por la Universidad Nacional
-							de San Agustín, y Magister en Ingeniería de Software con Máxima distinción por la Universidad de Tarapacá de Chile.
-							Actualmente, es Director del grupo de Investigación Image Processing and Data Mining (IPRODAM) y profesor investigador
-							a tiempo completo por la Universidad La Salle de Arequípa, además es profesor en Ciencias de la Computación en la Universidad
-							Nacional de San Agustín. A realizado una pasantía en el grupo Prisma de la Universidad de Chile y varios cursos en Brasil.
-							También, ha sido ponente en diversos lugares del Perú y américa Latina. Sus intereses de investigación están centrados en
-							análisis de curpos no Rígidos, minería de datos y algoritmia.
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+							labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+							nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+							esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+							culpa qui officia deserunt mollit anim id est laborum.
 						</p>
 					</div>
 				</div><!--//modal-body-->
@@ -1710,21 +1871,20 @@
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
 	<!-- Modal Speaker -->
-	<div class="modal modal-speaker modal-alexander-benavides" id="modal-alexander-benavides" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<div class="modal modal-speaker modal-edward-hinojosa" id="modal-edward-hinojosa" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Alexander Javier Benavides Rojas</h4>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Edward Hinojosa Cárdenas</h4>
 				</div>
 				<div class="modal-body p-0">
 					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/alexander-benavides.jpg" alt="" />
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/edward-hinojosa.jpg" alt="" />
 
 						<div class="media-body text-center text-md-left mx-auto">
-							<h2 class="name mb-2">Alexander Javier Benavides Rojas</h2>
+							<h2 class="name mb-2">Edward Hinojosa Cárdenas</h2>
 							<div class="meta">MSc. y Ph. D. en Computer Science</div>
-							<div class="meta mb-2">Universidad Federal de Rio Grande do Sul</div>
 							<ul class="social-list list-inline mb-0">
 								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
 								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
@@ -1735,12 +1895,11 @@
 
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
-							Bachiller en Ingeniería de Sistemas de la Universidad Nacional de San Agustín de Arequipa (2002),
-							Mestre (2010) y Doutor (2015) em Ciência da Computação de la Universidad Federal de Rio Grande do Sul.
-							Actualmente es investigador de pos-doctorado en Ciencia de la Computación a tiempo completo en la Universidad
-							Federal de Rio Grande do Sul. Tiene experiencia en Ciencia de la Computación, con foco en Análisis de Algoritmos
-							y Complejidad Computacional, actuando en los siguientes tópicos: Programación de tareas (shop scheduling) y de horarios
-							(timetabling), Heurísticas y Metaheurísticas.
+							Ingeniero de Sistemas en la Universidad Católica de Santa María - Arequipa. Magister en Ciencias de
+							la Computación en la Universidad Federal de San Carlos – Brasil y becado por el CAPES ( Coordenação
+							de Aperfeiçoamento de PEssoal de nivel Superior). Doctor en Ciencias de la Computación en la Universidad
+							Nacional de San Agustín y becado por el CONCYTEC (Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica).
+							Interés en Inteligencia Computacional, específicamente en algoritmos evolutivos y generación de sistemas difusos.
 						</p>
 					</div>
 				</div><!--//modal-body-->
@@ -1784,60 +1943,22 @@
 			</div><!--//modal-content-->
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
-
 	<!-- Modal Speaker -->
-	<div class="modal modal-speaker modal-speaker-17" id="modal-speaker-17" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+	<div class="modal modal-speaker modal-cesar-beltran" id="modal-cesar-beltran" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Jimmy Jefferson Túllume Salazar</h4>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">César Armando Beltrán Castañón</h4>
 				</div>
 				<div class="modal-body p-0">
 					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/jimmy-tullume.png" alt="" />
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/cesar-beltran.jpg" alt="" />
 
 						<div class="media-body text-center text-md-left mx-auto">
-							<h2 class="name mb-2">Jimmy Jefferson Túllume Salazar</h2>
-							<div class="meta">BS. en Systems Engineering</div>
-							<div class="meta">MSc. en Mención en Evaluación y Acreditación de la Calidad de la Educación</div>
-							<ul class="social-list list-inline mb-0">
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
-							</ul><!--//social-list-->
-						</div><!--//media-body-->
-					</div><!--//media-->
-
-					<div class="desc p-4 p-lg-5">
-						<p class="mb-0">
-							Jimmy Túllume holds a BS in Systems Engineering from Universidad Señor de Sipán. His
-							professional career started in 2009 at EKAM PERU S.A.C. (Business Consulting in
-							informatics Projects) as Systems Analyst. In 2010 he joined the Regional Government
-							of Lambayeque, where he worked in the project for migration to free software of the
-							Informatics Management Office. At the moment, he develops IS projects as a
-							freelance.
-						</p>
-					</div>
-				</div><!--//modal-body-->
-			</div><!--//modal-content-->
-		</div><!--//modal-dialog-->
-	</div><!--//modal-->
-	<!-- Modal Speaker -->
-	<div class="modal modal-speaker modal-speaker-18" id="modal-speaker-18" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Edward Hinojosa Cárdenas</h4>
-				</div>
-				<div class="modal-body p-0">
-					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/edward-hinojosa.jpg" alt="" />
-
-						<div class="media-body text-center text-md-left mx-auto">
-							<h2 class="name mb-2">Edward Hinojosa Cárdenas</h2>
+							<h2 class="name mb-2">César Armando Beltrán Castañón</h2>
 							<div class="meta">MSc. y Ph. D. en Computer Science</div>
+							<div class="meta mb-2">Universidad de São Paulo</div>
 							<ul class="social-list list-inline mb-0">
 								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
 								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
@@ -1848,48 +1969,13 @@
 
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
-							Ingeniero de Sistemas en la Universidad Católica de Santa María - Arequipa. Magister en Ciencias de
-							la Computación en la Universidad Federal de San Carlos – Brasil y becado por el CAPES ( Coordenação
-							de Aperfeiçoamento de PEssoal de nivel Superior). Doctor en Ciencias de la Computación en la Universidad
-							Nacional de San Agustín y becado por el CONCYTEC (Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica).
-							Interés en Inteligencia Computacional, específicamente en algoritmos evolutivos y generación de sistemas difusos.
-						</p>
-					</div>
-				</div><!--//modal-body-->
-			</div><!--//modal-content-->
-		</div><!--//modal-dialog-->
-	</div><!--//modal-->
-	<!-- Modal Speaker -->
-	<div class="modal modal-speaker modal-speaker-19" id="modal-speaker-19" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Juan Carlos Gutierrez Cáceres</h4>
-				</div>
-				<div class="modal-body p-0">
-					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
-						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/juan-carlos-gutierrez.jpg" alt="" />
-
-						<div class="media-body text-center text-md-left mx-auto">
-							<h2 class="name mb-2">Juan Carlos Gutierrez Cáceres</h2>
-							<div class="meta">MSc. y Ph. D. en Computer Science</div>
-							<ul class="social-list list-inline mb-0">
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
-							</ul><!--//social-list-->
-						</div><!--//media-body-->
-					</div><!--//media-->
-
-					<div class="desc p-4 p-lg-5">
-						<p class="mb-0">
-							Doctor en Ciencia de la Computación por la Cátedra CONCYTEC de la Universidad Nacional de San Agustín (Perú).
-							Master en Ciencia de la Computación y Matemática Computacional, por el Instituto de Ciencias Matemáticas y de
-							Computación (ICMC) de la Universidad de São Paulo (Brasil). Actualmente es calificado como Investigador CONCYTEC,
-							y es profesor investigador por la Universidad Nacional de San Agustín de Arequipa, es miembro fundador de la Sociedad
-							Peruana de Computación (SPC) Perú. Tiene las siguientes áreas de interés como: Deep Learning, Redes Complejas, Sistemas
-							Dinámicos no Lineales, Reconocimiento de Patrones y Procesamiento de Imágenes.
+							Doctor en Bioinformática (2007), y Magister en Ciencia de la Computación (2003), ambos en la Universidad de Sao Paulo (USP),
+							Brasil; realizó una estancia Post- doctoral en Texas A&M University (USA), 2016; posee graduación en Ing. de Sistemas de
+							la Universidad Católica de Santa María (Arequipa), 1993. Actualmente es Profesor Principal e Investigador Senior de la
+							Pontificia Universidad Católica del Perú, es líder fundador del Grupo científico en Inteligencia Artificial (IA-PUCP)
+							y Presidente de la IEEE Computer Society (2019-2020) de la cual es Miembro Senior (90432437). Posee una reconocida
+							trayectoria académica ejercida en diferentes universidades del país y extranjero. Posee publicaciones científicas
+							indexadas en revistas y conferencias así como participa de redes científicas mundiales.
 						</p>
 					</div>
 				</div><!--//modal-body-->
