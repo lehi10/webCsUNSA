@@ -24,7 +24,7 @@
 					</div>
 
 					<!-- Register -->
-					<div class="navbar-btn order-lg-2"><a class="btn btn-secondary" href="#" target="_blank">Registrarse</a></div>
+					<div class="navbar-btn order-lg-2"><a class="btn btn-secondary" href="#venue-section">Registrarse</a></div>
 
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
@@ -37,6 +37,7 @@
 							<li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Ponencias</a></li>
 							<li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Programa</a></li>
 							<li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Participación</a></li>
+							<li class="nav-item"><a class="nav-link scrollto" href="#committee-section">Organización</a></li>
 							<li class="nav-item"><a class="nav-link scrollto" href="#sponsors-section">Sponsors</a></li>
 						</ul><!--//nav-->
 					</div><!--//navabr-collapse-->
@@ -65,7 +66,7 @@
 				<div class="hero-meta mb-3">3ra Edición<br><i class="far fa-calendar-alt mr-2"></i>26 - 30 Oct <i class="fas fa-map-marker-alt mx-2"></i>Arequipa, Perú</div>
 				<div class="hero-intro mb-4"></div>
 				<!-- Register -->
-				<div class="hero-cta"><a class="btn btn-primary btn-lg" href="#" target="_blank">Registrarse</a></div>
+				<div class="hero-cta"><a class="btn btn-primary btn-lg" href="#venue-section" target="_blank">Registrarse</a></div>
 
 			</div><!--//hero-text-block-->
 		</div><!--//container-->
@@ -533,7 +534,7 @@
 
 			</div><!--//row-->
 			<!-- Register -->
-			<div class="speakers-cta text-center py-3"><a class="btn btn-primary btn-lg" href="#" target="_blank">Registrarse</a></div>
+			<div class="speakers-cta text-center py-3"><a class="btn btn-primary btn-lg" href="#venue-section" target="_blank">Registrarse</a></div>
 		</div><!--//container-->
 
 	</section><!--//speakers-section-->
@@ -1054,15 +1055,19 @@
 							</div>
 						</div><!--//content-->
 					</div><!--//item-->
-					<div class="item item-other">
+					<div class="item item-talk">
 						<div class="meta">
 							<h4 class="time mb-3">11:00 - 12:00</h4>
+							<div class="profile">
+								<a href="#modal-edgar-sarmiento" data-toggle="modal" data-target="#modal-edgar-sarmiento"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/edgar-sarmiento.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-edgar-sarmiento" data-toggle="modal" data-target="#modal-edgar-sarmiento">Edgar Sarmiento</a></div>
+							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
 							<h3 class="title mb-3">Panel: Desafíos de la Computación en Empresas de Software Internacionales</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
-								<br><br>
+								<br><br><br><br>
 							</div>
 						</div><!--//content-->
 					</div><!--//item-->
@@ -1094,7 +1099,7 @@
 				</div><!--//tab-5-content-->
 			</div><!--//schedule-tab-content-->
 			<!-- Register -->
-			<div class="schedule-cta text-center mx-auto"><a href="#" class="btn btn-primary btn-lg mr-md-2 d-block d-md-inline-block mb-3 mb-md-0" target="_blank">Descargar Cronograma</a><a href="#" class="btn btn-secondary btn-lg d-block d-md-inline-block" target="_blank">Registrarse</a></div>
+			<div class="schedule-cta text-center mx-auto"><a href="#" class="btn btn-primary btn-lg mr-md-2 d-block d-md-inline-block mb-3 mb-md-0" target="_blank">Descargar Cronograma</a><a href="#venue-section" class="btn btn-secondary btn-lg d-block d-md-inline-block" target="_blank">Registrarse</a></div>
 		</div><!--//container-->
 	</section><!--//schedule-section-->
 
@@ -1146,7 +1151,8 @@
 						</div><!--//row-->
 						<h4 class="text-white mb-4 mt-3 mt-lg-5">Facilidades &amp; Registro</h4>
 						<p>¡Utiliza este botón para registrarte!</p>
-						<a class="btn btn-ghost" href="#">Registrarse con Google Forms</a>
+						<a class="btn btn-ghost" href="https://forms.gle/8fnLUpeqo7yxJhsj7" target="_blank">Registrarse con Google Forms</a>
+						<a class="btn btn-ghost" href="https://facebook.com/csunsa" target="_blank">Transmisión via Facebook</a>
 					</div><!--//desc-->
 				</div><!--//col-->
 				<div class="col-12 col-lg-4 offset-lg-1 position-relative h-100 mt-5 mt-lg-0">
@@ -1161,11 +1167,64 @@
 		</div><!--//container-->
 	</section><!--//venue-section-->
 
+	<section id="committee-section" class="committee-section section">
+		<div class="container">
+			<h3 class="section-heading text-center mb-3">Organización</h3>
+			<div class="section-intro text-center single-col-max mx-auto mb-5">Comité Organizador</div>
+			<div class="row">
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-edgar-sarmiento" data-toggle="modal" data-target="#modal-edgar-sarmiento"><img src="/images/speakers/edgar-sarmiento.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Edgar Sarmiento Calisaya</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
+								<div class="meta">Profesor</div>
+							</div><!--//card-text-->
+							<a href="#modal-edgar-sarmiento" data-toggle="modal" data-target="#modal-edgar-sarmiento">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos"><img src="/images/speakers/wilber-ramos.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Wilber Ramos Lovon</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
+								<div class="meta">Profesor</div>
+							</div><!--//card-text-->
+							<a href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+
+			</div><!--//row-->
+
+		</div><!--//container-->
+
+	</section><!--//commite-section-->
+
 	<section id="sponsors-section" class="sponsors-section section">
 		<div class="container">
-			<h3 class="section-heading text-center mb-3">Sponsors &amp; Patrones</h3>
+			<h3 class="section-heading text-center mb-3">Sponsors</h3>
 			<div class="section-intro text-center single-col-max mx-auto mb-5">¿Gustarías formar parte de la familia de Computer Science UNSA? Haz click en el botón para más información.</div>
 			<div class="row logos justify-content-center">
+				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/unsa.jpg" alt=""></div>
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/cslogos/logo-black.png" alt=""></div>
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/paulonia.jpg" alt=""></div>
 			</div><!--//row-->
@@ -1944,6 +2003,44 @@
 							y Presidente de la IEEE Computer Society (2019-2020) de la cual es Miembro Senior (90432437). Posee una reconocida
 							trayectoria académica ejercida en diferentes universidades del país y extranjero. Posee publicaciones científicas
 							indexadas en revistas y conferencias así como participa de redes científicas mundiales.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-edgar-sarmiento" id="modal-edgar-sarmiento" tabindex="-1" role="dialog" aria-labelledby="speaker-2-edgar-sarmiento" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Edgar Sarmiento Calisaya</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/edgar-sarmiento.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Edgar Sarmiento Calisaya</h2>
+							<div class="meta">Ph. D. en Computer Science</div>
+							<div class="meta mb-2">PUC-Rio, Brasil</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Graduación en Ingeniería de Sistemas (2003, Universidad Nacional de San Agustín - UNSA, Arequipa, Perú);
+							Maestría en Informática (2009, Universidade Federal do Rio de Janeiro - UFRJ, Brasil); Doctorado en Informática
+							(2016, Pontifícia Universidade Católica do Rio de Janeiro,PUC-Rio, Brasil). Experiencia profesional como desarrollador,
+							arquitecto y consultor de software. Experiencia académica como investigador en el área de Ingeniería de Software con
+							énfasis en las siguientes líneas de investigación: Ingeniería de Requisitos, Calidad de Software, Arquitectura de Software,
+							DevOps y Sistemas Conscientes de Contexto - CA-S.
 						</p>
 					</div>
 				</div><!--//modal-body-->
