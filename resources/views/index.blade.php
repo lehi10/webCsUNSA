@@ -17,14 +17,8 @@
 					<div class="site-logo"><a class="scrollto" href="#hero-block"><img class="logo-icon" src="/images/cslogos/logo-only.png" alt="logo"></a></div>
 					<div class="site-logo"><a class="scrollto" href="#hero-block"><img class="logo-icon" src="/images/cslogos/logo-white.svg" alt="logo"></a></div>
 
-					<div id="navigation" class="navbar-collapse collapse  justify-content-lg-end mr-lg-3">
-						<ul class="nav navbar-nav">
-							<li class="nav-item"><a class="nav-link scrollto" href="#">[EN CONSTRUCCIÓN]</a></li>
-						</ul>
-					</div>
-
 					<!-- Register -->
-					<div class="navbar-btn order-lg-2"><a class="btn btn-secondary" href="#venue-section">Registrarse</a></div>
+					<div class="navbar-btn order-lg-2"><a class="btn btn-secondary scrollto" href="#venue-section">Registrarse</a></div>
 
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
@@ -66,7 +60,7 @@
 				<div class="hero-meta mb-3">3ra Edición<br><i class="far fa-calendar-alt mr-2"></i>26 - 30 Oct <i class="fas fa-map-marker-alt mx-2"></i>Arequipa, Perú</div>
 				<div class="hero-intro mb-4"></div>
 				<!-- Register -->
-				<div class="hero-cta"><a class="btn btn-primary btn-lg" href="#venue-section" target="_blank">Registrarse</a></div>
+				<div class="hero-cta"><a class="btn btn-primary btn-lg scrollto" href="#venue-section">Registrarse</a></div>
 
 			</div><!--//hero-text-block-->
 		</div><!--//container-->
@@ -119,8 +113,8 @@
 			<div class="section-intro single-col-max mx-auto mb-4">
 				La Semana de la Computación es un evento organizado anualmente por la Escuela Profesional de Ciencia de la Computación de la
 				Universidad Nacional de San Agustín de Arequipa, en la cual se exponen los distintos trabajos y logros
-				de estudiantes y docentes, además de contar con una serie de charlas y conferencias de
-				<strong>ponencias nacionales e internacionales</strong>. No bastando con las actividades académicas, también se realizan
+				de estudiantes y docentes, además de contar con una serie de ponencias <strong>nacionales e internacionales</strong>, tanto
+				de la industria como la academia del software. No bastando con las actividades académicas, también se realizan
 				una serie de Actividades Sociales y Competitivas, como el concurso de programación y los concursos de talentos.</div>
 			<div class="benefits-list text-center mb-3">
 				<h4 class="text-center mb-4">¿Por qué participar?</h4>
@@ -139,14 +133,14 @@
 				<div id="countdown-box" class="countdown-box"></div>
 			</div><!--//event-countdown-->
 			<!-- Register -->
-			<div class="about-cta text-center mb-5"><a class="btn btn-secondary btn-lg  mb-5" href="#" target="_blank">¡Regístrate Hoy!</a></div>
+			<div class="about-cta text-center mb-5"><a class="btn btn-secondary btn-lg mb-5 scrollto" href="#venue-section">¡Regístrate Hoy!</a></div>
 		</div><!--//container-->
 
 		<div class="media-block theme-bg-primary py-5">
 			<div class="container">
 				<h4 class="text-white text-center mb-3">Antes de Comenzar</h4>
 				<div class="section-intro text-center single-col-max mx-auto text-white mb-5">
-					Antes de comenzar, te proponemos revisar el video de nuestra 3ra Edición de la Semana de la Computación, la cual se dio en el año 2018 de forma presencial.
+					Antes de comenzar, te proponemos revisar el video de nuestra 1ra Edición de la Semana de la Computación, la cual se dio en el año 2018 de forma presencial.
 					Debido a la situación actual, esta 3ra Edición de la Semana de la Computación será de forma virtual, pero a pesar de ello, esta misma se hará de la mejor
 					forma posible gracias a la preparación que venimos realizando previamente.
 				</div>
@@ -237,6 +231,26 @@
 								<div class="meta">Associate Professor</div>
 							</div><!--//card-text-->
 							<a href="#modal-jesus-mena" data-toggle="modal" data-target="#modal-jesus-mena">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-franci-suni" data-toggle="modal" data-target="#modal-franci-suni"><img src="/images/speakers/franci-suni.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Franci Suni</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
+								<div class="meta">Profesor</div>
+							</div><!--//card-text-->
+							<a href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -513,6 +527,27 @@
 
 				<div class="col-12 col-md-6 col-lg-3 mb-4">
 					<div class="card rounded-0">
+						<a href="#modal-nelly-condori" data-toggle="modal" data-target="#modal-nelly-condori"><img src="/images/speakers/nelly-condori.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Nelly Condori</h5>
+							<div class="card-text mb-3">
+								<div class="meta">University of Coruña</div>
+								<div class="meta">Profesor</div>
+							</div><!--//card-text-->
+							<a href="#modal-cesar-beltran" data-toggle="modal" data-target="#modal-cesar-beltran">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
 						<a href="#modal-cesar-beltran" data-toggle="modal" data-target="#modal-cesar-beltran"><img src="/images/speakers/cesar-beltran.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Cesar Beltran</h5>
@@ -534,7 +569,7 @@
 
 			</div><!--//row-->
 			<!-- Register -->
-			<div class="speakers-cta text-center py-3"><a class="btn btn-primary btn-lg" href="#venue-section" target="_blank">Registrarse</a></div>
+			<div class="speakers-cta text-center py-3"><a class="btn btn-primary btn-lg scrollto" href="#venue-section">Registrarse</a></div>
 		</div><!--//container-->
 
 	</section><!--//speakers-section-->
@@ -679,12 +714,12 @@
 						<div class="meta">
 							<h4 class="time mb-3">8:00 - 9:00</h4>
 							<div class="profile">
-								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/cslogos/kusisqa.png" alt=""></a>
-								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Kusisqa</a></div>
+								<a href="#modal-franci-suni" data-toggle="modal" data-target="#modal-franci-suni"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/franci-suni.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-franci-suni" data-toggle="modal" data-target="#modal-franci-suni">Franci Suni</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Proyecto Kusisqa</h3>
+							<h3 class="title mb-3">Computación Afectiva: Entre las emociones y el afecto</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -965,7 +1000,7 @@
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Ana María Cuadros</h3>
+							<h3 class="title mb-3">Análisis Visual Interactivo de Datos Multidimensionales</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -1027,12 +1062,12 @@
 						<div class="meta">
 							<h4 class="time mb-3">9:00 - 10:00</h4>
 							<div class="profile">
-								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/cslogos/kusisqa.png" alt=""></a>
-								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Kusisqa</a></div>
+								<a href="#modal-nelly-condori" data-toggle="modal" data-target="#modal-nelly-condori"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/nelly-condori.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-nelly-condori" data-toggle="modal" data-target="#modal-nelly-condori">Nelly Condori</a></div>
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Proyecto Kusisqa</h3>
+							<h3 class="title mb-3">Towards the Development of Persuasive Emo-aware Software Applications: Challenges and Opportunities</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -1099,7 +1134,7 @@
 				</div><!--//tab-5-content-->
 			</div><!--//schedule-tab-content-->
 			<!-- Register -->
-			<div class="schedule-cta text-center mx-auto"><a href="#" class="btn btn-primary btn-lg mr-md-2 d-block d-md-inline-block mb-3 mb-md-0" target="_blank">Descargar Cronograma</a><a href="#venue-section" class="btn btn-secondary btn-lg d-block d-md-inline-block" target="_blank">Registrarse</a></div>
+			<div class="schedule-cta text-center mx-auto"><a href="#venue-section" class="btn btn-primary btn-lg mr-md-2 d-block d-md-inline-block mb-3 mb-md-0 scrollto">Descargar Cronograma</a><a href="#venue-section" class="btn btn-secondary btn-lg d-block d-md-inline-block scrollto">Registrarse</a></div>
 		</div><!--//container-->
 	</section><!--//schedule-section-->
 
@@ -1109,9 +1144,9 @@
 			<div class="row py-lg-5">
 				<div class="col-12 col-lg-7 h-100">
 					<div class="desc">
-						<h4 class="text-white mb-3">Cómo participar de la 3ra Semana de la Computación</h4>
+						<h4 class="text-white mb-3">Cómo participar de la 3ra Edición de la Semana de la Computación</h4>
 						<p>
-							Para poder participar de la 3ra Semana de la Computación podrás realizarlo vía Google Forms.
+							Para poder participar de la 3ra Edición de la Semana de la Computación podrás realizarlo vía Google Forms.
 							De esta forma podremos tener registro de tu e-mail y poder Agendarte y Notificarte gracias a la herramienta Google Calendar,
 							donde se estarán gestionando las invitaciones y los links correspondientes de las videoconferencias que se darán
 							via Google Meet. Además, podrás sincronizar tu Google Drive con los posters o informaciones adicionales gratuitas que se
@@ -1176,7 +1211,7 @@
 					<div class="card rounded-0">
 						<a href="#modal-edgar-sarmiento" data-toggle="modal" data-target="#modal-edgar-sarmiento"><img src="/images/speakers/edgar-sarmiento.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
-							<h5 class="card-title mb-2">Edgar Sarmiento Calisaya</h5>
+							<h5 class="card-title mb-2">Edgar Sarmiento</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
 								<div class="meta">Profesor</div>
@@ -1196,12 +1231,52 @@
 					<div class="card rounded-0">
 						<a href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos"><img src="/images/speakers/wilber-ramos.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
-							<h5 class="card-title mb-2">Wilber Ramos Lovon</h5>
+							<h5 class="card-title mb-2">Wilber Ramos</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
 								<div class="meta">Profesor</div>
 							</div><!--//card-text-->
 							<a href="#modal-wilber-ramos" data-toggle="modal" data-target="#modal-wilber-ramos">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-adrian-bedregal" data-toggle="modal" data-target="#modal-adrian-bedregal"><img src="/images/speakers/adrian-bedregal.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Adrian Bedregal</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
+								<div class="meta">Estudiante</div>
+							</div><!--//card-text-->
+							<a href="#modal-adrian-bedregal" data-toggle="modal" data-target="#modal-adrian-bedregal">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-hayde-humpire" data-toggle="modal" data-target="#modal-hayde-humpire"><img src="/images/speakers/hayde-humpire.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Haydé Humpire</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
+								<div class="meta">Estudiante</div>
+							</div><!--//card-text-->
+							<a href="#modal-hayde-humpire" data-toggle="modal" data-target="#modal-hayde-humpire">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -1226,9 +1301,11 @@
 			<div class="row logos justify-content-center">
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/unsa.jpg" alt=""></div>
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/cslogos/logo-black.png" alt=""></div>
+				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/icacit.png" alt=""></div>
+				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/kusisqa.png" alt=""></div>
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/paulonia.jpg" alt=""></div>
 			</div><!--//row-->
-			<div class="sponsors-cta text-center pt-5"><a class="btn-primary btn btn-lg" href="#">Convertirse en Sponsor</a></div>
+			<div class="sponsors-cta text-center pt-5"><a class="btn-primary btn btn-lg scrollto" href="#sponsors-section">Convertirse en Sponsor</a></div>
 		</div><!--//container-->
 	</section><!--//sponsors-section-->
 
@@ -1852,11 +1929,13 @@
 
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-							esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-							culpa qui officia deserunt mollit anim id est laborum.
+							Graduada en Ingeniería Informática por la Universidad Católica San Pablo,  maestría en Ciencias de
+							la Computación y Matemática Computacional por el Instituto de Ciencias Matemáticas y de Computación
+							y con estudios de doctorado en Ciencia de la Computación en la Universidad Nacional de San Agustín.
+							Experiencia en el área de Computación Gráfica, con énfasis en Visualización de Información, actuando
+							principalmente en los siguientes temas: representaciones visuales de grandes conjuntos de datos
+							textuales y geo-espaciales, minería visual de datos, interacción humano computador y en exploración
+							e interacción de grandes volúmes multi-dimensionales en ambientes 2D, 3D y RV.
 						</p>
 					</div>
 				</div><!--//modal-body-->
@@ -2010,7 +2089,88 @@
 		</div><!--//modal-dialog-->
 	</div><!--//modal-->
 	<!-- Modal Speaker -->
-	<div class="modal modal-speaker modal-edgar-sarmiento" id="modal-edgar-sarmiento" tabindex="-1" role="dialog" aria-labelledby="speaker-2-edgar-sarmiento" aria-hidden="true">
+	<div class="modal modal-speaker modal-franci-suni" id="modal-franci-suni" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Franci Suni López</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/franci-suni.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Franci Suni López</h2>
+							<div class="meta">MSc. y Ph. D. en Computer Science</div>
+							<div class="meta mb-2">Vrije Universiteit Amsterdam, Holanda</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Franci es estudiante de doctorado en Ciencia de la Computación en la UDC/UNSA (desde 2019) e investigador
+							en el proyecto KUSISQA (CS-UNSA/CONCYTEC). Realizó un Master Join Degree en Ciencia de la Computación en
+							Vrije Universiteit Amsterdam, Holanda y Universidad Católica San Pablo. Egresado y Bachiller de la escuela
+							de Ciencia de la Computación de la Universidad Nacional de San Agustín, Arequipa - Perú (2014). Su investigación
+							principal se centra en computación afectiva, el uso de las emociones humanas para potenciar la capacidad de
+							autoadaptación de los servicios de software. Además, la ingeniería de software para el desarrollo móvil y el software autoadaptable.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-nelly-condori" id="modal-nelly-condori" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Nelly Condori Fernandez</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/nelly-condori.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Nelly Condori Fernandez</h2>
+							<div class="meta">Ph. D. en Computer Science</div>
+							<div class="meta mb-2">Universidad Politécnica de Valencia, España</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Dr. Nelly Condori Fernández is an assistant professor from University of Coruña (Galicia)
+							and research associate from Vrije Universiteit Amsterdam (Netherlands).  She obtained her
+							PhD degree at the Universidad Politécnica de Valencia, Spain. And she was a Post-doctoral
+							Marie Curie researcher at the University of Twente. Her main research focuses on developing
+							systematic approaches for developing sustainable software. Moreover, she has a particular
+							interest in applying HCI techniques to software engineering activities. Nelly has been
+							involved in several European projects. She has also served as a representative member of
+							the COSMIC organization in Spain. Nelly serves as a PC member of international conferences
+							from the Software Engineering community and organizer of the 1st International workshop on
+							Measurement and Metrics for Green and Sustainable Software. Currently, she is the principal
+							investigator of the KUSISQA project funded by FONDECYT and the World Bank.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-edgar-sarmiento" id="modal-edgar-sarmiento" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -2041,6 +2201,76 @@
 							arquitecto y consultor de software. Experiencia académica como investigador en el área de Ingeniería de Software con
 							énfasis en las siguientes líneas de investigación: Ingeniería de Requisitos, Calidad de Software, Arquitectura de Software,
 							DevOps y Sistemas Conscientes de Contexto - CA-S.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<!-- Modal Speaker -->
+	<div class="modal modal-speaker modal-adrian-bedregal" id="modal-adrian-bedregal" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Adrian Rolando Bedregal Vento</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/adrian-bedregal.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Adrian Rolando Bedregal Vento</h2>
+							<div class="meta">Estudiante de Computer Science</div>
+							<div class="meta mb-2">Universidad Nacional de San Agustin de Arequipa, Perú</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín (Arequipa, Perú).
+							Se encuentra Interesado en el área de Redes Neuronales de Aprendizaje Reforzado, la cual forma parte
+							del campo del Machine Learning (Inteligencia Artificial), Sistemas Operativos y IoT. También tiene como
+							parte de sus enfoques Procesamiento de Imágenes y Realidad Virtual.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<div class="modal modal-speaker modal-hayde-humpire" id="modal-hayde-humpire" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Haydé Luzmila Hupmire Cutipa</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/hayde-humpire.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Haydé Luzmila Hupmire Cutipa</h2>
+							<div class="meta">Estudiante de Computer Science</div>
+							<div class="meta mb-2">Universidad Nacional de San Agustin de Arequipa, Perú</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín Arequipa Perú.
+							Área de interés redes neuronales convolucionales el cual forma parte de inteligencia artificial,
+							interacción humano computador, y diseño de interfaz de usuario, diseño ux iu.
 						</p>
 					</div>
 				</div><!--//modal-body-->
