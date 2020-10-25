@@ -1150,40 +1150,10 @@
 							De esta forma podremos tener registro de tu e-mail y poder Agendarte y Notificarte gracias a la herramienta Google Calendar,
 							donde se estarán gestionando las invitaciones y los links correspondientes de las videoconferencias que se darán
 							via Google Meet. Además, podrás sincronizar tu Google Drive con los posters o informaciones adicionales gratuitas que se
-							brindarán. A continuación te presentamos los links de las plataformas para que puedas familiarizarte un poco
-							más con ellas. Al final se encuentra un botón que te permitirá registrarte via Google Forms.
+							brindarán. A continuación te presentamos los botones que te permitirán registrarte via Google Forms y seguirnos a través de Facebook.
 						</p>
+						<br>
 
-						<div class="row pt-3">
-							<div class="col-12 col-md-6 mb-4">
-								<div class="grid-item p-4">
-									<h5 class="text-white mb-3 title"><i class="fab fa-wpforms mr-2"></i>Google Forms</h5>
-									<p>Google Forms es un aplicativo de gestión de información lanzado por Google.</p>
-									<a class="text-white" href="https://www.google.com/forms/about/">Google Forms &rarr;</a>
-								</div><!--//grid-item-->
-							</div><!--col-->
-							<div class="col-12 col-md-6 mb-4">
-								<div class="grid-item p-4">
-									<h5 class="text-white mb-3 title"><i class="fas fa-calendar mr-2"></i>Google Calendar</h5>
-									<p>Google Calendar es un servicio de agendado y calendario on-line ofrecido por Google.</p>
-									<a class="text-white" href="https://www.google.com/calendar/about/">Google Calendar &rarr;</a>
-								</div><!--//grid-item-->
-							</div><!--col-->
-							<div class="col-12 col-md-6 mb-4">
-								<div class="grid-item p-4">
-									<h5 class="text-white mb-3 title"><i class="fab fa-google-drive mr-2"></i>Google Drive</h5>
-									<p>Google Drive es un servicio de almacenamiento y sincronización de archivos ofrecido por Google.</p>
-									<a class="text-white" href="https://www.google.com/drive/">Google Drive &rarr;</a>
-								</div><!--//grid-item-->
-							</div><!--col-->
-							<div class="col-12 col-md-6 mb-4">
-								<div class="grid-item p-4">
-									<h5 class="text-white mb-3 title"><i class="fas fa-video mr-2"></i>Google Meet</h5>
-									<p>Google Meet es un servicio de comunicación por video desarrollado por Google.</p>
-									<a class="text-white" href="https://meet.google.com/">Google Meet &rarr;</a>
-								</div><!--//grid-item-->
-							</div><!--col-->
-						</div><!--//row-->
 						<h4 class="text-white mb-4 mt-3 mt-lg-5">Facilidades &amp; Registro</h4>
 						<p>¡Utiliza este botón para registrarte!</p>
 						<a class="btn btn-ghost" href="https://forms.gle/8fnLUpeqo7yxJhsj7" target="_blank">Registrarse con Google Forms</a>
@@ -1194,8 +1164,6 @@
 					<div class="figures-holder">
 						<div class="figure figure-1"><img class="shadow" src="/images/venue/venue-1.jpg" alt=""></div>
 						<div class="figure figure-2"><img class="shadow" src="/images/venue/venue-2.jpg" alt=""></div>
-						<div class="figure figure-3"><img class="shadow" src="/images/venue/venue-3.jpg" alt=""></div>
-						<div class="figure figure-4"><img class="shadow" src="/images/venue/venue-4.jpg" alt=""></div>
 					</div><!--//figures-holder-->
 				</div><!--//col-->
 			</div><!--//row-->
@@ -1305,7 +1273,7 @@
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/kusisqa.png" alt=""></div>
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/paulonia.jpg" alt=""></div>
 			</div><!--//row-->
-			<div class="sponsors-cta text-center pt-5"><a class="btn-primary btn btn-lg scrollto" href="#sponsors-section">Convertirse en Sponsor</a></div>
+			<div class="sponsors-cta text-center pt-5"><a class="btn-primary btn btn-lg" href="https://forms.gle/AJFwMD72j3zimHMG8" target="_blank">Convertirse en Sponsor</a></div>
 		</div><!--//container-->
 	</section><!--//sponsors-section-->
 
