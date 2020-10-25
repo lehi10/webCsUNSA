@@ -1032,7 +1032,7 @@
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Edward Hinojosa</h3>
+							<h3 class="title mb-3">Acreditación en Computación</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -1083,7 +1083,7 @@
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">César Beltrán</h3>
+							<h3 class="title mb-3">Ciencia de la Computación como base para la innovación tecnológica</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
@@ -2075,13 +2075,13 @@
 
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
-							Doctor en Bioinformática (2007), y Magister en Ciencia de la Computación (2003), ambos en la Universidad de Sao Paulo (USP),
-							Brasil; realizó una estancia Post- doctoral en Texas A&M University (USA), 2016; posee graduación en Ing. de Sistemas de
-							la Universidad Católica de Santa María (Arequipa), 1993. Actualmente es Profesor Principal e Investigador Senior de la
-							Pontificia Universidad Católica del Perú, es líder fundador del Grupo científico en Inteligencia Artificial (IA-PUCP)
-							y Presidente de la IEEE Computer Society (2019-2020) de la cual es Miembro Senior (90432437). Posee una reconocida
-							trayectoria académica ejercida en diferentes universidades del país y extranjero. Posee publicaciones científicas
-							indexadas en revistas y conferencias así como participa de redes científicas mundiales.
+							Profesor Principal de la Pontificia Universidad Católica del Perú, área Ciencia de la Computación,
+							Dpto. de Ingeniería.  Doctor en Bioinformática y Magister en Ciencia de la Computación por la Universidad
+							de São Paulo, Brasil con estancia Post-Doctoral en Texas A&M University. Es Presidente de la IEEE Computer
+							Society Perú (2019-2020).  Líder científico del Grupo de Inteligencia Artificial de la PUCP (IA-PUCP).
+							Sus líneas de investigación son: Machine Learning, Data Analytics, Deep Learning, Visión computacional,
+							procesamiento de imágenes, algoritmos de recuperación de imágenes por contenido, Bioinformática, computación
+							de alto desempeño.
 						</p>
 					</div>
 				</div><!--//modal-body-->
@@ -2269,8 +2269,8 @@
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
 							Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín Arequipa Perú.
-							Área de interés redes neuronales convolucionales el cual forma parte de inteligencia artificial,
-							interacción humano computador, y diseño de interfaz de usuario, diseño ux iu.
+							Áreas de interés: Artificial Intelligence (Convolutional Neural Network), Human Computer Interaction,
+							Design UX & UI, Digital Graphic Design y Educational Technologies.
 						</p>
 					</div>
 				</div><!--//modal-body-->
