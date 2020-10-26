@@ -252,7 +252,7 @@
 								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
 								<div class="meta">Profesor</div>
 							</div><!--//card-text-->
-							<a href="#modal-jorge-poco" data-toggle="modal" data-target="#modal-jorge-poco">Leer más &rarr;</a>
+							<a href="#modal-franci-suni" data-toggle="modal" data-target="#modal-franci-suni">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
