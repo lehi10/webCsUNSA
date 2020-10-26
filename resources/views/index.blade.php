@@ -210,7 +210,7 @@
 							<h5 class="card-title mb-2">Marcelo Flores Manrique</h5>
 							<div class="card-text mb-3">
 								<div class="meta">VerizonConnect, Dublin, Irlanda</div>
-								<div class="meta">Senior Developer</div>
+								<div class="meta">Senior Software Architect</div>
 							</div><!--//card-text-->
 							<a href="#modal-marcelo-flores" data-toggle="modal" data-target="#modal-marcelo-flores">Leer más &rarr;</a>
 						</div><!--//card-->
@@ -1456,7 +1456,7 @@
 
 						<div class="media-body text-center text-md-left mx-auto">
 							<h2 class="name mb-2">Marcelo A. Flores Manrique</h2>
-							<div class="meta">Msc Informatica, Senior Developer</div>
+							<div class="meta">Senior Software Architect</div>
 							<div class="meta mb-2">Universidade Federal do Rio de Janeiro</div>
 							<ul class="social-list list-inline mb-0">
 								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
