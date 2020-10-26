@@ -79,7 +79,7 @@ $(document).ready(function() {
 
         // find the amount of "seconds" between now and target
         var current_date = new Date().getTime();
-        var seconds_left = (target_date - current_date) / 1000;
+        var seconds_left = ((target_date - current_date) / 1000) + 28800;
 
         // do some time calculations
         days = parseInt(seconds_left / 86400);
