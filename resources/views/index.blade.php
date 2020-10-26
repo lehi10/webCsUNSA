@@ -1336,7 +1336,7 @@
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/cslogos/logo-black.png" alt=""></div>
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/icacit.png" alt=""></div>
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/kusisqa.png" alt=""></div>
-				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/paulonia_large_blank.jpg" alt=""></div>
+				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/paulonia_large_blank.png" alt=""></div>
 			</div><!--//row-->
 			<div class="sponsors-cta text-center pt-5"><a class="btn-primary btn btn-lg" href="https://forms.gle/AJFwMD72j3zimHMG8" target="_blank">Convertirse en Sponsor</a></div>
 		</div><!--//container-->
