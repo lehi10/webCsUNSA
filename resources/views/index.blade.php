@@ -691,7 +691,6 @@
 						</div><!--//meta-->
 						<div class="content">
 							<h3 class="title mb-3">Break de Almuerzo</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br>
 							</div>
@@ -792,7 +791,6 @@
 						</div><!--//meta-->
 						<div class="content">
 							<h3 class="title mb-3">Break de Almuerzo</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br>
 							</div>
@@ -887,7 +885,6 @@
 						</div><!--//meta-->
 						<div class="content">
 							<h3 class="title mb-3">Break de Almuerzo</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br>
 							</div>
@@ -987,7 +984,6 @@
 						</div><!--//meta-->
 						<div class="content">
 							<h3 class="title mb-3">Break de Almuerzo</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br>
 							</div>
@@ -1135,6 +1131,7 @@
 										<li>AWS Devops - Systems Engineer en VerizonConnect. Dublin - Irlanda</li>
 										<li>Instituto tecnologico y de Estudios Superiores de Monterrey - Mexico</li>
 									</ul>
+									<li><strong>Aún más por confirmar...</strong></li>
 								</ul>
 							</div>
 						</div><!--//content-->
@@ -1145,7 +1142,6 @@
 						</div><!--//meta-->
 						<div class="content">
 							<h3 class="title mb-3">Break de Almuerzo</h3>
-							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br>
 							</div>
@@ -1272,7 +1268,7 @@
 					<div class="card rounded-0">
 						<a href="#modal-hayde-humpire" data-toggle="modal" data-target="#modal-hayde-humpire"><img src="/images/speakers/hayde-humpire.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
-							<h5 class="card-title mb-2">Haydé Humpire</h5>
+							<h5 class="card-title mb-2">Hayde Humpire</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
 								<div class="meta">Estudiante</div>
@@ -2269,14 +2265,14 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Haydé Luzmila Hupmire Cutipa</h4>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Hayde Luzmila Hupmire Cutipa</h4>
 				</div>
 				<div class="modal-body p-0">
 					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
 						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/hayde-humpire.jpg" alt="" />
 
 						<div class="media-body text-center text-md-left mx-auto">
-							<h2 class="name mb-2">Haydé Luzmila Hupmire Cutipa</h2>
+							<h2 class="name mb-2">Hayde Luzmila Hupmire Cutipa</h2>
 							<div class="meta">Estudiante de Computer Science</div>
 							<div class="meta mb-2">Universidad Nacional de San Agustin de Arequipa, Perú</div>
 							<ul class="social-list list-inline mb-0">
