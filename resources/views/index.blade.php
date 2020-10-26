@@ -45,7 +45,9 @@
 	<div id="hero-block" class="hero-block">
 		<div id="hero-carousel" class="hero-carousel carousel slide carousel-fade" data-ride="carousel">
 			<div class="carousel-inner">
-				<div class="carousel-item-1 carousel-item active">
+				<div class="carousel-item-4 carousel-item active">
+				</div>
+				<div class="carousel-item-1 carousel-item">
 				</div>
 				<div class="carousel-item-2 carousel-item">
 				</div>
@@ -1102,7 +1104,38 @@
 							<h3 class="title mb-3">Panel: Desafíos de la Computación en Empresas de Software Internacionales</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
-								<br><br><br><br>
+								<strong>Moderador:</strong>
+								<ul>
+									<li><strong>Edgar Sarmiento Calisaya</strong></li>
+									<ul>
+										<li>Docente en Universidad Nacional de San Agustín de Arequipa - Perú</li>
+										<li>Investigador CONCYTEC</li>
+										<li>Universidad Nacional de San Agustín de Arequipa - Perú</li>
+									</ul>
+								</ul>
+								<strong>Panelistas:</strong>
+								<ul>
+									<li><strong>Marcelo Flores Manrique</strong></li>
+									<ul>
+										<li>Senior Developer en VerizonConnect. Dublin - Irlanda</li>
+										<li>Universidad Nacional de San Agustín de Arequipa - Perú</li>
+									</ul>
+									<li><strong>Michel Quintana</strong></li>
+									<ul>
+										<li>Software Engineer en Google. Brasil</li>
+										<li>Universidad Nacional de San Agustín de Arequipa - Perú</li>
+									</ul>
+									<li><strong>Roberto Arreola</strong></li>
+									<ul>
+										<li>Ingeniero de software senior en VerizonConnect. Dublin - Irlanda</li>
+										<li>Instituto Politecnico Nacional - Mexico</li>
+									</ul>
+									<li><strong>Francisco Guzman</strong></li>
+									<ul>
+										<li>AWS Devops - Systems Engineer en VerizonConnect. Dublin - Irlanda</li>
+										<li>Instituto tecnologico y de Estudios Superiores de Monterrey - Mexico</li>
+									</ul>
+								</ul>
 							</div>
 						</div><!--//content-->
 					</div><!--//item-->
@@ -1240,6 +1273,26 @@
 						<a href="#modal-hayde-humpire" data-toggle="modal" data-target="#modal-hayde-humpire"><img src="/images/speakers/hayde-humpire.jpg" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h5 class="card-title mb-2">Haydé Humpire</h5>
+							<div class="card-text mb-3">
+								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
+								<div class="meta">Estudiante</div>
+							</div><!--//card-text-->
+							<a href="#modal-hayde-humpire" data-toggle="modal" data-target="#modal-hayde-humpire">Leer más &rarr;</a>
+						</div><!--//card-->
+						<div class="card-footer text-muted">
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div>
+					</div><!--//card-->
+				</div><!--//col-->
+				<div class="col-12 col-md-6 col-lg-3 mb-4">
+					<div class="card rounded-0">
+						<a href="#modal-ademir-villena" data-toggle="modal" data-target="#modal-ademir-villena"><img src="/images/speakers/ademir-villena.jpg" class="card-img-top rounded-0" alt=""></a>
+						<div class="card-body">
+							<h5 class="card-title mb-2">Ademir Villena</h5>
 							<div class="card-text mb-3">
 								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
 								<div class="meta">Estudiante</div>
@@ -2239,6 +2292,40 @@
 							Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín Arequipa Perú.
 							Áreas de interés: Artificial Intelligence (Convolutional Neural Network), Human Computer Interaction,
 							Design UX & UI, Digital Graphic Design y Educational Technologies.
+						</p>
+					</div>
+				</div><!--//modal-body-->
+			</div><!--//modal-content-->
+		</div><!--//modal-dialog-->
+	</div><!--//modal-->
+	<div class="modal modal-speaker modal-ademir-villena" id="modal-ademir-villena" tabindex="-1" role="dialog" aria-labelledby="speaker-2-ModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 id="speaker-2-ModalLabel" class="modal-title sr-only">Ademir Clemente Villena Zevallos</h4>
+				</div>
+				<div class="modal-body p-0">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+						<img class="profile-image mb-3 mb-md-0 mr-md-4 rounded-circle mx-auto" src="/images/speakers/ademir-villena.jpg" alt="" />
+
+						<div class="media-body text-center text-md-left mx-auto">
+							<h2 class="name mb-2">Ademir Clemente Villena Zevallos</h2>
+							<div class="meta">Estudiante de Computer Science</div>
+							<div class="meta mb-2">Universidad Nacional de San Agustin de Arequipa, Perú</div>
+							<ul class="social-list list-inline mb-0">
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
+							</ul><!--//social-list-->
+						</div><!--//media-body-->
+					</div><!--//media-->
+
+					<div class="desc p-4 p-lg-5">
+						<p class="mb-0">
+							Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín (Arequipa, Perú).
+							Se encuentra Interesado en las áreas de Evolutive Algorithms, Neural Architecture Search, Swarm Robotics
+							y Mobile Development. Cuenta con experiencia profesional en el desarrollo de aplicaciones móviles y proyectos open source.
 						</p>
 					</div>
 				</div><!--//modal-body-->
