@@ -1468,9 +1468,9 @@
 
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
-							Actualmente trabajando en el área de telemetria y IOT como desarrollador senior en la empresa
-							VerizonConnect en Dublin, con experiencia en diversas áreas, como e-commerce (OLX Brasil),
-							Petroleo (Schlumberger internacional) y censos nacionales en Brasil (IBGE). Foco profesional
+							Actualmente trabajando en el área de telemetria y IOT como arquitecto y desarrollador senior
+							en la empresa VerizonConnect en Dublin - Irlanda, con experiencia en diversas áreas, como e-commerce
+							(OLX Brasil), Petroleo (Schlumberger internacional) y censos nacionales en Brasil (IBGE). Foco profesional
 							en big data, IOT, devops y programación backend.
 						</p>
 					</div>
