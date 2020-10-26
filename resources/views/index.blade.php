@@ -131,11 +131,11 @@
 				</ul>
 			</div><!--//benefits-list-->
 			<div class="event-countdown text-center mb-3">
-				<h4 class="countdown-intro mb-2 text-center mb-3">El Evento Inicia En:</h4>
-				<div id="countdown-box" class="countdown-box"></div>
+				<h4 class="countdown-intro mb-2 text-center mb-3">¡El Evento ya comenzó!</h4>
+				<!--<div id="countdown-box" class="countdown-box"></div>-->
 			</div><!--//event-countdown-->
 			<!-- Register -->
-			<div class="about-cta text-center mb-5"><a class="btn btn-secondary btn-lg mb-5 scrollto" href="#venue-section">¡Regístrate Hoy!</a></div>
+			<!--<div class="about-cta text-center mb-5"><a class="btn btn-secondary btn-lg mb-5 scrollto" href="#venue-section">¡Regístrate Hoy!</a></div>-->
 		</div><!--//container-->
 
 		<div class="media-block theme-bg-primary py-5">
@@ -796,9 +796,25 @@
 							</div>
 						</div><!--//content-->
 					</div><!--//item-->
+					<div class="item item-talk">
+						<div class="meta">
+							<h4 class="time mb-3">15:00 - 15:30</h4>
+							<div class="profile">
+								<a href="#" data-toggle="modal" data-target="#"><img class="profile-image rounded-circle  mb-2" src="/images/speakers/christofer-chavez.jpg" alt=""></a>
+								<div class="name"><a class="theme-link" href="#" data-toggle="modal" data-target="#">Christofer Fabián Chávez Carazas</a></div>
+							</div><!--//profile-->
+						</div><!--//meta-->
+						<div class="content">
+							<h3 class="title mb-3">Company in a world of research</h3>
+							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
+							<div class="desc">
+								<br><br><br><br>
+							</div>
+						</div><!--//content-->
+					</div><!--//item-->
 					<div class="item item-other">
 						<div class="meta">
-							<h4 class="time mb-3">15:00 - 18:00</h4>
+							<h4 class="time mb-3">15:30 - 18:00</h4>
 						</div><!--//meta-->
 						<div class="content">
 							<h3 class="title mb-3">Trabajos de Investigación de Pregrado</h3>
@@ -1320,7 +1336,7 @@
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/cslogos/logo-black.png" alt=""></div>
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/icacit.png" alt=""></div>
 				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/kusisqa.png" alt=""></div>
-				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/paulonia.jpg" alt=""></div>
+				<div class="logo-item col-6 col-md-4 col-lg-2"><img src="/images/logos/paulonia_large_blank.jpg" alt=""></div>
 			</div><!--//row-->
 			<div class="sponsors-cta text-center pt-5"><a class="btn-primary btn btn-lg" href="https://forms.gle/AJFwMD72j3zimHMG8" target="_blank">Convertirse en Sponsor</a></div>
 		</div><!--//container-->
