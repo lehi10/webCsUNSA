@@ -536,7 +536,7 @@
 								<div class="meta">University of Coruña</div>
 								<div class="meta">Profesor</div>
 							</div><!--//card-text-->
-							<a href="#modal-cesar-beltran" data-toggle="modal" data-target="#modal-cesar-beltran">Leer más &rarr;</a>
+							<a href="#modal-nelly-condori" data-toggle="modal" data-target="#modal-nelly-condori">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<ul class="social-list list-inline mb-0">
@@ -1146,6 +1146,11 @@
 									<ul>
 										<li>AWS Devops - Systems Engineer en VerizonConnect. Dublin - Irlanda</li>
 										<li>Instituto tecnologico y de Estudios Superiores de Monterrey - Mexico</li>
+									</ul>
+									<li><strong>Juan Marquinho Vilca Castro</strong></li>
+									<ul>
+										<li>Software Engineer en Amazon</li>
+										<li>Universidad Nacional de San Agustín de Arequipa, Perú</li>
 									</ul>
 									<li><strong>Aún más por confirmar...</strong></li>
 								</ul>
