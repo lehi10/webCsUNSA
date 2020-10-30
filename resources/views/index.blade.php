@@ -1065,7 +1065,7 @@
 							</div><!--//profile-->
 						</div><!--//meta-->
 						<div class="content">
-							<h3 class="title mb-3">Daniel Aliaga</h3>
+							<h3 class="title mb-3">Ciudades Inteligentes: Buscando un Desarrollo Urbano Sostenible</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
 							<div class="desc">
 								<br><br><br><br>
