@@ -96,7 +96,7 @@
 
     <footer class="container-fluid-inverse text-center m-footer">
       @yield('footer')
-      <p>School of Computer Science - UNSA 2020</p>
+      <p>School of Computer Science - UNSA 2021</p>
     </footer>
 
   </body>

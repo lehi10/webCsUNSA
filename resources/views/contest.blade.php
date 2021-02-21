@@ -42,7 +42,7 @@ var x = setInterval(function() {
   <div style="padding:10px;" class="row ">
         <center>
           <img src="/images/cslogos/logoDarkBackground.png" class="logoImg">
-          <h2 class="textWhite">Concurso de programación competitiva CSUNSA 2020</h2>
+          <h2 class="textWhite">Concurso de programación competitiva CSUNSA 2021</h2>
           <strong><h2 class="textWhite" id="countdown"></h2></strong>
         </center>
   </div>
