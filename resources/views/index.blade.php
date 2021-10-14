@@ -1645,8 +1645,8 @@
 
 					<div class="desc p-4 p-lg-5">
 						<p class="mb-0">
-							Ex aluno de Ingeniería de Sistemas - UNSA/Perú, Magister y Doctor en Ciencia de la Computación
-							- IME/USP/Brasil, y Profesor en el Departamento de Ciência de la Computação en la Universidade
+							Ex alumno de Ingeniería de Sistemas - UNSA/Perú, Magister y Doctor en Ciencia de la Computación
+							- IME/USP/Brasil, y Profesor en el Departamento de Ciência da Computação en la Universidade
 							Federal do ABC - São Paulo/Brasil.
 						</p>
 					</div>
