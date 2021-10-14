@@ -1206,7 +1206,7 @@
 
 						<h4 class="text-white mb-4 mt-3 mt-lg-5">Facilidades &amp; Registro</h4>
 						<p>¡Utiliza este botón para registrarte!</p>
-						<a class="btn btn-ghost" href="https://forms.gle/8fnLUpeqo7yxJhsj7" target="_blank">Registrarse con Google Forms</a>
+						<a class="btn btn-ghost" href="" target="_blank">Registrarse con Google Forms</a>
 						<a class="btn btn-ghost" href="https://facebook.com/csunsa" target="_blank">Transmisión via Facebook</a>
 					</div><!--//desc-->
 				</div><!--//col-->
