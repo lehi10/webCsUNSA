@@ -69,7 +69,6 @@
         <div
             id="hero-block"
             class="hero-block"
-            style="`height: ${this.slideHeight}px`"
         >
             <div
                 id="hero-carousel"
@@ -187,7 +186,6 @@ export default {
             this.left.hours = hours;
             this.left.mins = minutes;
             this.left.secs = seconds;
-            console.log(days, hours, minutes, seconds)
         }, 1000);
     }
 };
