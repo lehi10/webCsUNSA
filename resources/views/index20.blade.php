@@ -18,7 +18,7 @@
 					<div class="site-logo"><a class="scrollto" href="#hero-block"><img class="logo-icon" src="/images/cslogos/logo-white.svg" alt="logo"></a></div>
 
 					<!-- Register -->
-					<div class="navbar-btn order-lg-2"><a class="btn btn-secondary scrollto" href="#venue-section">Registrarse</a></div>
+					<div class="navbar-btn order-lg-2"><a class="btn btn-secondary" href="/">Evento 2021</a></div>
 
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
@@ -58,11 +58,11 @@
 		<div class="hero-block-mask"></div>
 		<div class="container">
 			<div class="hero-text-block">
-				<h1 class="hero-heading mb-2">Semana de la Computación 2021</h1>
-				<div class="hero-meta mb-3">4ta Edición<br><i class="far fa-calendar-alt mr-2"></i>8 - 12 Nov <i class="fas fa-map-marker-alt mx-2"></i>Arequipa, Perú</div>
+				<h1 class="hero-heading mb-2">Semana de la Computación 2020</h1>
+				<div class="hero-meta mb-3">3ra Edición<br><i class="far fa-calendar-alt mr-2"></i>26 - 30 Oct <i class="fas fa-map-marker-alt mx-2"></i>Arequipa, Perú</div>
 				<div class="hero-intro mb-4"></div>
 				<!-- Register -->
-				<div class="hero-cta"><a class="btn btn-primary btn-lg scrollto" href="#venue-section">Registrarse</a></div>
+				{{-- <div class="hero-cta"><a class="btn btn-primary btn-lg scrollto" href="#venue-section">Registrarse</a></div> --}}
 
 			</div><!--//hero-text-block-->
 		</div><!--//container-->

@@ -1,5 +1,6 @@
 <?php
-
+use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -12,6 +13,7 @@
 */
 
 Route::get('/', 'MainController@index');
+Route::get('/semcomp2020', 'MainController@semcomp2020');
 
 Route::get('/dashboard','dashboardController@index');
 

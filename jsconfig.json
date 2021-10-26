@@ -1,0 +1,13 @@
+{
+    "include": [
+      "./resources/js/**/*"
+    ],
+    "compilerOptions": {
+        "baseUrl": "./resources/js",
+        "paths": {
+            "components/*": [
+                "./components/*"
+            ]
+        },
+    }
+}

@@ -9,6 +9,10 @@ class MainController extends Controller
     //
     public function index()
     {
-        return view('index');
+        return view('index21');
+    }
+
+    public function semcomp2020(){
+        return view('index20');
     }
 }
