@@ -10,8 +10,12 @@
 
 @section('body')
 
-	<header-component/>
-	{{-- <ponents-component/> --}}
+	<div class="body theme-bg-primary" style="height: 100vh;">
+		<div id="app" class="theme-bg-primary">
+			<header-component></header-component>
+			<footer-component></footer-component>
+		</div>
+	</div>
 	
 
 @endsection
