@@ -45,7 +45,7 @@
         </div><!--//container-->
         @yield('footer')
     </footer>
-    <script src="{{ asset('js/app.js') }}" ></script>
+    <script src="/js/app.js" ></script>
 	<script src="/plugins/popper.min.js"></script>
 	<script src="/plugins/back-to-top.js"></script>
 	<script src="/plugins/jquery.scrollTo.min.js"></script>
