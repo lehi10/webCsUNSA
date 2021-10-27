@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    </h3>Bienvenido</h3>
+                    </h3>Bienvenid@</h3>
                     
                     <h4>New feature : API v1</h4>
                     
