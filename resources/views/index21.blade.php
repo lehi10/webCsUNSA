@@ -13,6 +13,7 @@
 	<div class="body theme-bg-primary" style="height: 100vh;">
 		<div id="app" class="theme-bg-primary">
 			<header-component></header-component>
+			<aboutus-component></aboutus-component>
 			<footer-component></footer-component>
 		</div>
 	</div>
