@@ -29,10 +29,7 @@
                         <li><i class="fas fa-check-circle mr-2"></i>Si eres alumno, podrás presentar tus proyectos y así iniciarte como investigador</li>
                     </ul>
                 </div><!--//benefits-list-->
-                <div class="event-countdown text-center mb-3">
-                    <h4 class="countdown-intro mb-2 text-center mb-3">¡El Evento ya comenzó!</h4>
-                    <!--<div id="countdown-box" class="countdown-box"></div>-->
-                </div><!--//event-countdown-->
+                
                 <!-- Register -->
                 <!--<div class="about-cta text-center mb-5"><a class="btn btn-secondary btn-lg mb-5 scrollto" href="#venue-section">¡Regístrate Hoy!</a></div>-->
             </div><!--//container-->
