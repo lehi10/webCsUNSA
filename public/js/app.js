@@ -14596,7 +14596,9 @@ window.Vue = __webpack_require__(36);
 
 Vue.component('header-component', __webpack_require__(40));
 Vue.component('aboutus-component', __webpack_require__(43));
+Vue.component('firstvideo-component', __webpack_require__(60));
 Vue.component('ponents-component', __webpack_require__(46));
+//Vue.component('program-component', require('./components/ProgramComponent.vue'));
 Vue.component('footer-component', __webpack_require__(49));
 
 var app = new Vue({
@@ -50062,26 +50064,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     name: "Aboutus"
@@ -50225,58 +50207,6 @@ var staticRenderFns = [
                 ])
               ]
             )
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "event-countdown text-center mb-3" }, [
-            _c("h4", { staticClass: "countdown-intro mb-2 text-center mb-3" }, [
-              _vm._v("¡El Evento ya comenzó!")
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "media-block theme-bg-primary py-5" }, [
-          _c("div", { staticClass: "container" }, [
-            _c("h4", { staticClass: "text-white text-center mb-3" }, [
-              _vm._v("Antes de Comenzar")
-            ]),
-            _vm._v(" "),
-            _c(
-              "div",
-              {
-                staticClass:
-                  "section-intro text-center single-col-max mx-auto text-white mb-5"
-              },
-              [
-                _vm._v(
-                  "\n                    Antes de comenzar, te proponemos revisar el video de nuestra 1ra Edición de la Semana de la Computación, la cual se dio en el año 2018 de forma presencial.\n                    Debido a la situación actual, esta 3ra Edición de la Semana de la Computación será de forma virtual, pero a pesar de ello, esta misma se hará de la mejor\n                    forma posible gracias a la preparación que venimos realizando previamente.\n                "
-                )
-              ]
-            ),
-            _vm._v(" "),
-            _c("div", { staticClass: "row" }, [
-              _c(
-                "div",
-                { staticClass: "col-12 col-md-12 col-lg-6 offset-lg-3 mb-3" },
-                [
-                  _c(
-                    "div",
-                    { staticClass: "embed-responsive embed-responsive-16by9" },
-                    [
-                      _c("iframe", {
-                        attrs: {
-                          width: "560",
-                          height: "315",
-                          src: "https://www.youtube.com/embed/TThtTUnP0z4",
-                          allow:
-                            "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
-                          allowfullscreen: ""
-                        }
-                      })
-                    ]
-                  )
-                ]
-              )
-            ])
           ])
         ])
       ]
@@ -52808,6 +52738,170 @@ if (false) {
   module.hot.accept()
   if (module.hot.data) {
     require("vue-hot-reload-api")      .rerender("data-v-abfbddf2", module.exports)
+  }
+}
+
+/***/ }),
+/* 57 */,
+/* 58 */,
+/* 59 */,
+/* 60 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var disposed = false
+var normalizeComponent = __webpack_require__(2)
+/* script */
+var __vue_script__ = __webpack_require__(61)
+/* template */
+var __vue_template__ = __webpack_require__(62)
+/* template functional */
+var __vue_template_functional__ = false
+/* styles */
+var __vue_styles__ = null
+/* scopeId */
+var __vue_scopeId__ = null
+/* moduleIdentifier (server only) */
+var __vue_module_identifier__ = null
+var Component = normalizeComponent(
+  __vue_script__,
+  __vue_template__,
+  __vue_template_functional__,
+  __vue_styles__,
+  __vue_scopeId__,
+  __vue_module_identifier__
+)
+Component.options.__file = "resources/js/components/FirstvideoComponent.vue"
+
+/* hot reload */
+if (false) {(function () {
+  var hotAPI = require("vue-hot-reload-api")
+  hotAPI.install(require("vue"), false)
+  if (!hotAPI.compatible) return
+  module.hot.accept()
+  if (!module.hot.data) {
+    hotAPI.createRecord("data-v-98009352", Component.options)
+  } else {
+    hotAPI.reload("data-v-98009352", Component.options)
+  }
+  module.hot.dispose(function (data) {
+    disposed = true
+  })
+})()}
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 61 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+    name: "Firstvideo"
+});
+
+/***/ }),
+/* 62 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "section",
+      {
+        staticClass: "about-section section theme-bg-light",
+        attrs: { id: "about-section" }
+      },
+      [
+        _c("div", { staticClass: "media-block theme-bg-primary py-5" }, [
+          _c("div", { staticClass: "container" }, [
+            _c("h4", { staticClass: "text-white text-center mb-3" }, [
+              _vm._v("Antes de Comenzar")
+            ]),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass:
+                  "section-intro text-center single-col-max mx-auto text-white mb-5"
+              },
+              [
+                _vm._v(
+                  "\n                    Antes de comenzar, te proponemos revisar el video de nuestra 1ra Edición de la Semana de la Computación, la cual se dio en el año 2018 de forma presencial.\n                    Debido a la situación actual, esta 3ra Edición de la Semana de la Computación será de forma virtual, pero a pesar de ello, esta misma se hará de la mejor\n                    forma posible gracias a la preparación que venimos realizando previamente.\n                "
+                )
+              ]
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "row" }, [
+              _c(
+                "div",
+                { staticClass: "col-12 col-md-12 col-lg-6 offset-lg-3 mb-3" },
+                [
+                  _c(
+                    "div",
+                    { staticClass: "embed-responsive embed-responsive-16by9" },
+                    [
+                      _c("iframe", {
+                        attrs: {
+                          width: "560",
+                          height: "315",
+                          src: "https://www.youtube.com/embed/TThtTUnP0z4",
+                          allow:
+                            "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                          allowfullscreen: ""
+                        }
+                      })
+                    ]
+                  )
+                ]
+              )
+            ])
+          ])
+        ])
+      ]
+    )
+  }
+]
+render._withStripped = true
+module.exports = { render: render, staticRenderFns: staticRenderFns }
+if (false) {
+  module.hot.accept()
+  if (module.hot.data) {
+    require("vue-hot-reload-api")      .rerender("data-v-98009352", module.exports)
   }
 }
 
