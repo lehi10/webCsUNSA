@@ -6,7 +6,7 @@
 	  <ul class="schedule-nav nav nav-pills nav-fill" id="myTab" role="tablist">
         <li
           class="nav-item mr-2"
-          v-for="(eventoObj, diakey, idx) in Programa2"
+          v-for="(eventoObj, diakey, idx) in Programa"
           v-bind:key="diakey"
         >
           <a
@@ -26,7 +26,7 @@
       </ul>
 	  <!-- Tab Panes -->
 	  <div class="schedule-tab-content tab-content">
-			  <div v-for="(eventlistObjt, diakey, idx) in Programa2" v-bind:key = "diakey"  :class="`tab-pane ${idx==0 ? 'active' : '' }`" :id="`tab-${idx+1}-content`" role="tabpanel" :aria-labelledby="`tab-${idx+1}`">
+			  <div v-for="(eventlistObjt, diakey, idx) in Programa" v-bind:key = "diakey"  :class="`tab-pane ${idx==0 ? 'active' : '' }`" :id="`tab-${idx+1}-content`" role="tabpanel" :aria-labelledby="`tab-${idx+1}`">
 				  <div v-for="(eventObj,eventkey) in eventlistObjt.eventos" v-bind:key="eventkey" :class="`item item-${eventObj.Tipo=='Ponencia' ? 'talk': 'other'}`">
 					  <div class="meta">
 						  <h4 class="time mb-3"> {{eventObj.Intervalo}} </h4>
@@ -36,17 +36,18 @@
 							</div><!--//profile-->
 					  </div>
             <div class="content">
-							<h3 class="title mb-3">asdas</h3>
+							<h3 class="title mb-3">{{eventObj.Titulo}}</h3>
 							<div class="location mb-3"><i class="fas fa-video mr-2"></i>Google Meet</div>
-							<div class="desc">
-								<br><br><br><br>
+							<div :class="`desc ${eventObj.Abstract ? '' : 'br'}`">
+                
+                {{eventObj.Abstract}}
 							</div>
 						</div><!--//content-->
 				  </div>
 			  </div>
 	  </div>
       <!-- <ul>
-        <li v-for="(evento,dia) in Programa2" v-bind:key="dia">
+        <li v-for="(evento,dia) in Programa" v-bind:key="dia">
           {{evento}} - {{dia}}
         </li>
       </ul> -->
@@ -56,43 +57,19 @@
   <!--//schedule-section-->
 </template>
 
+
+
 <script>
 export default {
   data: () => ({
     Programa: {
       Lunes: {
-        "08:00 - 09:00": {
-          Tipo: "Ponencia", //(Ponencia | Social | Break),
-          Título: "titulo de prueba", //(str),
-          Abstract: "abstract de prueba", //(HTMLStr),
-          links: [], //(List<URL>),
-          Keywords: "keywords prueba", //(str),
-          Ponente: 123, //(Uid),
-          Presentación: [], //(URL)
-        },
-        Fecha: "(Lunes 8, Nov)", //(str)
-      },
-      Martes: {
-        "09:00 - 10:00": {
-          Tipo: "Ponencia", //(Ponencia | Social | Break),
-          Título: "titulo de prueba", //(str),
-          Abstract: "abstract de prueba", //(HTMLStr),
-          links: [], //(List<URL>),
-          Keywords: "keywords prueba", //(str),
-          Ponente: 123, //(Uid),
-          Presentación: [], //(URL)
-        },
-        Fecha: "(Martes 9, Nov)", //(str)
-      },
-    },
-    Programa2: {
-      Lunes: {
         eventos: [
           {
             Intervalo: "08:00-09:00",
             Tipo: "Ponencia",
-            Título: "titulo de prueba", //(str),
-            Abstract: "abstract de prueba", //(HTMLStr),
+            Titulo: "titulo de prueba", //(str),
+            Abstract: "Charts and graphs are commonly used to present quantitative information. They are pervasive in scientific papers, textbooks, economic reports, news articles and webpages. In many cases these visualizations are the only publicly available representation of the underlying data. When well-designed, visualizations leverage human visual processing to convey information efficiently and effectively. Yet, while people can easily interpret data from charts and graphs, machines cannot directly access it. Today, a vast trove of information is locked inside data-driven diagrams. First, I will show computational models for interpreting data-driven diagrams to extract the underlying data, graphical marks, and mappings that relate the data to mark attributes. We aim to build generalized computational models that can accurately extract data from diagrams and also mimic the way people decode information from charts. Then, I will show some applications were we applied our automated diagram interpretation techniques: i) automatic recoloring to improve perceptual effectiveness, ii) interactive overlays to enable improved reading of static visualizations, and iii) use voices instead of text to generate overlays on a chart in real-time.", //(HTMLStr),
             links: [], //(List<URL>),
             Keywords: "keywords prueba", //(str),
             Ponente: {
@@ -105,8 +82,8 @@ export default {
 		  {
             Intervalo: "09:00-10:00",
             Tipo: "break",
-            Título: "titulo de prueba", //(str),
-            Abstract: "abstract de prueba", //(HTMLStr),
+            Titulo: "titulo de prueba", //(str),
+            Abstract: "",
             links: [], //(List<URL>),
             Keywords: "keywords prueba", //(str),
             Ponente: {
@@ -124,8 +101,8 @@ export default {
           {
             Intervalo: "08:00-09:00",
             Tipo: "Ponencia",
-            Título: "titulo de prueba", //(str),
-            Abstract: "abstract de prueba", //(HTMLStr),
+            Titulo: "titulo de prueba", //(str),
+            Abstract:"",
             links: [], //(List<URL>),
             Keywords: "keywords prueba", //(str),
             Ponente: {
@@ -160,8 +137,8 @@ export default {
     }
   },
   mounted :function() {
-    Object.keys(this.Programa2).forEach((dia)=>{
-      this.Programa2[dia].eventos.forEach((eventos)=>{
+    Object.keys(this.Programa).forEach((dia)=>{
+      this.Programa[dia].eventos.forEach((eventos)=>{
         let x  = eventos.Ponente.nombre;
         console.log(eventos.Ponente)
         eventos.Ponente.slug = this.string_to_slug(x);
