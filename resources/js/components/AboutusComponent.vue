@@ -17,7 +17,7 @@
                     de estudiantes y docentes, además de contar con una serie de ponencias <strong>nacionales e internacionales</strong>, tanto
                     de la industria como la academia del software. No bastando con las actividades académicas, también se realizan
                     una serie de Actividades Sociales y Competitivas, como el concurso de programación y los concursos de talentos.</div>
-                <div class="benefits-list text-center mb-3">
+                <div class="benefits-list text-center">
                     <h4 class="text-center mb-4">¿Por qué participar?</h4>
                     <ul class="list-unstyled text-left d-inline-block">
                         <li><i class="fas fa-check-circle mr-2"></i>Tendrás la oportunidad para conocer más sobre nosotros como escuela</li>
