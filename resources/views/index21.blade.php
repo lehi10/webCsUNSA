@@ -10,10 +10,14 @@
 
 @section('body')
 
-	<div class="body theme-bg-primary" style="height: 100vh;">
-		<div id="app" class="theme-bg-primary">
+	<div class="body" style="height: 100vh;">
+		<div id="app">
 			<header-component></header-component>
 			<aboutus-component></aboutus-component>
+			<firstvideo-component></firstvideo-component>
+			<ponents-component></ponents-component>
+			<modal-persona-component></modal-persona-component>
+			<!-- <program-component></program-component> -->
 			<footer-component></footer-component>
 		</div>
 	</div>
