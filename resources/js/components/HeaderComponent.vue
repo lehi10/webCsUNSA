@@ -138,7 +138,7 @@
                                     ><span class="unit">Segs</span></span
                                 >
                             </div>
-                            <div v-else style="height:2em;">
+                            <div v-else style="height:5em;">
 
                             </div>
                         </div>
