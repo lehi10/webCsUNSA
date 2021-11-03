@@ -826,7 +826,7 @@
 					</div><!--//item-->
 
 				</div><!--//tab-2-content-->
-				<div class="tab-pane no-timeline" id="tab-3-content" role="tabpanel" aria-labelledby="tab-3">
+				<div class="tab-pane " id="tab-3-content" role="tabpanel" aria-labelledby="tab-3">
 					<div class="item item-talk">
 						<div class="meta">
 							<h4 class="time mb-3">8:00 - 9:00</h4>

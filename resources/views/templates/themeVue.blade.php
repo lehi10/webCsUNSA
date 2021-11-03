@@ -20,6 +20,7 @@
 
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="/css/devConf/theme.css">
+    <link id="theme-style" rel="stylesheet" href="/css/devConf/customstyle.css">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126304326-1"></script>

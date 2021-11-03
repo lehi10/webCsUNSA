@@ -16,6 +16,7 @@
 			<aboutus-component></aboutus-component>
 			<firstvideo-component></firstvideo-component>
 			<ponents-component></ponents-component>
+			<program-component></program-component>
 			<modal-persona-component></modal-persona-component>
 			<!-- <program-component></program-component> -->
 			<footer-component></footer-component>
