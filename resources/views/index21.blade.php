@@ -23,6 +23,7 @@
 			{{-- <div class="container">
 				<hr>
 			</div> --}}
+			<venue-component></venue-component>
 			<sponsors-component></sponsors-component>
 			<modal-persona-component></modal-persona-component>
 			<!-- <program-component></program-component> -->
