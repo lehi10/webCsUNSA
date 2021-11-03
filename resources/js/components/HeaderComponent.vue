@@ -138,7 +138,7 @@
                                     ><span class="unit">Segs</span></span
                                 >
                             </div>
-                            <div v-else style="height:2em;">
+                            <div v-else style="height:5em;">
 
                             </div>
                         </div>
@@ -151,6 +151,23 @@
         <!--//stats-block-->
     </div>
 </template>
+
+<style scoped>
+.carousel-item-4{
+    background: linear-gradient(rgba(0, 0, 0.2, 0.4),rgba(0, 0, 0.2, 0.4)),url('/images/building/school2.jpeg') no-repeat center center ;
+    background-size: cover;
+}
+.carousel-item-1{
+    background: linear-gradient(rgba(0, 0, 0.2, 0.4),rgba(0, 0, 0.2, 0.4)),url('/images/building/school1.jpeg') no-repeat center center ;
+    background-size: cover;
+}
+/* .carousel-item-2{
+    background-image: url('/images/building/');
+}
+.carousel-item-3{
+    background-image: url('/images/building/');
+} */
+</style>
 
 <script>
 export default {

@@ -20,6 +20,8 @@ Vue.component('aboutus-component', require('./components/AboutusComponent.vue'))
 Vue.component('firstvideo-component', require('./components/FirstvideoComponent.vue'));
 Vue.component('ponents-component', require('./components/PonentsComponent.vue'));
 Vue.component('program-component', require('./components/ProgramComponent.vue'));
+Vue.component('modal-persona-component', require('./components/PersonaModalComponent.vue'));
+//Vue.component('program-component', require('./components/ProgramComponent.vue'));
 Vue.component('footer-component', require('./components/FooterComponent.vue'));
 
 const app = new Vue({
