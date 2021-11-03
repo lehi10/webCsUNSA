@@ -16,7 +16,14 @@
 			<aboutus-component></aboutus-component>
 			<firstvideo-component></firstvideo-component>
 			<ponents-component></ponents-component>
+			<div class="container">
+				<hr>
+			</div>
 			<program-component></program-component>
+			{{-- <div class="container">
+				<hr>
+			</div> --}}
+			<sponsors-component></sponsors-component>
 			<modal-persona-component></modal-persona-component>
 			<!-- <program-component></program-component> -->
 			<footer-component></footer-component>
