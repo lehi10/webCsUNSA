@@ -31,6 +31,22 @@
 
         gtag('config', 'UA-126304326-1');
     </script>
+    <style>
+        ::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background-color: #e4e4e446;
+            border-radius: 100px;   
+        }
+
+        ::-webkit-scrollbar-thumb {
+            border-radius: 100px;
+            background: #003b84ad;
+            border: 6px solid rgba(0,0,0,0.2);
+        }
+    </style>
 </head>
 
 <body>

@@ -49,8 +49,14 @@
                         >
                             <ul class="nav navbar-nav">
                                 <li class="nav-item">
+                                    <li class="nav-item"><a class="nav-link scrollto" href="#about-section">Sobre</a></li>
+                                    <li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Ponencias</a></li>
+                                    <li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Programa</a></li>
+                                    <li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Participación</a></li>
+                                    <!-- <li class="nav-item"><a class="nav-link scrollto" href="#committee-section">Organización</a></li> -->
+                                    <li class="nav-item"><a class="nav-link scrollto" href="#sponsors-section">Sponsors</a></li>
                                     <a class="nav-link" href="/semcomp2020"
-                                        >Semana de la computación 2020</a
+                                        >Evento 2020</a
                                     >
                                 </li>
                             </ul>
