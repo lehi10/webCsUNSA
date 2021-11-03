@@ -11,7 +11,7 @@
 							<h5 class="card-title mb-2">{{ponent.nombre}}</h5>
 							<div class="card-text mb-3">
 								<div class="meta" v-if="ponent.grados" v-for="grado in ponent.grados">{{grado}}</div>
-								<!-- <div class="meta">Ph.D Student in Computer Science</div> -->
+								<div class="meta">{{ponent.universidad}}</div>
 							</div><!--//card-text-->
 							<a href="javascript:void(0)" v-on:click="showModal(ponent)">Leer más &rarr;</a>
 						</div><!--//card-->
