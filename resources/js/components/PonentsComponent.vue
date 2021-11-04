@@ -24,12 +24,12 @@
               <div class="card-text mb-3">
                 <div
                   class="meta"
-                  v-if="ponent.grados"
-                  v-for="grado in ponent.grados"
+                  v-if="ponent.curr_info"
+                  v-for="grado in ponent.curr_info"
                 >
                   {{ grado }}
                 </div>
-                <div class="meta">{{ ponent.universidad }}</div>
+                <!-- <div class="meta">{{ ponent.universidad }}</div> -->
               </div>
               <!--//card-text-->
               <a href="javascript:void(0)" v-on:click="showModal(ponent)"
@@ -66,7 +66,7 @@
           v-bind:key="idx"
         >
           <div class="card rounded-0">
-            <a href="javascript:void(0)" v-on:click="showModal(ponent)"
+            <a href="javascript:void(0)" v-on:click="showInvitedModal(ponent)"
               ><img
                 :src="ponent.foto || `/images/default-speaker${ponent.genero || ''}.png`"
                 class="card-img-top rounded-0"
@@ -75,10 +75,10 @@
             <div class="card-body">
               <h5 class="card-title mb-2">{{ ponent.nombre }}</h5>
               <div class="card-text mb-3">
-                <div class="meta">{{ ponent.universidad }}</div>
+                <div class="meta">{{ ponent.grado }}</div>
               </div>
               <!--//card-text-->
-              <a href="javascript:void(0)" v-on:click="showModal(ponent)"
+              <a href="javascript:void(0)" v-on:click="showInvitedModal(ponent)"
                 >Leer más &rarr;</a
               >
             </div>
@@ -129,6 +129,10 @@ export default {
   },
   methods: {
     showModal(data) {
+      this.$root.$emit("showModal", data);
+    },
+    showInvitedModal(data) {
+      data.curr_info = ["Universidad Nacional de San Agustín", data.grado + " en Ciencia de la Computación"]
       this.$root.$emit("showModal", data);
     },
   },
