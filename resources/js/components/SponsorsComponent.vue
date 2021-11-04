@@ -9,9 +9,9 @@
       <div class="row logos justify-content-center align-items-center">
         <div
           v-for="(sponsor, idx) in sponsors"
-          :class="`logo-item text-center col-12 col-lg-${idx == 2 ? '4':'2'}`"
+          :class="`logo-item text-center col-12 mb-sm-5 mb-lg-0 col-lg-${idx == 2 ? '4':'2'}`"
         >
-          <img :src="sponsor.img" width="100%" alt="" />
+          <img :src="sponsor.img" :class="`w-sm-${size[sponsor.priority]} w-lg-75`" alt="" />
         </div>
       </div>
       <!--//row-->
@@ -34,6 +34,11 @@ import sponsors from "./sponsors.json";
 export default {
   data: () => ({
     sponsors: sponsors,
+    size : [
+      75,
+      50,
+      25
+    ]
   }),
 };
 </script>
