@@ -8,10 +8,10 @@
       </div>
       <div class="row logos justify-content-center align-items-center">
         <div
-          class="logo-item col-6 col-md-4 col-lg-2"
-          v-for="sponsor in sponsors"
+          v-for="(sponsor, idx) in sponsors"
+          :class="`logo-item text-center col-12 col-lg-${idx == 2 ? '4':'2'}`"
         >
-          <img :src="sponsor.img" alt="" />
+          <img :src="sponsor.img" width="100%" alt="" />
         </div>
       </div>
       <!--//row-->
