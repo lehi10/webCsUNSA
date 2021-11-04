@@ -1,0 +1,490 @@
+{
+    "Lunes": {
+        "eventos": [
+            {
+                "Intervalo": "09:00 - 09:45",
+                "Tipo": "Ponencia",
+                "Titulo": "Inauguración A Cargo Del Director Wilber Ramos Lovón",
+                "Abstract": null,
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers/wilber-ramos.jpg",
+                    "nombre": "Wilber Ramos",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "10:30 - 11:15",
+                "Tipo": "Ponencia",
+                "Titulo": "Cross-modality personalization for retrieval",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Nils_Murrugarra.jpg",
+                    "nombre": "Nils Murrugarra Llerena"
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "11:15 - 12:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Aplicaciones de la computación visual en la industria",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Jan_Hurtado.jpg",
+                    "nombre": "Jan Hurtado Jauregui",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "12:00 - 13:00",
+                "Tipo": "break",
+                "Titulo": "Break de Almuerzo",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Presentación": []
+            },
+            {
+                "Intervalo": "13:00 - 13:30",
+                "Tipo": "Ponencia",
+                "Titulo": "Reconocimiento de emociones en audio",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Luis Antonio Bernal Chahuayo ",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "13:30 - 14:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Detección de estrés en tiempo real a partir de señales de voz y datos fisiológicos",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Yonel Yvan Mamani Mamani",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "14:00 - 14:30",
+                "Tipo": "Ponencia",
+                "Titulo": "Un sistema de recomendación dinamico utilizando sistemas de recomendación",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Luis Chirinos",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "14:30 - 15:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Experiencia sobre publicación de un paper y trabajo en una empresa de EE. UU.",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Lorena Xiomara Castillo Galdos, Grimaldo Jose Davila Guillen",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "16:00 - 16:30",
+                "Tipo": "Ponencia",
+                "Titulo": "Empresa: Puma Development",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Elías Josué Puma Chávez",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "16:30 - 17:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Empresa: Paulonia",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Juan Jose León Camilo",
+                    "slug": ""
+                },
+                "Presentación": []
+            }
+        ],
+        "Fecha": "Lunes 8 de nov"
+    },
+    "Martes": {
+        "eventos": [
+            {
+                "Intervalo": "09:00 - 09:45",
+                "Tipo": "Ponencia",
+                "Titulo": "KUSISQA: Ayudando a Regular Nuestras Emociones en los Procesos de Enseñanza y Aprendizaje",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Alvaro Cuno Parari",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "09:45 - 10:30",
+                "Tipo": "Ponencia",
+                "Titulo": "Introducción al mundo XOps",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Alfonso_Poccho.jpg",
+                    "nombre": "V. Alfonso Phocco Diaz",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "10:30 - 11:15",
+                "Tipo": "Ponencia",
+                "Titulo": "Visualization in particle-based fluids",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Filomen_Incahunaco.jpg",
+                    "nombre": "J. Filomen Incahuanaco Quispe",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "11:15 - 12:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Data Science in Crime Data Analysis",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Jorge_Poco.jpg",
+                    "nombre": "Jorge Poco Medina",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "12:00 - 13:00",
+                "Tipo": "break",
+                "Titulo": "Break de Almuerzo",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Presentación": []
+            },
+            {
+                "Intervalo": "13:00 - 13:30",
+                "Tipo": "Ponencia",
+                "Titulo": "Servicios basados en localización utilizando blockchain para centros hospitalarios en Perú.",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Carlos Atencio Torres",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "13:30 - 14:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Reconocimiento  de acciones  cotidianas en un aula virtual ",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Kelly Vizconde La Motta",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "14:00 - 14:30",
+                "Tipo": "Ponencia",
+                "Titulo": "Image Encryption using an Image Pattern based on Advanced Encryption Standard",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Alejandro Antonio Villa Herrera",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "14:30 - 15:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Comparative Analysis of the main Graph Coloring Algorithms",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Juan Postigo",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "15:00 - 15:30",
+                "Tipo": "Ponencia",
+                "Titulo": "ArgosMol - A Web tool for visualization and prediction of protein structures",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Jean Carlos",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "15:30 - 16:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Gun detection in Real-Time, using YOLOv5 on Jetson AGX Xavier",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Oscar Rosas",
+                    "slug": ""
+                },
+                "Presentación": []
+            }
+        ],
+        "Fecha": "Martes 9 de nov"
+    },
+    "Miercoles": {
+        "eventos": [
+            {
+                "Intervalo": "09:00 - 09:45",
+                "Tipo": "Ponencia",
+                "Titulo": "Forensic Analysis of Digital Data",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Rossy Soriano.png",
+                    "nombre": "Aurea Rossy Soriano Vargas",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "09:45 - 10:30",
+                "Tipo": "Ponencia",
+                "Titulo": "Semi Automatic Headline Selector for Online Newspaper Based on Natural Language Processing Applied to Tweets",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Roxana_Quintanilla.jpg",
+                    "nombre": "Roxana Quintanilla Portugal",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "10:30 - 11:15",
+                "Tipo": "Ponencia",
+                "Titulo": "A Robust Feature-aware sparse mesh representation",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/lizethFuentes.jpg",
+                    "nombre": "Lizeth Fuentes Perez",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "11:15 - 12:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Inteligencia artificial para el análisis de imágenes satelitales",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/cesar_beltran.jpg",
+                    "nombre": "César A. Beltrán Castañón",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "12:00 - 13:00",
+                "Tipo": "break",
+                "Titulo": "Break de Almuerzo",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Presentación": []
+            },
+            {
+                "Intervalo": "13:00 - 15:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Concurso 1: Herramientas de Software",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Presentación": []
+            },
+            {
+                "Intervalo": "15:00 - 17:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Concurso 2: Programacion Competitiva",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Presentación": []
+            }
+        ],
+        "Fecha": "Miércoles 10 de nov"
+    },
+    "Jueves": {
+        "eventos": [
+            {
+                "Intervalo": "09:00 - 09:45",
+                "Tipo": "Ponencia",
+                "Titulo": "Monitoreo de aplicaciones de consumo masivo",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/paz_trillo.jpg",
+                    "nombre": "Christian Danniel Paz Trillo",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "10:30 - 11:15",
+                "Tipo": "Ponencia",
+                "Titulo": "Desafíos y oportunidades en el mercado de tecnología: Data Science / AIoT",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Wilfredo Puma.jpeg",
+                    "nombre": "Wilfredo J. Puma Villanueva",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "12:00 - 13:00",
+                "Tipo": "break",
+                "Titulo": "Break de Almuerzo",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Presentación": []
+            },
+            {
+                "Intervalo": "13:00 - 15:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Concurso 3: Poster Cientifico Alumnos",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Presentación": []
+            },
+            {
+                "Intervalo": "15:00 - 17:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Concurso 4: Logo de la EPCC",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Presentación": []
+            }
+        ],
+        "Fecha": "Jueves 11 de nov"
+    },
+    "Viernes": {
+        "eventos": [
+            {
+                "Intervalo": "09:00 - 09:45",
+                "Tipo": "Ponencia",
+                "Titulo": "Sensores inerciales para navegación y sus aplicaciones en la robótica",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/JuanCarlos_Cutipa.webp",
+                    "nombre": "Juan Carlos Cutipa Luque",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "11:15 - 12:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Desenvolvendo aplicações inteligentes para a Indústria 4.0",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Claudio_Miceli_de_Farias.jpg",
+                    "nombre": "Cláudio Miceli de Farias",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "12:30 - 13:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Premiación, Sorteo",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Comite Organizador y Sponsors",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "13:00 - 15:00",
+                "Tipo": "Ponencia",
+                "Titulo": "Cierre A Cargo Del Director",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers/wilber-ramos.jpg",
+                    "nombre": "Wilber Ramos Lovón ",
+                    "slug": ""
+                },
+                "Presentación": []
+            }
+        ],
+        "Fecha": "Viernes 12 de nov"
+    }
+}
