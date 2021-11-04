@@ -50,7 +50,7 @@
                             <ul class="nav navbar-nav">
                                 <li class="nav-item">
                                     <li class="nav-item"><a class="nav-link scrollto" href="#about-section">Sobre</a></li>
-                                    <li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Ponentes</a></li>
+                                    <li class="nav-item"><a class="nav-link scrollto" href="#speakers-section">Ponencias</a></li>
                                     <li class="nav-item"><a class="nav-link scrollto" href="#schedule-section">Programa</a></li>
                                     <li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Participación</a></li>
                                     <!-- <li class="nav-item"><a class="nav-link scrollto" href="#committee-section">Organización</a></li> -->
