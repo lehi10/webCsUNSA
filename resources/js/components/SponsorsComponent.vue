@@ -11,7 +11,9 @@
           v-for="(sponsor, idx) in sponsors"
           :class="`logo-item text-center col-12 mb-sm-5 mb-lg-0 col-lg-${idx == 2 ? '4':'2'}`"
         >
-          <img :src="sponsor.img" :class="`w-sm-${size[sponsor.priority]} w-lg-75`" alt="" />
+          <a :href="sponsor.link" target="_blank">
+            <img :src="sponsor.img" :class="`w-sm-${size[sponsor.priority]} w-lg-75`" alt="" />
+          </a>
         </div>
       </div>
       <!--//row-->
