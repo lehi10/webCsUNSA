@@ -57,7 +57,7 @@
         <!--//col-->
       </div>
       <!--//row-->
-      <hr />
+      <!-- <hr />
       <h3 class="section-heading text-center mb-3">Ponentes Invitados</h3>
       <div class="row mt-5">
         <div
@@ -77,12 +77,10 @@
               <div class="card-text mb-3">
                 <div class="meta">{{ ponent.grado }}</div>
               </div>
-              <!--//card-text-->
               <a href="javascript:void(0)" v-on:click="showInvitedModal(ponent)"
                 >Leer más &rarr;</a
               >
             </div>
-            <!--//card-->
             <div class="card-footer text-muted">
               <ul class="social-list list-inline mb-0">
                 <li class="list-inline-item">
@@ -95,28 +93,22 @@
                   <a href="#"><i class="fab fa-github fa-fw"></i></a>
                 </li>
               </ul>
-              <!--//social-list-->
             </div>
           </div>
-          <!--//card-->
         </div>
-        <!--//col-->
-      </div>
-      <!--//row-->
+      </div> -->
     </div>
-    <!--//container-->
   </section>
-  <!--//speakers-section-->
 </template>
 
 <script>
 import ponentes from "./ponents.json";
-import ponentesB from "./ponentsB.json";
+// import ponentesB from "./ponentsB.json";
 
 export default {
   data: () => ({
     ponentes: ponentes,
-	ponentesB: ponentesB
+	// ponentesB: ponentesB
   }),
   mounted: function () {
     console.log("Ponents component mounted.");
