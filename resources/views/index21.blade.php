@@ -13,20 +13,22 @@
 	<div class="body" style="height: 100vh;">
 		<div id="app">
 			<header-component></header-component>
-			{{-- <aboutus-component></aboutus-component>
-			<firstvideo-component></firstvideo-component> --}}
+			<aboutus-component></aboutus-component>
+			{{-- <firstvideo-component></firstvideo-component> --}}
 			<ponents-component></ponents-component>
 			<div class="container">
 				<hr>
 			</div>
 			<program-component></program-component>
-			{{-- <div class="container">
+			<div class="container">
 				<hr>
-			</div> --}}
-			<venue-component></venue-component>
+			</div>
+			<comite-component></comite-component>
+			<div class="container">
+				<hr>
+			</div>
 			<sponsors-component></sponsors-component>
 			<modal-persona-component></modal-persona-component>
-			<!-- <program-component></program-component> -->
 			<footer-component></footer-component>
 		</div>
 	</div>

@@ -1,0 +1,32 @@
+[
+    
+
+    {
+        "nombre": "Wilber Roberto Ramos Lovón",
+        "descripcion": "Pionero y Promotor de la Ciencia de la Computación en Arequipa, participó en el Diseño de la COMPUTER SCIENCE CURRICULA FOR PERUVIAN UNIVERSITIES, ha sido fundador y director de la Escuela Profesional de Ciencia de la Computación de la UNSA, Coordinador de la Cátedra en la FCIFF de la UCSM, Se ha capacitado en Semánticas y Aplicaciones en Montevideo Uruguay, Matemáticas Discretas en el Instituto de Sistemas Complejos de Valparaíso Chile, Evaluación para la Acreditación en Programas de Ingeniería de ICACIT Perú, estudio su Maestría en Matemática en la Pontificia Universidad Catolica del Perú, actualmente es Candidato a Doctor en la Universidad Nacional de San Agustín.",
+        "tipo": "Profesor",
+        "foto": "/images/speakers/wilber-ramos.jpg",
+        "curr_info": ["Profesor"]
+    },
+    {
+        "nombre": "Edgar Sarmiento Calisaya",
+        "descripcion": "Graduado en Ingeniería de Sistemas (2003, Universidad Nacional de San Agustín - UNSA, Arequipa, Perú); Maestría en Informática (2009, Universidade Federal do Rio de Janeiro - UFRJ, Brasil); Doctorado en Informática (2016, Pontificia Universidade Catolica do Rio de Janeiro,PUC-Rio, Brasil). Experiencia profesional como desarrollador, arquitecto y consultor de software. Experiencia académica como investigador en el área de Ingeniería de Software con énfasis en las siguientes lineas de investigación: Ingeniería de Requisitos, Calidad de Software, Arquitectura de Software, DevOps y Sistemas Conscientes de Contexto - CA-S.",
+        "tipo": "Profesor",
+        "foto": "/images/speakers/edgar-sarmiento.jpg",
+        "curr_info": ["Profesor"]
+    },
+    {
+        "nombre": "Fernando Thomas Villanueva Sanchez",
+        "descripcion": "Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa. Sus areas de interes actualmente son la investigacion y desarrollo en deep learning, robotica y bioinformatica. Es apasoinado de la divulgaicon cientifica.",
+        "grado": "Estudiante",
+        "foto": "/images/speakers21/Fernando CS.png",
+        "curr_info": ["Estudiante"]
+    },
+    {
+        "nombre": "Alexander Rusvell Apaza Torres",
+        "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacinal de San Agustin de Arequipa, mis areas de interes son: Inteligencia Artificial, Geometria Computacional y Web Development. Tengo experiencia en aplicaciones web.",
+        "grado": "Estudiante",
+        "foto": "/images/speakers21/Alexander CS.jpeg",
+        "curr_info": ["Estudiante"]
+    }
+]

@@ -23,7 +23,7 @@ Vue.component('program-component', require('./components/ProgramComponent.vue'))
 Vue.component('modal-persona-component', require('./components/PersonaModalComponent.vue'));
 Vue.component('sponsors-component', require('./components/SponsorsComponent.vue'));
 Vue.component('venue-component', require('./components/VenueComponent.vue'));
-//Vue.component('program-component', require('./components/ProgramComponent.vue'));
+Vue.component('comite-component', require('./components/ComiteComponent.vue'));
 Vue.component('footer-component', require('./components/FooterComponent.vue'));
 
 const app = new Vue({

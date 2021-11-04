@@ -1,7 +1,7 @@
 [
-    { "img": "/images/logos/icacit.png", "link": "", "priority": 2 },
-    { "img": "/images/logos/paulonia.png", "link": "", "priority": 1 },
-    { "img": "/images/logos/logo-ravn.png", "link": "", "priority": 0 },
+    { "img": "/images/logos/icacit.png", "link": "https://www.icacit.org.pe/web/es/", "priority": 2 },
+    { "img": "/images/logos/paulonia.png", "link": "https://pe.linkedin.com/company/paulonia", "priority": 1 },
+    { "img": "/images/logos/logo-ravn.png", "link": "https://www.ravn.co/", "priority": 0 },
     { "img": "/images/logos/puma-dev.png", "link": "", "priority": 1 },
-    { "img": "/images/logos/kusisqa.png", "link": "", "priority": 2 }
+    { "img": "/images/logos/kusisqa.png", "link": "http://kusisqa.unsa.edu.pe/es/inicio/", "priority": 2 }
 ]
