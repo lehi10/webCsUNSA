@@ -45,7 +45,7 @@ export default {
         this.$root.$on('showModal', data =>{
             this.ponent = data
 		    $('#persona-modal').modal('show')
-            console.log("Modal:", data)
+            // console.log("Modal:", data)
         })
     }
 }

@@ -103,12 +103,6 @@
         <!--//col-->
       </div>
       <!--//row-->
-      <!-- Register -->
-      <div class="speakers-cta text-center py-3">
-        <a class="btn btn-primary btn-lg scrollto" href="#venue-section"
-          >Registrarse</a
-        >
-      </div>
     </div>
     <!--//container-->
   </section>
