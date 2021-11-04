@@ -13,9 +13,9 @@
       </div>
       <div class="benefits-list text-center">
         <ul class="list-unstyled text-left d-inline-block">
+        <li><i class="fas fa-check-circle mr-2"></i> De programación competitiva</li>
         <li><i class="fas fa-check-circle mr-2"></i> De posters científicos</li>
-        <li><i class="fas fa-check-circle mr-2"></i> De posters científicos</li>
-        <li><i class="fas fa-check-circle mr-2"></i> De posters científicos</li>
+        <li><i class="fas fa-check-circle mr-2"></i> De logo de la EPCC-UNSA.</li>
         </ul>
       </div>
       <!--//benefits-list-->
