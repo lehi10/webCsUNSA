@@ -1,0 +1,81 @@
+[
+    {
+        "nombre": "Carlos Atencio Torres",
+        "grados": ["Mg."],
+        "descripcion": "- Bachiller e Ingeniero de Sistemas de la Unsa, Arequipa - Peru.\r\n- Maestría en Ciencia de la Computación, Universidad de Sao Paulo, Sao Paulo, Brasil.\r\n- Estudiante de Doctorado en Ciencia de la Computación, UNSA, Arequipa, Peru.\r\n- 2 años de experiencia en desarrollo web, java en empresas de desarrollo en Sao Paulo - Brasil.\r\n- 1 año de experiencia en desarrollo e investigación en productos innovadores del Grupo de Redes de Computadora, Ingeniería de Software y Sistemas GREat, Fortaleza - Brasil.\r\n- 4 años de experiencia docente en la Universidad Nacional de San Agustín y Universidad Católica San Pablo, Arequipa, Perú.\r\n- Participó en concursos de Robótica y Programación Competitiva como concursante y como coach.\r\n- Áreas de especialización: Procesamiento de Lenguaje Natural y Representación de Conocimiento.\r\n",
+        "foto": "/images/speakers21/B/Carlos Atencio Torres.jpg"
+    },
+    {
+        "nombre": "Kelly Vizconde La Motta",
+        "grados": ["Mg."],
+        "descripcion": "- Bachiller en  Ingeniería de Sistemas , Universidad  Católica  de Santa María.\r\n- Maestría  en Ciencia de la Computación , Universidad  Católica  San Pablo.\r\n- Estudiante de Doctorado en Ciencia de la Computación, UNSA, Arequipa, Peru.\r\n- Directora de Kids & Code\r\n- 12 años de experiencia  en Docencia en instituciones  como: Instituto Unitek,  Universidad  Ciencias  de la Salud , Universidad  Católica  San Pablo.\r\n- 2 años de experiencia  como Analista  Programador  Operador  en Apoyo total.\r\nÁrea de especialización: Procesamiento  de Imágenes\r\n",
+        "foto": "/images/speakers21/B/Kelly Vizconde La Motta.jpg"
+    },
+    {
+        "nombre": "Luis Antonio Bernal Chahuayo ",
+        "grados": ["Bach."],
+        "descripcion": "Estudiante de Maestría en Ciencia de la Computación en la Universidad Estadual de Campinas UNICAMP, Brasil.\r\nBachiller en Ciencia de la Computación UNSA, Perú. Participación como tesista de pregrado en el proyecto Kusisqa.",
+        "foto": "/images/speakers21/B/Luis Bernal.jpeg"
+    },
+    {
+        "nombre": "Luis Chirinos",
+        "grados": ["Bach."],
+        "descripcion": "Es egresado de la Unsa en ciencia de la computación, se interesó por la computación  y la tecnología en general por algunas noticias, peliculas, hizo alguna prácticas sobre seguridad informática específicamente la configuración de Honeypots utilizando herramientas como kibana, ElasticSearch para la exploración de datos en Security Onion, Tambien esta participando en el proyecto Kusisqa como desarrollador backend para el prototipo de la aplicación de Kusisqa.",
+        "foto": "/images/speakers21/B/Luis Chirinos.jpeg"
+    },
+    {
+        "nombre": "Lorena Xiomara Castillo Galdos  / Grimaldo Jose Davila Guillen (Ravn)",
+        "grados": ["Bach."],
+        "descripcion": "Bachiller de Ciencia de la Computación, Software Engineer en Ravn y contractor/team lead para el equipo de Ravn en LifeOmic. / Bachiller en Ciencia de la Computacion, Software Engineer en Ravn y contractor para GuideCX.",
+        "foto": "/images/speakers21/B/Grimaldo y Lorena.jpeg"
+    },
+    {
+        "nombre": "Yonel Yvan Mamani Mamani",
+        "grados": ["Bach."],
+        "descripcion": "Bachiller en Ciencia de la Computación por la Universidad Nacional San Agustín. Miembro Proyecto Kusisqa Concytec. Con experiencia en desarrollador de aplicaciones móviles para empresas. Áreas de interés: desarrollo móvil, Inteligencia artificial, interacción humano-computador.",
+        "foto": "/images/speakers21/B/Yonel Mamani.jpeg"
+    },
+    {
+        "nombre": "Alexandra Delgado",
+        "genero": "w",
+        "grados": [""],
+        "descripcion": null,
+        "foto": ""
+    },
+    {
+        "nombre": "Elías Josué Puma Chávez",
+        "grados": ["Egresado"],
+        "descripcion": "Egresado de Ciencias de la Computación de la Universidad Nacional de San Agustin. Apasionado desarrollador full-stack de aplicaciones React de alta calidad con back-end de Ruby on Rails. Sus habilidades comunicativas le han permitido ganarse la confianza de sus clientes para cumplir con los plazos y resolver problemas. Fue el líder en Perú del desarrollo del proyecto Beynd para una ex empresa estadounidense para la que trabajaba.",
+        "foto": "/images/speakers21/B/Elias Puma.jpeg"
+    },
+    {
+        "nombre": "Juan Jose Leon Camilo (Paulonia)",
+        "grados": ["Egresado"],
+        "descripcion": "Egresado de Ciencias de la Computación de la Universidad Nacional de San Agustin. Desarrollador de aplicaciones móviles y director de proyectos en Paulonia.",
+        "foto": "/images/speakers21/B/Juan Jose.jpg"
+    },
+    {
+        "nombre": "Alejandro Antonio Villa Herrera",
+        "grados": ["Est."],
+        "descripcion": "Egresado de la carrera de mecánica automotriz en la cual descubrí mi gusto por la programación y los sistemas automatizados, dichos estudios los llevé en el instituto de educación superior Tecsup. Estudiante de segundo año de la carrera profesional Ciencias de la Computación en la Universidad Nacional de San Agustín de Arequipa, recientemente descubrí gusto por la programación competitiva y la investigación científica; en el futuro me gustaría especializarme en el extranjero y desarrollarme como profesional en mi área.",
+        "foto": "/images/speakers21/B/Alejandro Antonio Villa Herrera.jpeg"
+    },
+    {
+        "nombre": "Juan Carlos Postigo Cabana",
+        "grados": ["Est."],
+        "descripcion": "Biografía: Estudiante de Ciencias de la Computación e Ingeniería Electrónica (UNSA)",
+        "foto": "/images/speakers21/B/Juan Carlos Postigo Cabana.jpeg"
+    },
+    {
+        "nombre": "Ericka Sejje Condori - Jean Carlos Soncco Lupa",
+        "grados": ["Est."],
+        "descripcion": "Ericka sejje Condori. Estudiante de Pregrado en Ciencia de la computación de la Universidad Nacional de San Agustín de Arequipa.  Mis Áreas de interés son Ciberseguridad (Haking ético y computación forense), Inteligencia Artificial  y Bioinformática.\r\n\r\nJean Carlos. Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa.  Mis áreas de interés son Ciencia de Datos(procesamiento y análisis visual de datos e información ), aprendizaje automático y Bioinformática,",
+        "foto": "/images/speakers21/B/CArlosSoncco.jpeg"
+    },
+    {
+        "nombre": "Oscar Rosas Arotaype - Christofer Dextre",
+        "grados": ["Est."],
+        "descripcion": "Oscar Rosas. Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa.  Mis áreas de interés son visión computacional e inteligencia artificial.\r\n\r\nCristopher Dextre Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa.  Mis áreas de interés son IoT, Ciberseguridad y visión computacional.",
+        "foto": "/images/speakers21/B/oscarRosas.jpg"
+    }
+]

@@ -5,9 +5,9 @@
 			<div class="row py-lg-5">
 				<div class="col-12 col-lg-7 h-100">
 					<div class="desc">
-						<h4 class="text-white mb-3">Cómo participar de la 3ra Edición de la Semana de la Computación</h4>
+						<h4 class="text-white mb-3">Cómo participar de la 4ta Edición de la Semana de la Computación</h4>
 						<p>
-							Para poder participar de la 3ra Edición de la Semana de la Computación podrás realizarlo vía Google Forms.
+							Para poder participar de la 4ta Edición de la Semana de la Computación podrás realizarlo vía Google Forms.
 							De esta forma podremos tener registro de tu e-mail y poder Agendarte y Notificarte gracias a la herramienta Google Calendar,
 							donde se estarán gestionando las invitaciones y los links correspondientes de las videoconferencias que se darán
 							via Google Meet. Además, podrás sincronizar tu Google Drive con los posters o informaciones adicionales gratuitas que se
@@ -24,7 +24,7 @@
 				<div class="col-12 col-lg-4 offset-lg-1 position-relative h-100 mt-5 mt-lg-0">
 					<div class="figures-holder">
 						<div class="figure figure-1"><img class="shadow" src="/images/venue/venue-7.jpeg" alt=""></div>
-						<div class="figure figure-2"><img class="shadow"  src="/images/venue/venue-2.jpg" alt=""></div>
+						<div class="figure figure-2"><img class="shadow"  src="/images/venue/profesores.jpg" alt=""></div>
 					</div><!--//figures-holder-->
 				</div><!--//col-->
 			</div><!--//row-->
