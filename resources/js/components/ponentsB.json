@@ -21,6 +21,35 @@
         "curr_info": ["Egresados"]
     },
     {
+        "nombre": "Alexis Aldo Mendoza Villarroel",
+        "grado": "Bachiller",
+        "descripcion": "Egresado de la carrera de Ciencia de la Computación. Fui parte del proyecto de investigación Kusisqa, donde desarrolle mi tesis para obtener mi título. Actualmente soy parte del proyecto de investigación  Análisis Visual Interactivo en datos espacio-temporales para el monitoreo de la calidad del aire en las zonas urbanas de la ciudad de Arequipa  como investigador junior. Soy co-fundador de la empresa de desarrollo de software Paulonia donde trabajo actualmente.",
+        "foto": "/images/speakers21/B/Alexis Aldo Mendoza Villarroel.jpeg",
+        "curr_info": ["Egresados"]
+    },
+    {
+        "nombre": "Luis Antonio Bernal Chahuayo ",
+        "grado": "Bachiller",
+        "descripcion": "Estudiante de Maestría en Ciencia de la Computación en la Universidad Estadual de Campinas UNICAMP, Brasil.\r\nBachiller en Ciencia de la Computación UNSA, Perú. Participación como tesista de pregrado en el proyecto Kusisqa.",
+        "foto": "/images/speakers21/B/Luis Bernal.jpeg",
+        "curr_info": ["Egresados"]
+    },
+   
+    {
+        "nombre": "Luis Chirinos",
+        "grado": "Bachiller",
+        "descripcion": "Es egresado de la Unsa en ciencia de la computación, se interesó por la computación  y la tecnología en general por algunas noticias, peliculas, hizo alguna prácticas sobre seguridad informática específicamente la configuración de Honeypots utilizando herramientas como kibana, ElasticSearch para la exploración de datos en Security Onion, Tambien esta participando en el proyecto Kusisqa como desarrollador backend para el prototipo de la aplicación de Kusisqa.",
+        "foto": "/images/speakers21/B/Luis Chirinos.jpeg",
+        "curr_info": ["Egresados"]
+    },
+    {
+        "nombre": "Yonel Yvan Mamani Mamani",
+        "grado": "Bachiller",
+        "descripcion": "Bachiller en Ciencia de la Computación por la Universidad Nacional San Agustín. Miembro Proyecto Kusisqa Concytec. Con experiencia en desarrollador de aplicaciones móviles para empresas. Áreas de interés: desarrollo móvil, Inteligencia artificial, interacción humano-computador.",
+        "foto": "/images/speakers21/B/Yonel Mamani.jpeg",
+        "curr_info": ["Egresados"]
+    },
+    {
         "nombre": "Lorena Castillo Galdos - Grimaldo Davila Guillen (RAVN)",
         "grado": "Bachiller",
         "descripcion": "Bachiller de Ciencia de la Computación, Software Engineer en Ravn y contractor/team lead para el equipo de Ravn en LifeOmic. / Bachiller en Ciencia de la Computacion, Software Engineer en Ravn y contractor para GuideCX.",
@@ -42,47 +71,10 @@
         "curr_info": ["Egresados"]
     },
     {
-        "nombre": "Luis Antonio Bernal Chahuayo ",
-        "grado": "Bachiller",
-        "descripcion": "Estudiante de Maestría en Ciencia de la Computación en la Universidad Estadual de Campinas UNICAMP, Brasil.\r\nBachiller en Ciencia de la Computación UNSA, Perú. Participación como tesista de pregrado en el proyecto Kusisqa.",
-        "foto": "/images/speakers21/B/Luis Bernal.jpeg",
-        "curr_info": ["Egresados"]
-    },
-    {
-        "nombre": "Alexis Aldo Mendoza Villarroel",
-        "grado": "Bachiller",
-        "descripcion": "Egresado de la carrera de Ciencia de la Computación. Fui parte del proyecto de investigación Kusisqa, donde desarrolle mi tesis para obtener mi título. Actualmente soy parte del proyecto de investigación  Análisis Visual Interactivo en datos espacio-temporales para el monitoreo de la calidad del aire en las zonas urbanas de la ciudad de Arequipa  como investigador junior. Soy co-fundador de la empresa de desarrollo de software Paulonia donde trabajo actualmente.",
-        "foto": "/images/speakers21/B/Alexis Aldo Mendoza Villarroel.jpeg",
-        "curr_info": ["Egresados"]
-    },
-    {
-        "nombre": "Luis Chirinos",
-        "grado": "Bachiller",
-        "descripcion": "Es egresado de la Unsa en ciencia de la computación, se interesó por la computación  y la tecnología en general por algunas noticias, peliculas, hizo alguna prácticas sobre seguridad informática específicamente la configuración de Honeypots utilizando herramientas como kibana, ElasticSearch para la exploración de datos en Security Onion, Tambien esta participando en el proyecto Kusisqa como desarrollador backend para el prototipo de la aplicación de Kusisqa.",
-        "foto": "/images/speakers21/B/Luis Chirinos.jpeg",
-        "curr_info": ["Egresados"]
-    },
-
-    {
-        "nombre": "Yonel Yvan Mamani Mamani",
-        "grado": "Bachiller",
-        "descripcion": "Bachiller en Ciencia de la Computación por la Universidad Nacional San Agustín. Miembro Proyecto Kusisqa Concytec. Con experiencia en desarrollador de aplicaciones móviles para empresas. Áreas de interés: desarrollo móvil, Inteligencia artificial, interacción humano-computador.",
-        "foto": "/images/speakers21/B/Yonel Mamani.jpeg",
-        "curr_info": ["Egresados"]
-    },
-
-    {
         "nombre": "Alejandro Antonio Villa Herrera",
         "grado": "Estudiante",
         "descripcion": "Egresado de la carrera de mecánica automotriz en la cual descubrí mi gusto por la programación y los sistemas automatizados, dichos estudios los llevé en el instituto de educación superior Tecsup. Estudiante de segundo año de la carrera profesional Ciencias de la Computación en la Universidad Nacional de San Agustín de Arequipa, recientemente descubrí gusto por la programación competitiva y la investigación científica; en el futuro me gustaría especializarme en el extranjero y desarrollarme como profesional en mi área.",
         "foto": "/images/speakers21/B/Alejandro Antonio Villa Herrera.jpeg",
-        "curr_info": ["Pre-Grado"]
-    },
-    {
-        "nombre": "Juan Carlos Postigo Cabana",
-        "grado": "Estudiante",
-        "descripcion": "Biografía: Estudiante de Ciencias de la Computación e Ingeniería Electrónica (UNSA)",
-        "foto": "/images/speakers21/B/Juan Carlos Postigo Cabana.jpeg",
         "curr_info": ["Pre-Grado"]
     },
     {
@@ -92,6 +84,14 @@
         "foto": "/images/speakers21/B/CArlosSoncco.jpeg",
         "curr_info": ["Pre-Grado"]
     },
+    {
+        "nombre": "Juan Carlos Postigo Cabana",
+        "grado": "Estudiante",
+        "descripcion": "Biografía: Estudiante de Ciencias de la Computación e Ingeniería Electrónica (UNSA)",
+        "foto": "/images/speakers21/B/Juan Carlos Postigo Cabana.jpeg",
+        "curr_info": ["Pre-Grado"]
+    },
+    
     {
         "nombre": "Oscar Rosas Arotaype - Christofer Dextre",
         "grado": "Estudiante",
