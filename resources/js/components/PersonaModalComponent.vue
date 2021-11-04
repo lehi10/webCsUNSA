@@ -13,8 +13,8 @@
 						<div class="media-body text-center text-md-left mx-auto">
 							<h2 class="name mb-2">{{ponent.nombre}}</h2>
                             <div class="mb-2">
-							    <div class="meta" v-if="ponent.grados" v-for="grado in ponent.grados">{{grado}}</div>
-							    <div class="meta" >{{ponent.universidad}}</div>
+							    <div class="meta" v-if="ponent.curr_info" v-for="grado in ponent.curr_info">{{grado}}</div>
+							    <!-- <div class="meta" >{{ponent.universidad}}</div> -->
                             </div>
 
 							<ul class="social-list list-inline mb-0">
