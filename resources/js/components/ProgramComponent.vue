@@ -65,7 +65,7 @@
               <!--//profile-->
             </div>
             <div class="content">
-              <h3 class="title mb-3">{{ eventObj.Titulo }}</h3>
+              <h3 class="title mb-3">{{ eventObj.Titulo || '&nbsp;' }}</h3>
               <div class="location mb-3" v-if="eventObj.Tipo == 'Ponencia'">
                 <i class="fas fa-video mr-2"></i>Google Meet
               </div>

@@ -1,7 +1,7 @@
 [
-    { "img": "/images/logos/icacit.png", "link": "", "height": "30" },
-    { "img": "/images/logos/paulonia.png", "link": "", "height": "45" },
-    { "img": "/images/logos/logo-ravn.png", "link": "", "height": "50" },
-    { "img": "/images/logos/puma-dev.png", "link": "", "height": "60" },
-    { "img": "/images/logos/kusisqa.png", "link": "", "height": "60" }
+    { "img": "/images/logos/icacit.png", "link": "", "priority": 2 },
+    { "img": "/images/logos/paulonia.png", "link": "", "priority": 1 },
+    { "img": "/images/logos/logo-ravn.png", "link": "", "priority": 0 },
+    { "img": "/images/logos/puma-dev.png", "link": "", "priority": 1 },
+    { "img": "/images/logos/kusisqa.png", "link": "", "priority": 2 }
 ]

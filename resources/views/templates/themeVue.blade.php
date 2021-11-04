@@ -52,9 +52,7 @@
 <body>
     @yield('body')
 
-    
     <script src="/js/app.js" ></script>
-	<script src="/plugins/popper.min.js"></script>
 	<script src="/plugins/back-to-top.js"></script>
 	<script src="/plugins/jquery.scrollTo.min.js"></script>
 	<script src="/js/devConf/main.js"></script>

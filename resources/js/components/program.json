@@ -16,6 +16,20 @@
                 "Presentación": []
             },
             {
+                "Intervalo": "09:45 - 10:30",
+                "Tipo": "Ponencia",
+                "Titulo": "Aplicaciones de la computación visual en la industria",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/Jan_Hurtado.jpg",
+                    "nombre": "Jan Hurtado Jauregui",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
                 "Intervalo": "10:30 - 11:15",
                 "Tipo": "Ponencia",
                 "Titulo": "Cross-modality personalization for retrieval",
@@ -31,13 +45,13 @@
             {
                 "Intervalo": "11:15 - 12:00",
                 "Tipo": "Ponencia",
-                "Titulo": "Aplicaciones de la computación visual en la industria",
+                "Titulo": "A Robust Feature-aware sparse mesh representation",
                 "Abstract": "",
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
-                    "imgURL": "/images/speakers21/Jan_Hurtado.jpg",
-                    "nombre": "Jan Hurtado Jauregui",
+                    "imgURL": "/images/speakers21/lizethFuentes.jpg",
+                    "nombre": "Lizeth Fuentes Perez",
                     "slug": ""
                 },
                 "Presentación": []
@@ -60,6 +74,7 @@
                 "Keywords": "keywords prueba",
                 "Ponente": {
                     "nombre": "Luis Antonio Bernal Chahuayo ",
+                    "imgURL": "/images/speakers21/B/Luis Bernal.jpeg",
                     "slug": ""
                 },
                 "Presentación": []
@@ -73,6 +88,7 @@
                 "Keywords": "keywords prueba",
                 "Ponente": {
                     "nombre": "Yonel Yvan Mamani Mamani",
+                    "imgURL": "/images/speakers21/B/Yonel Mamani.jpeg",
                     "slug": ""
                 },
                 "Presentación": []
@@ -85,6 +101,7 @@
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
+                    "imgURL": "/images/speakers21/B/Luis Chirinos.jpeg",
                     "nombre": "Luis Chirinos",
                     "slug": ""
                 },
@@ -99,6 +116,36 @@
                 "Keywords": "keywords prueba",
                 "Ponente": {
                     "nombre": "Lorena Xiomara Castillo Galdos, Grimaldo Jose Davila Guillen",
+                    "imgURL": "/images/speakers21/B/Grimaldo y Lorena.jpeg",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "15:00 - 15:30",
+                "Tipo": "Ponencia",
+                "Titulo": "Un corpus oral en idioma español con acento peruano para el reconocimiento de emociones",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Alessandra Daniela Delgado Mattos",
+                    "imgURL": "/images/speakers21/B/Alessandra Daniela Delgado Mattos.jpeg",
+
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "15:30 - 16:00",
+                "Tipo": "Ponencia",
+                "Titulo": "EmoViz: Una herramienta para la visualización de datasets de emociones",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Alexis Aldo Mendoza Villarroel",
+                    "imgURL": "/images/speakers21/B/Alexis Aldo Mendoza Villarroel.jpeg",
                     "slug": ""
                 },
                 "Presentación": []
@@ -112,6 +159,8 @@
                 "Keywords": "keywords prueba",
                 "Ponente": {
                     "nombre": "Elías Josué Puma Chávez",
+                    "imgURL": "/images/speakers21/B/Elias Puma.jpeg",
+
                     "slug": ""
                 },
                 "Presentación": []
@@ -125,6 +174,8 @@
                 "Keywords": "keywords prueba",
                 "Ponente": {
                     "nombre": "Juan Jose León Camilo",
+                    "imgURL": "/images/speakers21/B/Juan Jose.jpg",
+
                     "slug": ""
                 },
                 "Presentación": []
@@ -137,12 +188,13 @@
             {
                 "Intervalo": "09:00 - 09:45",
                 "Tipo": "Ponencia",
-                "Titulo": "KUSISQA: Ayudando a Regular Nuestras Emociones en los Procesos de Enseñanza y Aprendizaje",
+                "Titulo": "Perspectivas de Internet de las Cosas",
                 "Abstract": "",
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
-                    "nombre": "Alvaro Cuno Parari",
+                    "nombre": "Pablo Calcina",
+                    "imgURL": "/images/speakers/pablo-calcina.jpg",
                     "slug": ""
                 },
                 "Presentación": []
@@ -207,6 +259,7 @@
                 "Keywords": "keywords prueba",
                 "Ponente": {
                     "nombre": "Carlos Atencio Torres",
+                    "imgURL": "/images/speakers21/B/Carlos Atencio Torres.jpg",
                     "slug": ""
                 },
                 "Presentación": []
@@ -220,6 +273,7 @@
                 "Keywords": "keywords prueba",
                 "Ponente": {
                     "nombre": "Kelly Vizconde La Motta",
+                    "imgURL": "/images/speakers21/B/Kelly Vizconde La Motta.jpg",
                     "slug": ""
                 },
                 "Presentación": []
@@ -233,6 +287,7 @@
                 "Keywords": "keywords prueba",
                 "Ponente": {
                     "nombre": "Alejandro Antonio Villa Herrera",
+                    "imgURL": "/images/speakers21/B/Alejandro Antonio Villa Herrera.jpeg",
                     "slug": ""
                 },
                 "Presentación": []
@@ -245,7 +300,8 @@
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
-                    "nombre": "Juan Postigo",
+                    "nombre": "Juan Carlos Postigo Cabana",
+                    "imgURL": "/images/speakers21/B/Juan Carlos Postigo Cabana.jpeg",
                     "slug": ""
                 },
                 "Presentación": []
@@ -258,7 +314,8 @@
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
-                    "nombre": "Jean Carlos",
+                    "nombre": "Jean Carlos Soncco",
+                    "imgURL": "/images/speakers21/B/CArlosSoncco.jpeg",
                     "slug": ""
                 },
                 "Presentación": []
@@ -271,9 +328,28 @@
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
-                    "nombre": "Oscar Rosas",
+                    "nombre": "Oscar Rosas Arotaype",
+                    "imgURL": "/images/speakers21/B/oscarRosas.jpg",
                     "slug": ""
                 },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "16:00 - 16:20",
+                "Tipo": "break",
+                "Titulo": "Recorrido virtual de la EPCC (Video)",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Presentación": []
+            },
+            {
+                "Intervalo": "16:20 - 17:00",
+                "Tipo": "break",
+                "Titulo": "Encuentro de la Familia de la EPCC",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
                 "Presentación": []
             }
         ],
@@ -312,20 +388,6 @@
             {
                 "Intervalo": "10:30 - 11:15",
                 "Tipo": "Ponencia",
-                "Titulo": "A Robust Feature-aware sparse mesh representation",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/lizethFuentes.jpg",
-                    "nombre": "Lizeth Fuentes Perez",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "11:15 - 12:00",
-                "Tipo": "Ponencia",
                 "Titulo": "Inteligencia artificial para el análisis de imágenes satelitales",
                 "Abstract": "",
                 "links": [],
@@ -335,6 +397,15 @@
                     "nombre": "César A. Beltrán Castañón",
                     "slug": ""
                 },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "11:15 - 12:00",
+                "Tipo": "Ponencia",
+                "Titulo": "RAVN",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
                 "Presentación": []
             },
             {
@@ -384,6 +455,20 @@
                 "Presentación": []
             },
             {
+                "Intervalo": "09:45 - 10:30",
+                "Tipo": "Ponencia",
+                "Titulo": "",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/elizabeth-suescun.jpg",
+                    "nombre": "Elizabeth Suescun Monsalve",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
                 "Intervalo": "10:30 - 11:15",
                 "Tipo": "Ponencia",
                 "Titulo": "Desafíos y oportunidades en el mercado de tecnología: Data Science / AIoT",
@@ -395,6 +480,15 @@
                     "nombre": "Wilfredo J. Puma Villanueva",
                     "slug": ""
                 },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "11:15 - 12:00",
+                "Tipo": "Ponencia",
+                "Titulo": "RAVN",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
                 "Presentación": []
             },
             {
@@ -444,6 +538,30 @@
                 "Presentación": []
             },
             {
+                "Intervalo": "09:45 - 10:30",
+                "Tipo": "Ponencia",
+                "Titulo": "",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": "/images/speakers21/ernesto.jpg",
+                    "nombre": "Ernesto Cuadros Vargas",
+                    "slug": ""
+                },
+                "Presentación": []
+            },
+            {
+                "Intervalo": "10:30 - 11:15",
+                "Tipo": "Ponencia",
+                "Titulo": "RAVN",
+                "Abstract": "",
+                "links": [],
+                "Keywords": "keywords prueba",
+                
+                "Presentación": []
+            },
+            {
                 "Intervalo": "11:15 - 12:00",
                 "Tipo": "Ponencia",
                 "Titulo": "Desenvolvendo aplicações inteligentes para a Indústria 4.0",
@@ -460,14 +578,10 @@
             {
                 "Intervalo": "12:30 - 13:00",
                 "Tipo": "Ponencia",
-                "Titulo": "Premiación, Sorteo",
+                "Titulo": "Premiación de concursos y Sorteo",
                 "Abstract": "",
                 "links": [],
                 "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Comite Organizador y Sponsors",
-                    "slug": ""
-                },
                 "Presentación": []
             },
             {
