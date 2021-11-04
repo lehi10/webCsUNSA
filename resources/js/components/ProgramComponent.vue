@@ -724,10 +724,10 @@ export default {
   mounted: function () {
     Object.keys(this.Programa).forEach((dia) => {
       this.Programa[dia].eventos.forEach((eventos) => {
-        let x = eventos.Ponente.nombre;
-        console.log(eventos.Ponente);
+        // let x = eventos.Ponente.nombre;
+        // console.log(eventos.Ponente);
         // eventos.Ponente.slug = this.string_to_slug(x);
-        eventos.Ponente.slug = '';
+        // eventos.Ponente.slug = '';
         
       });
     });

@@ -55,9 +55,10 @@
                                     <li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Participación</a></li>
                                     <!-- <li class="nav-item"><a class="nav-link scrollto" href="#committee-section">Organización</a></li> -->
                                     <li class="nav-item"><a class="nav-link scrollto" href="#sponsors-section">Sponsors</a></li>
-                                    <a class="nav-link" href="/semcomp2020"
+                                    <li class="nav-item"><a class="nav-link" href="/semcomp2020"
                                         >Evento 2020</a
-                                    >
+                                    ></li>
+                                    
                                 </li>
                             </ul>
                             <!--//nav-->
@@ -103,7 +104,7 @@
                     <!-- Register -->
                     <div class="hero-cta">
                         <a
-                            class="btn btn-primary btn-lg"
+                            class="btn btn-secondary btn-lg"
                             href="https://forms.gle/9iSUb9FBpigLQMyo6"
                             target="_blank"
                             >Registrarse</a
