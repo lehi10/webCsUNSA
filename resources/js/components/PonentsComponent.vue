@@ -68,7 +68,6 @@
           <div class="card rounded-0">
             <a href="javascript:void(0)" v-on:click="showModal(ponent)"
               ><img
-			  	height="255"
                 :src="ponent.foto || `/images/default-speaker${ponent.genero || ''}.png`"
                 class="card-img-top rounded-0"
                 alt=""
