@@ -9,7 +9,7 @@
         Tendremos conferencistas nacionales e internacionales con más de 20 ponencias en Computación.
         Las charlas se transmitirán por las plataformas Zoom, <a href="https://www.youtube.com/channel/UCIREVPQo9SrJvhgWOTfVgDA">Youtube</a>  y 
         <a href="https://www.facebook.com/epcc.unsa" target="_blank">Facebook</a> de la Escuela Profesional de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa.
-        También tendremos actividades dirigidas a estudiantes y egresados de la Escuela Profesional de Ciencia de la Computación, como son:
+        También tendremos actividades dirigidas a estudiantes y egresados de computación, como son:
         
       </div>
       
