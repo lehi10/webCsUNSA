@@ -28,7 +28,7 @@
 			<div class="sponsors-cta text-center pt-5" v-if="route == ''">
 				<a
 				class="btn-primary btn btn-lg"
-				href="/comite21"
+				href="/comite21#committee-section"
 				>Ver más</a
 				>
 			</div>
@@ -49,7 +49,7 @@ export default {
 		let route = window.location.href.split('/').pop();
 		this.route = route
 		console.log("Route", route)
-		if (route == ''){
+		if (route == '' || route[0] == '#'){
 			this.comite = this.comite.slice(0, 4)
 		}
 	},

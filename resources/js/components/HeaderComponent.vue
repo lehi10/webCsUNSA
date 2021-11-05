@@ -50,11 +50,11 @@
                         >
                             <ul class="nav navbar-nav">
                                 <li class="nav-item">
-                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#about-section': '/'}`">Sobre</a></li>
-                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#speakers-section': '/'}`">Ponentes</a></li>
-                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#schedule-section': '/'}`">Programa</a></li>
-                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#committee-section': '/'}`">Organización</a></li>
-                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#sponsors-section': '/'}`">Sponsors</a></li>
+                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '': '/'}#about-section`">Sobre</a></li>
+                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '': '/'}#speakers-section`">Ponentes</a></li>
+                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '': '/'}#schedule-section`">Programa</a></li>
+                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '': '/'}#committee-section`">Organización</a></li>
+                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '': '/'}#sponsors-section`">Sponsors</a></li>
                                     <li class="nav-item"><a class="nav-link scrollto" href="javascript:void(0)" v-on:click="showCustomModal()">Certificado</a></li>
                                     <!-- <li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Participación</a></li> -->
                                     <!-- <li class="nav-item"><a class="nav-link scrollto" href="#committee-section">Organización</a></li> -->
@@ -192,8 +192,14 @@ export default {
         route: ''
     }),
     mounted() {
-		this.route = window.location.href.split('/').pop();
-        console.log("Route header", this.route)
+        let route = window.location.href.split('/').pop();
+        if (route[0] != '#'){
+            this.route = route
+        }
+        else{
+            // history.pushState("", document.title, window.location.pathname);
+        }
+
         this.slideHeight = window.innerHeight;
         console.log("Component mounted.", this.slideHeight);
         let target_date = new Date("Nov 8, 2021").getTime();

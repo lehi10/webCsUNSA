@@ -9,8 +9,8 @@
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
-                    "imgURL": "/images/speakers/wilber-ramos.jpg",
-                    "nombre": "Wilber Ramos",
+                    "imgURL": "/images/speakers21/wilber_ramos.jpg",
+                    "nombre": "Wilber Roberto Ramos Lovón",
                     "slug": ""
                 },
                 "Presentación": []
@@ -18,13 +18,13 @@
             {
                 "Intervalo": "09:45 - 10:30",
                 "Tipo": "Ponencia",
-                "Titulo": "Aplicaciones de la computación visual en la industria",
+                "Titulo": "Un día como Product Designer",
                 "Abstract": "",
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
-                    "imgURL": "/images/speakers21/Jan_Hurtado.jpg",
-                    "nombre": "Jan Hurtado Jauregui",
+                    "imgURL": null,
+                    "nombre": "Carlos Arbieto",
                     "slug": ""
                 },
                 "Presentación": []
@@ -188,16 +188,17 @@
             {
                 "Intervalo": "09:00 - 09:45",
                 "Tipo": "Ponencia",
-                "Titulo": "Perspectivas de Internet de las Cosas",
+                "Titulo": "Aplicaciones de la computación visual en la industria",
                 "Abstract": "",
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
-                    "nombre": "Pablo Calcina",
-                    "imgURL": "/images/speakers/pablo-calcina.jpg",
+                    "imgURL": "/images/speakers21/Jan_Hurtado.jpg",
+                    "nombre": "Jan Hurtado Jauregui",
                     "slug": ""
                 },
                 "Presentación": []
+                
             },
             {
                 "Intervalo": "09:45 - 10:30",
@@ -402,10 +403,15 @@
             {
                 "Intervalo": "11:15 - 12:00",
                 "Tipo": "Ponencia",
-                "Titulo": "RAVN",
+                "Titulo": "Perspectivas de Internet de las Cosas",
                 "Abstract": "",
                 "links": [],
                 "Keywords": "keywords prueba",
+                "Ponente": {
+                    "nombre": "Pablo Calcina",
+                    "imgURL": "/images/speakers/pablo-calcina.jpg",
+                    "slug": ""
+                },
                 "Presentación": []
             },
             {
@@ -485,10 +491,16 @@
             {
                 "Intervalo": "11:15 - 12:00",
                 "Tipo": "Ponencia",
-                "Titulo": "RAVN",
+                "Titulo": "La importancia de Latam en la industria de la tecnología",
                 "Abstract": "",
                 "links": [],
                 "Keywords": "keywords prueba",
+                "Ponente": {
+                    "imgURL": null,
+                    "genero": "w",
+                    "nombre": "Luisa Gonzales",
+                    "slug": ""
+                },
                 "Presentación": []
             },
             {
@@ -554,9 +566,14 @@
             {
                 "Intervalo": "10:30 - 11:15",
                 "Tipo": "Ponencia",
-                "Titulo": "RAVN",
+                "Titulo": "Three qualities of great software engineers",
                 "Abstract": "",
                 "links": [],
+                "Ponente": {
+                    "imgURL": null,
+                    "nombre": "Rick Roberts",
+                    "slug": ""
+                },
                 "Keywords": "keywords prueba",
                 
                 "Presentación": []
@@ -592,8 +609,8 @@
                 "links": [],
                 "Keywords": "keywords prueba",
                 "Ponente": {
-                    "imgURL": "/images/speakers/wilber-ramos.jpg",
-                    "nombre": "Wilber Ramos Lovón ",
+                    "imgURL": "/images/speakers21/wilber_ramos.jpg",
+                    "nombre": "Wilber Roberto Ramos Lovón",
                     "slug": ""
                 },
                 "Presentación": []
