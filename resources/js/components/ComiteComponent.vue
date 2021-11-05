@@ -8,7 +8,7 @@
 					<div class="card rounded-0">
 						<a href="jvascript:void(0)" v-on:click="showModal(person)"><img :src="person.foto" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
-							<h5 class="card-title mb-2">{{person.nombre}}</h5>
+							<h6 class="card-title mb-2">{{person.nombre}}</h6>
 							<div class="card-text mb-3">
 								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
 								<div class="meta" v-for="info in person.curr_info">{{info}}</div>
@@ -16,12 +16,12 @@
 							<a href="jvascript:void(0)" v-on:click="showModal(person)">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
-							<ul class="social-list list-inline mb-0">
+							<!-- <ul class="social-list list-inline mb-0">
 								<li class="list-inline-item"><a  href="#"><i class="fab fa-orcid fa-fw"></i></a></li>
 								<li class="list-inline-item"><a  href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
 								<li class="list-inline-item"><a  href="#"><i class="fab fa-github fa-fw"></i></a></li>
-							</ul><!--//social-list-->
-						</div>
+							</ul> -->
+						</div> 
 					</div><!--//card-->
 				</div><!--//col-->
 			</div><!--//row-->

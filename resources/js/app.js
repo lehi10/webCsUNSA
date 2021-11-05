@@ -25,6 +25,7 @@ Vue.component('sponsors-component', require('./components/SponsorsComponent.vue'
 Vue.component('venue-component', require('./components/VenueComponent.vue'));
 Vue.component('comite-component', require('./components/ComiteComponent.vue'));
 Vue.component('footer-component', require('./components/FooterComponent.vue'));
+Vue.component('custom-modal-component', require('./components/CustomModalComponent.vue'));
 
 const app = new Vue({
     el: '#app'

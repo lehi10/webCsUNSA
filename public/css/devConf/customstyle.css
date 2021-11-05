@@ -6,8 +6,67 @@
     padding-bottom: 2em;
 }
 
+.theme-bg-primary {
+    background: hsl(213, 83%, 29%);
+}
+
+.btn-secondary {
+    background: #8fbb24;
+}
+
+.btn-secondary:hover {
+    background: #303f09;
+}
+
+.header-shrink a.btn{
+    background: #0d4588;
+}
+
+#registerBtn:hover{
+    background: #08274e;
+}
+
+.stats-block .unit {
+    font-size: 1.5rem;
+    color: rgba(250,250,250,0.8);
+}
+
+a {
+    color: #1a6bcc;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #003c84;
+}
+
+.schedule-tab-content .item .meta .time {
+    font-size: 1.25rem;
+    color: #0d4588;
+}
+
+.btn-primary{
+    background: #003c84;
+}
+
+.schedule-tab-content .item:after {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    z-index: 5;
+    left: 190 px;
+    top: 5px;
+    width: 16px;
+    height: 16px;
+    border: 4px solid #0d4588;
+    background: white;
+    border-radius: 50%;
+}
+
 /* Small devices (landscape phones, 576px and up)*/
-@media (min-width: 450px) {
+@media (min-width: 330px) {
     .w-sm-100 {
         width: 100% !important;
     }
@@ -16,6 +75,15 @@
     }
     .w-sm-50 {
         width: 50% !important;
+    }
+    .w-sm-60 {
+        width: 60% !important;
+    }
+    .w-sm-30 {
+        width: 30% !important;
+    }
+    .w-sm-20 {
+        width: 20% !important;
     }
     .w-sm-25 {
         width: 25% !important;

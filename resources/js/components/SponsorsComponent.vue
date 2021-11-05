@@ -37,9 +37,9 @@ export default {
   data: () => ({
     sponsors: sponsors,
     size : [
-      75,
-      50,
-      25
+      60,
+      30,
+      20
     ]
   }),
 };

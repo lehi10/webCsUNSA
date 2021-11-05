@@ -29,6 +29,7 @@
 			</div>
 			<sponsors-component></sponsors-component>
 			<modal-persona-component></modal-persona-component>
+			<custom-modal-component></custom-modal-component>
 			<footer-component></footer-component>
 		</div>
 	</div>

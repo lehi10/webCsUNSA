@@ -22,9 +22,10 @@
                         </div>
 
                         <!-- Register -->
-                        <div class="navbar-btn order-lg-2">
+                        <div class="navbar-btn order-lg-2 ">
                             <a
-                                class="btn btn-secondary"
+                                class="btn text-white"
+                                id="registerBtn"
                                 href="https://forms.gle/9iSUb9FBpigLQMyo6"
                                 target="_blank"
                                 >Registrarse</a
@@ -45,7 +46,7 @@
 
                         <div
                             id="navigation"
-                            class="navbar-collapse collapse  justify-content-lg-end mr-lg-3"
+                            class="navbar-collapse collapse justify-content-lg-end mr-lg-3"
                         >
                             <ul class="nav navbar-nav">
                                 <li class="nav-item">
@@ -55,6 +56,7 @@
                                     <!-- <li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Participación</a></li> -->
                                     <!-- <li class="nav-item"><a class="nav-link scrollto" href="#committee-section">Organización</a></li> -->
                                     <li class="nav-item"><a class="nav-link scrollto" href="#sponsors-section">Sponsors</a></li>
+                                    <li class="nav-item"><a class="nav-link scrollto" href="javascript:void(0)" v-on:click="showCustomModal()">Certificado</a></li>
                                     
                                 </li>
                             </ul>
@@ -99,9 +101,10 @@
                     </div>
                     <div class="hero-intro mb-4"></div>
                     <!-- Register -->
+                    
                     <div class="hero-cta">
                         <a
-                            class="btn btn-secondary btn-lg"
+                            class="btn btn-secondary bg-cs_secondary  btn-lg"
                             href="https://forms.gle/9iSUb9FBpigLQMyo6"
                             target="_blank"
                             >Registrarse</a
@@ -157,14 +160,17 @@
 </template>
 
 <style scoped>
-.carousel-item-4{
-    background: linear-gradient(rgba(0, 0, 0.2, 0.4),rgba(0, 0, 0.2, 0.4)),url('/images/building/school2.jpeg') no-repeat center center ;
+.carousel-item-4 {
+    background: linear-gradient(rgba(0, 0, 0.2, 0.4), rgba(0, 0, 0.2, 0.4)),
+        url("/images/building/school2.jpeg") no-repeat center center;
     background-size: cover;
 }
-.carousel-item-1{
-    background: linear-gradient(rgba(0, 0, 0.2, 0.4),rgba(0, 0, 0.2, 0.4)),url('/images/building/school1.jpeg') no-repeat center center ;
+.carousel-item-1 {
+    background: linear-gradient(rgba(0, 0, 0.2, 0.4), rgba(0, 0, 0.2, 0.4)),
+        url("/images/building/school1.jpeg") no-repeat center center;
     background-size: cover;
 }
+
 /* .carousel-item-2{
     background-image: url('/images/building/');
 }
@@ -208,6 +214,12 @@ export default {
             this.left.mins = minutes;
             this.left.secs = seconds;
         }, 1000);
+    },
+    methods: {
+        showCustomModal() {
+            console.log('Modal!')
+            this.$root.$emit("showCertModal", true);
+        }
     }
 };
 </script>
