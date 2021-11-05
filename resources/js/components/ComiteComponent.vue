@@ -25,6 +25,13 @@
 					</div><!--//card-->
 				</div><!--//col-->
 			</div><!--//row-->
+			<div class="sponsors-cta text-center pt-5" v-if="route == ''">
+				<a
+				class="btn-primary btn btn-lg"
+				href="/comite21"
+				>Ver más</a
+				>
+			</div>
 
 		</div><!--//container-->
 
@@ -35,8 +42,17 @@
 import comite from "./comite.json";
 export default {
     data: () => ({
-        comite: comite
+        comite: comite,
+		route: ''
     }),
+	mounted: function(){
+		let route = window.location.href.split('/').pop();
+		this.route = route
+		console.log("Route", route)
+		if (route == ''){
+			this.comite = this.comite.slice(0, 4)
+		}
+	},
     methods: {
         showModal(data) {
             this.$root.$emit("showModal", data);
@@ -48,6 +64,8 @@ export default {
             ];
             this.$root.$emit("showModal", data);
         }
-    }
+    },
+	computed: {
+	}
 };
 </script>

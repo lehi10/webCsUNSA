@@ -1,32 +1,267 @@
 [
-    
-
     {
-        "nombre": "Wilber Roberto Ramos Lovón",
-        "descripcion": "Pionero y Promotor de la Ciencia de la Computación en Arequipa, participó en el Diseño de la COMPUTER SCIENCE CURRICULA FOR PERUVIAN UNIVERSITIES, ha sido fundador y director de la Escuela Profesional de Ciencia de la Computación de la UNSA, Coordinador de la Cátedra en la FCIFF de la UCSM, Se ha capacitado en Semánticas y Aplicaciones en Montevideo Uruguay, Matemáticas Discretas en el Instituto de Sistemas Complejos de Valparaíso Chile, Evaluación para la Acreditación en Programas de Ingeniería de ICACIT Perú, estudio su Maestría en Matemática en la Pontificia Universidad Catolica del Perú, actualmente es Candidato a Doctor en la Universidad Nacional de San Agustín.",
-        "tipo": "Profesor",
-        "foto": "/images/speakers/wilber-ramos.jpg",
-        "curr_info": ["Profesor"]
+      "curr_info": [
+        "Organizador",
+        "Comisión de Organización,  Promoción del Arte"
+      ],
+      "grado": ["Mg."],
+      "nombre": "Wilber Roberto Ramos Lovón",
+      "descripcion": "Pionero y Promotor de la Ciencia de la Computación en Arequipa, participó en el Diseño de la COMPUTER SCIENCE CURRICULA FOR PERUVIAN UNIVERSITIES, ha sido fundador y director de la Escuela Profesional de Ciencia de la Computación de la UNSA, Coordinador de la Cátedra en la FCIFF de la UCSM, Se ha capacitado en Semánticas y Aplicaciones en Montevideo Uruguay, Matemáticas Discretas en el Instituto de Sistemas Complejos de Valparaíso Chile, Evaluación para la Acreditación en Programas de Ingeniería de ICACIT Perú, estudio su Maestría en Matemática en la Pontificia Universidad Catolica del Perú, actualmente es Candidato a Doctor en la Universidad Nacional de San Agustín.",
+      "foto": "/images/speakers21/wilber_ramos.jpg"
     },
     {
-        "nombre": "Edgar Sarmiento Calisaya",
-        "descripcion": "Graduado en Ingeniería de Sistemas (2003, Universidad Nacional de San Agustín - UNSA, Arequipa, Perú); Maestría en Informática (2009, Universidade Federal do Rio de Janeiro - UFRJ, Brasil); Doctorado en Informática (2016, Pontificia Universidade Catolica do Rio de Janeiro,PUC-Rio, Brasil). Experiencia profesional como desarrollador, arquitecto y consultor de software. Experiencia académica como investigador en el área de Ingeniería de Software con énfasis en las siguientes lineas de investigación: Ingeniería de Requisitos, Calidad de Software, Arquitectura de Software, DevOps y Sistemas Conscientes de Contexto - CA-S.",
-        "tipo": "Profesor",
-        "foto": "/images/speakers/edgar-sarmiento.jpg",
-        "curr_info": ["Profesor"]
+      "curr_info": ["Organizador", "Comisión de Organización, Soporte Web"],
+      "grado": ["Dr."],
+      "nombre": "Edgar Sarmiento Calisaya",
+      "descripcion": "Graduado en Ingeniería de Sistemas (2003, Universidad Nacional de San Agustín - UNSA, Arequipa, Perú); Maestría en Informática (2009, Universidade Federal do Rio de Janeiro - UFRJ, Brasil); Doctorado en Informática (2016, Pontificia Universidade Catolica do Rio de Janeiro,PUC-Rio, Brasil). Experiencia profesional como desarrollador, arquitecto y consultor de software. Experiencia académica como investigador en el área de Ingeniería de Software con énfasis en las siguientes lineas de investigación: Ingeniería de Requisitos, Calidad de Software, Arquitectura de Software, DevOps y Sistemas Conscientes de Contexto - CA-S.",
+      "foto": "/images/speakers21/comite/Profesor Edgar.jpeg"
     },
     {
-        "nombre": "Fernando Villanueva Sanchez",
-        "descripcion": "Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa. Sus áreas de interés actualmente son la investigación y desarrollo en deep learning, robótica y bioinfórmatica. Es apasoinado de la divulgación científica.",
-        "grado": "Estudiante",
-        "foto": "/images/speakers21/Fernando CS.png",
-        "curr_info": ["Estudiante"]
+      "curr_info": [
+        "Organizador",
+        "Comisión de Organización,  Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Mg."],
+      "nombre": "Franci Suni Lopez",
+      "descripcion": "Profesor e investigador en la Escuela de Ciencia de la Computación - UNSA. Realizó un Master Join Degree en Ciencia de la Computación en Vrije Universiteit Amsterdam, Holanda y Universidad Católica San Pablo. Egresado y Bachiller de la escuela de Ciencia de la Computación de la Universidad Nacional de San Agustín, Arequipa - Perú (2014). Su investigación principal se centra en computación afectiva, el uso de las emociones humanas para potenciar la capacidad de autoadaptación de los servicios de software. Además, la ingeniería de software para el desarrollo móvil y el software autoadaptable.",
+      "foto": "/images/speakers21/comite/Profesor Franci.jpg"
     },
     {
-        "nombre": "Alexander Rusvell Apaza Torres",
-        "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacional de San Agustín de Arequipa, mis áreas de interes son: Inteligencia Artificial, Geometria Computacional y Web Development. Tengo experiencia en aplicaciones web.",
-        "grado": "Estudiante",
-        "foto": "/images/speakers21/Alexander CS.jpeg",
-        "curr_info": ["Estudiante"]
+      "curr_info": ["Organizador", "Comisión de Organización "],
+      "grado": ["Dr."],
+      "nombre": "Alvaro Henry Mamani Aliaga",
+      "descripcion": "Soy Doctor en Ciencias de la Computación de la Universidad Nacional de San Agustín, Arequipa, Perú. Actualmente soy profesor en el programa de Ciencias de la Computación de la Universidad Nacional de San Agustín y la Universidad Católica de San Pablo. Experiencia en áreas de la informática, principalmente en los siguientes temas: computación paralela y distribuida, programación y estructuras de datos. Además, trabajé como investigador / ingeniero de software en varios proyectos: en la Universidad Federal de São Paulo (UNIFESP) en el Proyecto Maritaca; en la Universidad Nacional de San Agustín en \"Laboratorio de Computación de Alto Rendimiento\" y \"Proyecto Tunki: Teledetección de Humedales mediante Imágenes Satelitales y Computación de Alto Rendimiento\". Mis áreas de interés de investigación en informática son: Computación de alto rendimiento, Computación en paralelo, Computación en la nube / Grid, Sistemas de archivos distribuidos, Big Data, Computación móvil y Ciencia de datos.",
+      "foto": "/images/speakers21/comite/Profesor Alvaro.jpeg"
+    },
+    {
+      "curr_info": [
+        "Organizador",
+        "Comisión de Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Dra."],
+      "nombre": "Ana Maria Cuadros Valdivia",
+      "descripcion": "Graduada en Ingeniería Informática por la Universidad Católica San Pablo (2004) e maestría en Ciencias de la Computación y Matemática Computacional por el Instituto de Ciencias Matemáticas y de Computación (2007). Desde 2008 es docente de la Universidad Católica San Pablo. Tiene experiencia en el área de Computación Gráfica, con énfasis en Visualización de Información, actuando principalmente en los siguientes temas: representaciones visuales de conjuntos de documentos, minería de datos, minería visual de datos, exploración e interacción de grandes volúmes multi-dimensionales.",
+      "foto": "/images/speakers21/comite/Profesora Ana Maria.jpeg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Organización "],
+      "grado": ["Dr."],
+      "nombre": "Cristian Jose Lopez Del Alamo",
+      "descripcion": "Dr. en ciencia de la computación obtenido con Felicitaciones públicas (summa cum laude), por la Universidad Nacional de San Agustín y Magíster en Ingeniería de Software con Máxima distinción(summa cum laude) por la Universidad de Tarapacá de Chile. Actualmente, es Profesor Investigador de la Universidad de Ingeniería y Tecnología (UTEC). Fue Director General de Investigación en la Universidad La Salle de Arequipa y profesor investigador en la misma universidad. También, es profesor de Ciencia de la Computación en la Universidad Nacional de San Agustín. Fue uno de los científicos que desarrolló el algoritmo de rastreo de contactos vía bluetooth para la PCM con el objetivo de generar alertas tempranas y evitar la expansión del coronavirus en Perú . También, ha sido ponente en diversos lugares del Perú, América Latina y Europa. Sus intereses de investigación están centrados en Geometry Deep Learning, Machine Learning y algoritmia",
+      "foto": "/images/speakers21/comite/Profesor Cristian.png"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Organización "],
+      "grado": ["Dr."],
+      "nombre": "Edward Hinojosa Cardenas",
+      "descripcion": "Ingeniero de Sistemas por la Universidad Católica de Santa María, Magíster en Ciencia de la Computación por la Universidad Federal de São Carlos (São Paulo – Brasil) y Doctor en\r\nCiencia de la Computación por la Universidad Nacional de San Agustín de Arequipa. Ha trabajo en diversas empresas de desarrollo de software y ha participado de diversos proyectos de investigación a nivel nacional. Sus áreas de investigación se centran en inteligencia artificial, lógica difusa, aprendizaje de máquina y computación evolutiva. Proyectos de investigación en los cuales ha participado:\r\n1. Aplicación de visión computacional en la generación de un catálogo para la conservación de la biodiversidad de plantas endémicas. Pontificia Universidad Católica del Perú – PUCP.\r\n2. Entornos Virtuales para la toma de Decisiones en caso de Sismos usando Tecnología de Realidad Virtual orientado a estudiantes de secundaria de la Ciudad de Arequipa. Universidad Nacional de San Agustín de Arequipa - UNSA.\r\n3. Mapa Virtual del Potencial Turístico Natural y Arquitectónico con Sistema de Recomendación Fuzzy para la Provincia de Arequipa– Perú. Universidad Nacional de San Agustín de Arequipa - UNSA.",
+      "foto": "/images/speakers21/comite/foto_EHinojosa.jpg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Organización "],
+      "grado": ["Dr."],
+      "nombre": "Juan Carlos Gutierrez Caceres",
+      "descripcion": "Doctor en Ciencias de la Computación por la Cátedra CONCYTEC de la Universidad Nacional de San Agustín (Perú). Master en Ciencias de la Computación y Matemática Computacional, realizado en el Instituto de Ciencias Matemáticas y de Computación (ICMC) de la Universidad de São Paulo (Brasil). Miembro fundador de la Sociedad Peruana de Computación (SPC) Perú. Actualmente es Docente Investigador en la Escuela Profesional de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa Profesor en el Programa Profesional de Ingeniería Informática en la Universidad Católica San Pablo (Arequipa - Perú) Áreas de interés: Deep Learning Redes Complejas Reconocimiento de Patrones, Redes Neuronales, Sistemas dinámicos no lineales, Procesamiento de Imágenes.",
+      "foto": "/images/speakers21/comite/Profesor Juan Carlos.jpeg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Imagen y Difusión"],
+      "grado": ["Dra."],
+      "nombre": "Roxana Flores Quispe",
+      "descripcion": "Dra. en Ciencias de la Computación vengo desempeñándome como Catedrática en pregrado y postgrado desde el año 2005, lo cual me ha permitido tener experiencia en diferentes Universidades del Sur del País. Actualmente soy docente investigador de la UNSA y la UCSP, realizando publicaciones en eventos nacionales e internacionales, en las áreas de inteligencia artificial, aprendizaje de máquinas y procesamiento de imágenes.",
+      "foto": "/images/speakers21/comite/Profesora Roxana.jpeg"
+    },
+    {
+      "curr_info": [
+        "Organizador",
+        "Comisión de Organización,  Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Dr."],
+      "nombre": "Yuber Elmer Velazco Paredes",
+      "descripcion": "Doctor en Ciencias de la Computación, por la Universidad Nacional de San Agustín, Magister en Informática por la Pontificia Universidad Católica del Perú. Docente Investigador de la Universidad Católica San Pablo a partir del 2012.Docente Investigador de la Universidad Nacional de San Agustín a partir del 2019. Desde el 2001 ha ejercido la docencia en diferentes Universidades del país, realizando publicaciones científicas en congresos a nivel nacional e internacional.",
+      "foto": "/images/speakers21/comite/Profesor Yuber.jpeg"
+    },
+    {
+      "curr_info": [
+        "Organizador",
+        "Comisión de Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Mg."],
+      "nombre": "Milton Raul Condori Fernandez",
+      "descripcion": "Trabajo como ingeniero de software dedicado a construir aplicaciones de realidad aumentada.\r\nHago investigación en Inteligencia artificial en el campo de Probabilistic Planning.",
+      "foto": "/images/speakers21/comite/Profesor Milton.jpeg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Imagen y Difusión"],
+      "grado": ["Mg."],
+      "nombre": "Yessenia Deysi Yari Ramos",
+      "descripcion": "Bachiller en Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa, en el año 2008. Realice mis estudios de Maestría en la Universidade Federal do Rio Grande do Sul, Brasil, obteniendo el grado de Master en Ciencia de la Computación, en el año del 2011. Actualmente laboro en la Universidad Católica San Pablo. Mis áreas de interés son procesamiento de imágenes y visión computacional.",
+      "foto": "/images/speakers21/comite/Profesora Yessenia Yari.jpeg"
+    },
+    {
+      "curr_info": [
+        "Organizador",
+        "Comisión de Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Lic."],
+      "nombre": "Franklin Luis Antonio Cruz Gamero",
+      "descripcion": "Licenciado en Ciencia de la Computación, Biólogo. Docente Jefe de Prácticas de la Escuela Profesional de Ciencia de la Computación y de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Nacional de San Agustín, con experiencia laboral en procesos electorales, educación secundaria y superior, análisis y manipulación de materiales y equipos de laboratorio, proyectos de investigación. Con conocimiento en lenguajes de programación como PHP, javascript, C++, C# , java, ruby; bases de datos SQl y No SQL. Conocimientos de inglés y portugués. Proactivo con capacidad para trabajar en equipo y bajo presión. Áreas de interés: Bioinformática Computación Paralela y Distribuida, Procesamiento de Imágenes, Deep learning",
+      "foto": "/images/speakers21/comite/Profesor Franklin.jpeg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Organización"],
+      "grado": ["Bach."],
+      "nombre": "Hayde Luzmila Humpire Cutipa",
+      "descripcion": "Bachiller en Ciencia de la Computación por la Universidad Nacional San Agustín. Miembro Proyecto Kusisqa Concytec. Tiene experiencia laboral en el rubro de Sistemas de Información y Diseño. Áreas de interés: Deep Learning, Human Computer Interaction, UX/UI Design. ",
+      "foto": "/images/speakers21/comite/Hayde Luzmila Humpire Cutipa.jpg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Organización"],
+      "grado": ["Bach."],
+      "nombre": "Katerine Melida Cruz Valdivia",
+      "descripcion": "Bachiller en Ciencia de la Computación por la Universidad Nacional San Agustín. Miembro Proyecto Kusisqa Concytec. Tiene experiencia en el rubro tecnológico. Áreas de interés: Video Games,Human Computer Interaction, UX/UI Design. ",
+      "foto": "/images/speakers21/comite/Katerine Melida Cruz Valdivia.jpeg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Organización"],
+      "grado": ["Bach."],
+      "nombre": "Aaron Arturo Tapia Rios",
+      "descripcion": "Bachiller en Ciencia de la Computación por la Universidad Nacional San Agustín. Miembro Proyecto Kusisqa Concytec. Tiene experiencia en matemática, algoritmos, estructuras de datos y uso de tecnologías. Áreas de interés: Inteligencia Artificial, Computación gráfica, Computación de alto desempeño.",
+      "foto": "/images/speakers21/comite/Aaron Arturo Tapia Rios.jpeg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Soporte Web"],
+      "grado": ["Est."],
+      "nombre": "Alexander Rusvell Apaza Torres",
+      "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacinal de San Agustin de Arequipa, mis areas de interes son: Inteligencia Artificial, Geometria Computacional y Web Development. Tengo experiencia en aplicaciones web.",
+      "foto": "/images/speakers21/comite/Alexander CS.jpeg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Organización"],
+      "grado": ["Est."],
+      "nombre": "Fernando Thomas Villanueva Sanchez",
+      "descripcion": "Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa. Sus áreas de interés actualmente son la investigación y desarrollo en deep learning, robótica y bioinformática. Es apasionado de la divulgación científica.",
+      "foto": "/images/speakers21/comite/Fernando CS.png"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Imagen y Difusión"],
+      "grado": ["Est."],
+      "nombre": "Gonzalo Alejandro Caira Aguilar",
+      "descripcion": "Estudiante en Ciencia de la Computacion en la Universidad Nacional de San Agustin de Arequipa, organizador en GDG Arequipa y apasionado en el area de Machine Learning y la investigacion. Encantado de programar en Flutter y disfrutar de la buena musica.",
+      "foto": "/images/speakers21/comite/Gonzalo CS.jpg"
+    },
+    {
+      "curr_info": [
+        "Organizador",
+        "Comisión de Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Est."],
+      "nombre": "Jaime Jose Gutierrez Zevallos",
+      "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacional de San Agustin de Arequipa, tengo 18 años y me gusta programar, los videojuegos y los viajes. Mis areas de interes serian el desarrollo web y de videojuegos.",
+      "foto": "/images/speakers21/comite/Jaime CS.jpeg"
+    },
+    {
+      "curr_info": [
+        "Organizador",
+        "Comisión de Organización, Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Est."],
+      "nombre": "Jenny Huanca Anquise",
+      "descripcion": "Licenciada en Psicología y estudiante del segundo año de la carrera de Ciencia de la Computación de la Universidad Nacional San Agustín. Interesada en experiencia de usuario (UX), análisis de sentimientos y el campo de la computación afectiva en el diseño de software. Curiosa de la cultura asiática con nivel básico en chino y japonés escrito. Le gustaria viajar a Singapur. Lectora de web novels chinas de fantasía y ciencia ficción como hobbie actual.",
+      "foto": "/images/speakers21/comite/Jenny CS1.jpg"
+    },
+    {
+      "curr_info": [
+        "Organizador",
+        "Comisión de Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Est."],
+      "nombre": "Luz Marina Pilco Pancca",
+      "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacional de San Agustin de Arequipa, mis áreas de interés es Ciberseguridad, Big Data y Computacion Distribuida.",
+      "foto": "/images/speakers21/comite/Luz CS.jpg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Imagen y Difusión"],
+      "grado": ["Est."],
+      "nombre": "Milagros Celia Cruz Mamani",
+      "descripcion": "Estudiante de décimo semestre de la carrera  profesional de Ciencia de la Computacion de la Universidad Nacional de San Agustin de Arequipa,  actualmente estoy participando del voluntariado de reforzamiento escolar en la UGEL Caylloma.",
+      "foto": "/images/speakers21/comite/Milagros Celia CS.jpg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Organización"],
+      "grado": ["Est."],
+      "nombre": "Milagros Chuctaya Elme",
+      "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacional de San Agustin de Arequipa, me gusta diseñar aplicaciones moviles y me interesa las investigaciones sobre la aplicacion de tecnologias en las artesanias culturales. Mis areas de interes son: Computacion Grafica y Vision Computacional.",
+      "foto": "/images/speakers21/comite/Milagros CS.jpg"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Imagen y Difusión"],
+      "grado": ["Est."],
+      "nombre": "Piero Emiliano Vizcarra Vargas",
+      "descripcion": "Técnico de sistemas computacionales y estudiante de UNSA' Computer Science, mi intereses principales son la computación aplicada a finanzas y Ciencia de datos para sector Salud, me encanta siempre aventurarme a nuevos retos y poder compartir el pensamiento computacional a otros sectores fomentando su digitalización y automatización de procesos para cumplir objetivos de la Agenda 2030 de ONU",
+      "foto": "/images/speakers21/comite/Piero CS.jpeg"
+    },
+    {
+      "curr_info": ["Colaborador", "Comisión de Imagen y Difusion"],
+      "grado": ["Bach."],
+      "nombre": "Franklin Canaza Ccori",
+      "descripcion": "Egresado de la carrera profesional de Ciencia de la Computación en el año 2020 y actualmente estoy realizando prácticas en la Dirección Universitaria de Tecnologías de Información y Comunicación de la UNSA como desarrollador web y parte del equipo de soporte.",
+      "foto": "/images/speakers21/comite/Franklin CS.jpg"
+    },
+    {
+      "curr_info": ["Colaborador", "Soporte Web"],
+      "grado": ["Est."],
+      "nombre": "Eduardo Basurco Cayllahua",
+      "descripcion": "Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín (Arequipa, Perú). Se encuentra Interesado en las áreas de Bio-inspired Algorithms, Neurocomputing, Blockchain y Web Development. ",
+      "foto": "/images/speakers21/comite/Eduardo Basurco.png"
+    },
+    {
+      "curr_info": ["Colaborador", "Comisión de Imagen y Difusion"],
+      "grado": ["Est."],
+      "nombre": "Elizabeth Yasmin Huanca Parqui",
+      "descripcion": "Estudiante de tercer año de Ciencia de la Computacion de la Universidad Nacional de San Agustin. Me interesa la computacion grafica. Lo que mas reslata de mi es la lealtad, responsabilidad y una chispita de alegria.",
+      "foto": "/images/speakers21/comite/Elizabeth CS.jpeg"
+    },
+    {
+      "curr_info": ["Colaborador", "Soporte Web"],
+      "grado": ["Est."],
+      "nombre": "Israel Santiago Pancca",
+      "descripcion": "Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa. Mis áreas de interés son  inteligencia artificial, bioinformática y visión computacional. Actualmente estoy participando en proyectos de investigación de la UCSM y UNSA en el desarrollo de aplicaciones de realidad virtual y aumentada.",
+      "foto": "/images/speakers21/comite/Israel Pancca.jpg"
+    },
+    {
+      "curr_info": [
+        "Colaborador",
+        "Comisión de Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Est."],
+      "nombre": "Jean Carlos Soncco Lupa",
+      "descripcion": "Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa.  Mis áreas de interés son Ciencia de Datos (procesamiento y análisis visual de datos e información), aprendizaje automático y Bioinformática. ",
+      "foto": "/images/speakers21/B/CArlosSoncco.jpeg"
+    },
+    {
+      "curr_info": ["Colaborador", "Comisión de Imagen y Difusion"],
+      "grado": ["Est."],
+      "nombre": "Johann Franz Huaypuna Huanca",
+      "descripcion": "Estudiante de Ciencia de la Computacion de la universidad Nacional de San Agustin de Arequipa, mis areas de interes son el Machine Learning,  Desarrollo de Videojuegos, programacion web Frontend y Computacion Grafica. Me gustan los gatos, salir a jugar futbol y viajar.",
+      "foto": "/images/speakers21/comite/Franz CS.jpeg"
+    },
+    {
+      "curr_info": ["Colaborador", "Comisión de Revista EPCC"],
+      "grado": ["Est."],
+      "nombre": "Cesar Gabriel Huisa Flores",
+      "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacional de San Agustin, mis areas de interes es la Inteligencia Artificial y la Seguridad Informatica.",
+      "foto": "/images/speakers21/comite/Cesar CS.jpeg"
+    },
+    {
+      "curr_info": [
+        "Colaborador",
+        "Comisión de Promoción del Arte, Cultura y Ciencia"
+      ],
+      "grado": ["Est."],
+      "nombre": "Linghai Joaquin Zhong Callasi",
+      "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacional de San Agustin. Me gustan los videojuegos, realizar predicciones matemáticas, dialogar, estudiar las construcciones de personalidad, las máquinas y la biotecnología.",
+      "foto": "/images/speakers21/comite/Linghai Joaquin CS.jpeg"
     }
-]
+  ]
+  
