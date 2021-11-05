@@ -16,15 +16,15 @@
         "curr_info": ["Profesor"]
     },
     {
-        "nombre": "Fernando Thomas Villanueva Sanchez",
-        "descripcion": "Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa. Sus areas de interes actualmente son la investigacion y desarrollo en deep learning, robotica y bioinformatica. Es apasoinado de la divulgaicon cientifica.",
+        "nombre": "Fernando Villanueva Sanchez",
+        "descripcion": "Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa. Sus áreas de interés actualmente son la investigación y desarrollo en deep learning, robótica y bioinfórmatica. Es apasoinado de la divulgación científica.",
         "grado": "Estudiante",
         "foto": "/images/speakers21/Fernando CS.png",
         "curr_info": ["Estudiante"]
     },
     {
         "nombre": "Alexander Rusvell Apaza Torres",
-        "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacinal de San Agustin de Arequipa, mis areas de interes son: Inteligencia Artificial, Geometria Computacional y Web Development. Tengo experiencia en aplicaciones web.",
+        "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacional de San Agustín de Arequipa, mis áreas de interes son: Inteligencia Artificial, Geometria Computacional y Web Development. Tengo experiencia en aplicaciones web.",
         "grado": "Estudiante",
         "foto": "/images/speakers21/Alexander CS.jpeg",
         "curr_info": ["Estudiante"]
