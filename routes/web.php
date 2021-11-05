@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Auth;
 
 Route::get('/', 'MainController@index');
 Route::get('/semcomp2020', 'MainController@semcomp2020');
+Route::get('/comite21', 'MainController@comite21');
 
 Route::get('/dashboard','dashboardController@index');
 

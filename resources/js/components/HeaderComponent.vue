@@ -53,6 +53,7 @@
                                     <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#about-section': '/'}`">Sobre</a></li>
                                     <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#speakers-section': '/'}`">Ponentes</a></li>
                                     <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#schedule-section': '/'}`">Programa</a></li>
+                                    <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#committee-section': '/'}`">Organización</a></li>
                                     <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '#sponsors-section': '/'}`">Sponsors</a></li>
                                     <li class="nav-item"><a class="nav-link scrollto" href="javascript:void(0)" v-on:click="showCustomModal()">Certificado</a></li>
                                     <!-- <li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Participación</a></li> -->
