@@ -17,7 +17,7 @@
         <ul class="list-unstyled text-left d-inline-block">
         <li><i class="fas fa-check-circle mr-2"></i> Concurso de programación competitiva <a href="https://drive.google.com/file/d/1eIZL1Q53tVc19js8aQGENIJxyvpTNHFq/view?usp=sharing" target="_blank">(bases)</a> </li>
         <li><i class="fas fa-check-circle mr-2"></i> Concurso de posters científicos <a href="https://bit.ly/3k6y6T4" target="_blank">(bases)</a></li>
-        <li><i class="fas fa-check-circle mr-2"></i> Concurso de logo de la EPCC-UNSA <a href="https://drive.google.com/file/d/1_N8ahpLjdIBWjGkr9qON__-84MHro2Xw/view?usp=sharing" target="_blank">(bases)</a></li>        </ul>
+        <li><i class="fas fa-check-circle mr-2"></i> Concurso de logo de la EPCC-UNSA <a href="http://bit.ly/2ZU5rcD" target="_blank">(bases)</a></li>        </ul>
       </div>
       <!--//benefits-list-->
 
