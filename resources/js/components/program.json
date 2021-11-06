@@ -1,621 +1,619 @@
 {
     "Lunes": {
-        "eventos": [
-            {
-                "Intervalo": "09:00 - 09:45",
-                "Tipo": "Ponencia",
-                "Titulo": "Inauguración A Cargo Del Director Wilber Ramos Lovón",
-                "Abstract": null,
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/wilber_ramos.jpg",
-                    "nombre": "Wilber Roberto Ramos Lovón",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "09:45 - 10:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Un día como Product Designer",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": null,
-                    "nombre": "Carlos Arbieto",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "10:30 - 11:15",
-                "Tipo": "Ponencia",
-                "Titulo": "Cross-modality personalization for retrieval",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/Nils_Murrugarra.jpg",
-                    "nombre": "Nils Murrugarra Llerena"
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "11:15 - 12:00",
-                "Tipo": "Ponencia",
-                "Titulo": "A Robust Feature-aware sparse mesh representation",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/lizethFuentes.jpg",
-                    "nombre": "Lizeth Fuentes Perez",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "12:00 - 13:00",
-                "Tipo": "break",
-                "Titulo": "Break de Almuerzo",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            },
-            {
-                "Intervalo": "13:00 - 13:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Reconocimiento de emociones en audio",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Luis Antonio Bernal Chahuayo ",
-                    "imgURL": "/images/speakers21/B/Luis Bernal.jpeg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "13:30 - 14:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Detección de estrés en tiempo real a partir de señales de voz y datos fisiológicos",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Yonel Yvan Mamani Mamani",
-                    "imgURL": "/images/speakers21/B/Yonel Mamani.jpeg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "14:00 - 14:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Un sistema de recomendación dinamico utilizando sistemas de recomendación",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/B/Luis Chirinos.jpeg",
-                    "nombre": "Luis Chirinos",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "14:30 - 15:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Experiencia sobre publicación de un paper y trabajo en una empresa de EE. UU.",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Lorena Xiomara Castillo Galdos - Grimaldo Jose Davila Guillen",
-                    "imgURL": "/images/speakers21/B/Grimaldo y Lorena.jpeg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "15:00 - 15:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Un corpus oral en idioma español con acento peruano para el reconocimiento de emociones",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Alessandra Daniela Delgado Mattos",
-                    "imgURL": "/images/speakers21/B/Alessandra Daniela Delgado Mattos.jpeg",
-
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "15:30 - 16:00",
-                "Tipo": "Ponencia",
-                "Titulo": "EmoViz: Una herramienta para la visualización de datasets de emociones",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Alexis Aldo Mendoza Villarroel",
-                    "imgURL": "/images/speakers21/B/Alexis Aldo Mendoza Villarroel.jpeg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "16:00 - 16:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Empresa: Puma Development",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Elías Josué Puma Chávez",
-                    "imgURL": "/images/speakers21/B/Elias Puma.jpeg",
-
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "16:30 - 17:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Empresa: Paulonia",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Juan Jose León Camilo",
-                    "imgURL": "/images/speakers21/B/Juan Jose.jpg",
-
-                    "slug": ""
-                },
-                "Presentación": []
-            }
-        ],
-        "Fecha": "Lunes 8 de nov"
+      "eventos": [
+        {
+          "Intervalo": "09:00 - 09:45",
+          "Tipo": "Ponencia",
+          "Titulo": "Inauguración A Cargo Del Director Wilber Ramos Lovón",
+          "Abstract": null,
+          "links": [],
+          "Ponente": {
+            "nombre": "Wilber Roberto Ramos Lovón",
+            "slug": "",
+            "foto": "/images/speakers21/wilber_ramos.jpg",
+            "descripcion": "Pionero y Promotor de la Ciencia de la Computación en Arequipa, participó en el Diseño de la COMPUTER SCIENCE CURRICULA FOR PERUVIAN UNIVERSITIES, ha sido fundador y director de la Escuela Profesional de Ciencia de la Computación de la UNSA, Coordinador de la Cátedra en la FCIFF de la UCSM, Se ha capacitado en Semánticas y Aplicaciones en Montevideo Uruguay, Matemáticas Discretas en el Instituto de Sistemas Complejos de Valparaíso Chile, Evaluación para la Acreditación en Programas de Ingeniería de ICACIT Perú, estudio su Maestría en Matemática en la Pontificia Universidad Catolica del Perú, actualmente es Candidato a Doctor en la Universidad Nacional de San Agustín.",
+            "curr_info": [
+              "Organizador",
+              "Comisión de Organización,  Promoción del Arte"
+            ]
+          }
+        },
+        {
+          "Intervalo": "09:45 - 10:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Un día como Product Designer",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Carlos Arbieto",
+            "slug": "",
+            "foto": "/images/speakers21/Carlos Arbieto.jpg",
+            "descripcion": "Formado en Ingeniería de Sistemas y con una Maestría en Ciencias Informáticas, fue seleccionado para una pasantía en el área de Interacción Humano-Computador en la Universidad de Sao Paulo en Brasil, con más de 5 años de experiencia como Designer, Analista y Desarrollador, también ha participado como investigador en múltiples proyectos de investigación de las Universidades de la región, actualmente se desempeña como Product Designer en Ravn, creando soluciones para diversos clientes alrededor del mundo",
+            "curr_info": ["Ravn", "UX/UI Engineer"]
+          }
+        },
+        {
+          "Intervalo": "10:30 - 11:15",
+          "Tipo": "Ponencia",
+          "Titulo": "Cross-modality personalization for retrieval",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Nils Murrugarra Llerena",
+            "foto": "/images/speakers21/Nils_Murrugarra.jpg",
+            "descripcion": "Research scientist at Snap Inc. with expertise in computer vision, machine learning and NLP. His research is focused on multi-modal learning, deep learning, metric learning and reinforcement learning. and they has been published in conferences such as CVPR, AAAI, BMVC, WACV and workshops in NeurIPS and ICML. Also, he worked in ABB and ETS. His PhD was earned in Computer Science from the University of Pittsburgh. He served as general chair at the LatinXinAI research workshop @ ICML 2020. Also, he organized national conferences in Peru and served as reviewer in CVPR, TPAMI, BMVC, and NeurIPS.",
+            "curr_info": ["Snap Inc.", "Research scientist"]
+          }
+        },
+        {
+          "Intervalo": "11:15 - 12:00",
+          "Tipo": "Ponencia",
+          "Titulo": "A Robust Feature-aware sparse mesh representation",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Lizeth Fuentes Perez",
+            "slug": "",
+            "foto": "/images/speakers21/lizethFuentes.jpg",
+            "descripcion": "Investigadora en fase inicial en la red innovativa de entrenamiento de Marie Curie EVOCATION-ITN. Becada en la conferencia de mujeres en computación Grace Hopper Celebration 2020. Estudiante de doctorado en Ciencia de la Computación en la Universidad de Zúrich. MSc. en Ciencia de la Computación por la Universidad Federal Fluminense. Egresada de la primera promoción de la escuela de Ciencia de la Computación de la Universidad Nacional de San Agustín. Sus áreas de investigación son: Machine learning, geometry processing y geometric deep learning.",
+            "curr_info": ["University of Zurich - Suiza", "Ph. D Student"]
+          }
+        },
+        {
+          "Intervalo": "12:00 - 13:00",
+          "Tipo": "break",
+          "Titulo": "Break de Almuerzo",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "13:00 - 13:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Reconocimiento de emociones en audio",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Luis Antonio Bernal Chahuayo ",
+            "slug": "",
+            "foto": "/images/speakers21/B/Luis Bernal.jpeg",
+            "descripcion": "Estudiante de Maestría en Ciencia de la Computación en la Universidad Estadual de Campinas UNICAMP, Brasil.\r\nBachiller en Ciencia de la Computación UNSA, Perú. Participación como tesista de pregrado en el proyecto Kusisqa.",
+            "curr_info": ["Egresados"]
+          }
+        },
+        {
+          "Intervalo": "13:30 - 14:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Detección de estrés en tiempo real a partir de señales de voz y datos fisiológicos",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Yonel Yvan Mamani Mamani",
+            "slug": "",
+            "foto": "/images/speakers21/B/Yonel Mamani.jpeg",
+            "descripcion": "Bachiller en Ciencia de la Computación por la Universidad Nacional San Agustín. Miembro Proyecto Kusisqa Concytec. Con experiencia en desarrollador de aplicaciones móviles para empresas. Áreas de interés: desarrollo móvil, Inteligencia artificial, interacción humano-computador.",
+            "curr_info": ["Egresados"]
+          }
+        },
+        {
+          "Intervalo": "14:00 - 14:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Un sistema de recomendación dinamico utilizando sistemas de recomendación",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Luis Chirinos",
+            "slug": "",
+            "foto": "/images/speakers21/B/Luis Chirinos.jpeg",
+            "descripcion": "Es egresado de la Unsa en ciencia de la computación, se interesó por la computación  y la tecnología en general por algunas noticias, peliculas, hizo alguna prácticas sobre seguridad informática específicamente la configuración de Honeypots utilizando herramientas como kibana, ElasticSearch para la exploración de datos en Security Onion, Tambien esta participando en el proyecto Kusisqa como desarrollador backend para el prototipo de la aplicación de Kusisqa.",
+            "curr_info": ["Egresados"]
+          }
+        },
+        {
+          "Intervalo": "14:30 - 15:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Experiencia sobre publicación de un paper y trabajo en una empresa de EE. UU.",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Lorena Xiomara Castillo Galdos - Grimaldo Jose Davila Guillen",
+            "slug": "",
+            "foto": "/images/speakers21/B/Grimaldo y Lorena.jpeg",
+            "descripcion": "Bachiller de Ciencia de la Computación, Software Engineer en Ravn y contractor/team lead para el equipo de Ravn en LifeOmic. / Bachiller en Ciencia de la Computacion, Software Engineer en Ravn y contractor para GuideCX.",
+            "curr_info": ["Egresados"]
+          }
+        },
+        {
+          "Intervalo": "15:00 - 15:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Un corpus oral en idioma español con acento peruano para el reconocimiento de emociones",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Alessandra Daniela Delgado Mattos",
+            "slug": "",
+            "foto": "/images/speakers21/B/Alessandra Daniela Delgado Mattos.jpeg",
+            "descripcion": "Realice mis estudios de Ciencia de la Computación en la Universidad Católica San Pablo. Actualmente me encuentro finalizando mis estudios de Maestría en Ciencias Informática con mención en Tecnologías de la Información y Comunicación en Gestión y Educación en la Universidad Nacional de San Agustín, además cuento con 06 años de experiencia de trabajo como asistente funcional de plataformas de sistemas de información en la Universidad Católica San Pablo donde me he especializado en la resolución de inconvenientes de los ERPs (Sistemas de Planificación de Recursos Empresariales) así como gestión de proyectos con las áreas de Contabilidad y Finanzas. Llevo dos años en el Proyecto Kusisqa, en el que su principal objetivo es analizar, diseñar, construir y evaluar un sistema de software que ayude a regular adecuadamente las emociones tanto en maestros como en estudiantes, mi aporte en este gran proyecto es generar un corpus oral en idioma español con acento peruano para el reconocimiento de emociones.",
+            "curr_info": ["Egresados"]
+          }
+        },
+        {
+          "Intervalo": "15:30 - 16:00",
+          "Tipo": "Ponencia",
+          "Titulo": "EmoViz: Una herramienta para la visualización de datasets de emociones",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Alexis Aldo Mendoza Villarroel",
+            "slug": "",
+            "foto": "/images/speakers21/B/Alexis Aldo Mendoza Villarroel.jpeg",
+            "descripcion": "Egresado de la carrera de Ciencia de la Computación. Fui parte del proyecto de investigación Kusisqa, donde desarrolle mi tesis para obtener mi título. Actualmente soy parte del proyecto de investigación  Análisis Visual Interactivo en datos espacio-temporales para el monitoreo de la calidad del aire en las zonas urbanas de la ciudad de Arequipa  como investigador junior. Soy co-fundador de la empresa de desarrollo de software Paulonia donde trabajo actualmente.",
+            "curr_info": ["Egresados"]
+          }
+        },
+        {
+          "Intervalo": "16:00 - 16:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Empresa: Puma Development",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Elías Josué Puma Chávez",
+            "slug": "",
+            "foto": "/images/speakers21/B/Elias Puma.jpeg",
+            "descripcion": "Egresado de Ciencias de la Computación de la Universidad Nacional de San Agustin. Apasionado desarrollador full-stack de aplicaciones React de alta calidad con back-end de Ruby on Rails. Sus habilidades comunicativas le han permitido ganarse la confianza de sus clientes para cumplir con los plazos y resolver problemas. Fue el líder en Perú del desarrollo del proyecto Beynd para una ex empresa estadounidense para la que trabajaba.",
+            "curr_info": ["Egresados"]
+          }
+        },
+        {
+          "Intervalo": "16:30 - 17:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Empresa: Paulonia",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Juan Jose León Camilo",
+            "slug": "",
+            "foto": "/images/speakers21/B/Juan Jose.jpg",
+            "descripcion": "Egresado de Ciencias de la Computación de la Universidad Nacional de San Agustin. Desarrollador de aplicaciones móviles y director de proyectos en Paulonia.",
+            "curr_info": ["Egresados"]
+          }
+        }
+      ],
+      "Fecha": "Lunes 8 de nov"
     },
     "Martes": {
-        "eventos": [
-            {
-                "Intervalo": "09:00 - 09:45",
-                "Tipo": "Ponencia",
-                "Titulo": "Aplicaciones de la computación visual en la industria",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/Jan_Hurtado.jpg",
-                    "nombre": "Jan Hurtado Jauregui",
-                    "slug": ""
-                },
-                "Presentación": []
-                
-            },
-            {
-                "Intervalo": "09:45 - 10:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Introducción al mundo XOps",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/Alfonso_Poccho.jpg",
-                    "nombre": "V. Alfonso Phocco Diaz",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "10:30 - 11:15",
-                "Tipo": "Ponencia",
-                "Titulo": "Visualization in particle-based fluids",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/Filomen_Incahunaco.jpg",
-                    "nombre": "J. Filomen Incahuanaco Quispe",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "11:15 - 12:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Data Science in Crime Data Analysis",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/Jorge_Poco.jpg",
-                    "nombre": "Jorge Poco Medina",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "12:00 - 13:00",
-                "Tipo": "break",
-                "Titulo": "Break de Almuerzo",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            },
-            {
-                "Intervalo": "13:00 - 13:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Servicios basados en localización utilizando blockchain para centros hospitalarios en Perú.",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Carlos Atencio Torres",
-                    "imgURL": "/images/speakers21/B/Carlos Atencio Torres.jpg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "13:30 - 14:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Reconocimiento  de acciones  cotidianas en un aula virtual ",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Kelly Vizconde La Motta",
-                    "imgURL": "/images/speakers21/B/Kelly Vizconde La Motta.jpg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "14:00 - 14:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Image Encryption using an Image Pattern based on Advanced Encryption Standard",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Alejandro Antonio Villa Herrera",
-                    "imgURL": "/images/speakers21/B/Alejandro Antonio Villa Herrera.jpeg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "14:30 - 15:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Comparative Analysis of the main Graph Coloring Algorithms",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Juan Carlos Postigo Cabana",
-                    "imgURL": "/images/speakers21/B/Juan Carlos Postigo Cabana.jpeg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "15:00 - 15:30",
-                "Tipo": "Ponencia",
-                "Titulo": "ArgosMol - A Web tool for visualization and prediction of protein structures",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Jean Carlos Soncco Lupa - Ericka Sejje Condori ",
-                    "imgURL": "/images/speakers21/B/CArlosSoncco.jpeg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "15:30 - 16:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Gun detection in Real-Time, using YOLOv5 on Jetson AGX Xavier",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Oscar Rosas Arotaype, Cristopher Dextre",
-                    "imgURL": "/images/speakers21/B/oscarRosas.jpg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "16:00 - 16:20",
-                "Tipo": "break",
-                "Titulo": "Recorrido virtual de la EPCC (Video)",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            },
-            {
-                "Intervalo": "16:20 - 17:00",
-                "Tipo": "break",
-                "Titulo": "Encuentro de la Familia de la EPCC",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            }
-        ],
-        "Fecha": "Martes 9 de nov"
+      "eventos": [
+        {
+          "Intervalo": "09:00 - 09:45",
+          "Tipo": "Ponencia",
+          "Titulo": "Aplicaciones de la computación visual en la industria",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Jan Hurtado Jauregui",
+            "slug": "",
+            "foto": "/images/speakers21/Jan_Hurtado.jpg",
+            "descripcion": "Estudiante de doctorado en Ciencia de la Computación de la Pontificia Universidad Católica de Río de Janeiro desde 2018, donde realizó su maestría en el mismo curso. Investigador y desarrollador de software en el Instituto Tecgraf (PUC-Rio). Bachiller de la segunda promoción de la Escuela Profesional de Ciencia de la Computación de la Universidad Nacional de San Agustín. En 2015 fue invitado a participar en el grupo de Visión Computacional de la Universidad de Tel Aviv. Sus áreas de interés se centran en: Geometry processing and analysis, image processing and analysis, computer graphics y deep learning. En el instituto Tecgraf participó en varios proyectos de investigación y desarrolló para empresas como General Electric, Petrobras y SIDIA/Samsung.",
+            "curr_info": [
+              "Instituto Tecgraf PUC Rio, Brazil",
+              "Investigador y desarrollador"
+            ]
+          }
+        },
+        {
+          "Intervalo": "09:45 - 10:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Introducción al mundo XOps",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "V. Alfonso Phocco Diaz",
+            "slug": "",
+            "foto": "/images/speakers21/Alfonso_Poccho.jpg",
+            "descripcion": "Magister en Ciencia de la Computación en el Instituto de Matemática y Estadística de la Universidad de São Paulo. Graduado de Ingeniería de Sistemas en la EPIS-UNSA. Tiene diversas experiencias en desarrollo, ingeniería y arquitectura de software abarcando proyectos académicos, sociales, investigativos, emprendimiento e industria en los mercados peruanos, brasileños e internacionales. En los últimos años se destaca como especialista en Big Data. Actualmente es Arquitecto de Datos e IA, coordinando y desarrollando iniciativas de MLOps, ingeniería y ciencia de datos aplicados al área de salud y medicina 4.0 en el Hospital de Excelencia Albert Einstein en São Paulo, Brasil.",
+            "curr_info": [
+              "Hospital de excelencia Albert Einstein",
+              "Arquitecto de datos e IA"
+            ]
+          }
+        },
+        {
+          "Intervalo": "10:30 - 11:15",
+          "Tipo": "Ponencia",
+          "Titulo": "Visualization in particle-based fluids",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "J. Filomen Incahuanaco Quispe",
+            "slug": "",
+            "foto": "/images/speakers21/Filomen_Incahunaco.jpg",
+            "descripcion": "Candidato a doctor por el Instituto de Matemática y Estadística de la Universidad de São Paulo en el grupo de procesamiento visual y geométrico (GPVG). Master en Ciencias de la Computación obtenido por ICMC-USP(2017), Bach. en Ingeniería de Sistemas obtenido por la Universidad Nacional de San Agustín de Arequipa (2008). Asistente de investigación en la PUCP (2014-2015) como parte del grupo de Inteligencia Artificial PUCP - IAPUCP. Sus áreas de interés son: Visualización de fluidos, análisis de imágenes digitales, incluido micrografías digitales, y análisis de algoritmos.",
+            "curr_info": ["ICMC-USP", "Ph. D. Candidate "]
+          }
+        },
+        {
+          "Intervalo": "11:15 - 12:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Data Science in Crime Data Analysis",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Jorge Poco Medina",
+            "slug": "",
+            "foto": "/images/speakers21/Jorge_Poco.jpg",
+            "descripcion": "Associate Professor at FGV EMAp School of Applied Mathematics, Fundação Getúlio Vargas - FGV, Rio de Janeiro, Brazil. Previously he was an assistant professor at the San Pablo Catholic University and a research associate at the University of Washington. He obtained his Ph.D. in Computer Science from New York University, an M.S. in Computer Science from the University of São Paulo, and a B.E. in System Engineering from the National University of San Agustín. As part of his professional life, he worked in zAgile, Google, Kitware, Oak Ridge National Laboratory and Xerox Research. His research has focused on data visualization, data science, and machine learning. He has participated in projects on information visualization, scientific visualization, and visual analytics. His works include interdisciplinary collaborations that focused on the development of novel visualization methods to enable climate, urban and crime data analysis. He also has an interest in techniques for automatic chart interpretation.",
+            "curr_info": ["FGV EMap, Brazil", "Associate professor"]
+          }
+        },
+        {
+          "Intervalo": "12:00 - 13:00",
+          "Tipo": "break",
+          "Titulo": "Break de Almuerzo",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "13:00 - 13:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Servicios basados en localización utilizando blockchain para centros hospitalarios en Perú.",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Carlos Atencio Torres",
+            "slug": "",
+            "foto": "/images/speakers21/B/Carlos Atencio Torres.jpg",
+            "descripcion": "- Bachiller e Ingeniero de Sistemas de la Unsa, Arequipa - Peru.\r\n- Maestría en Ciencia de la Computación, Universidad de Sao Paulo, Sao Paulo, Brasil.\r\n- Estudiante de Doctorado en Ciencia de la Computación, UNSA, Arequipa, Peru.\r\n- 2 años de experiencia en desarrollo web, java en empresas de desarrollo en Sao Paulo - Brasil.\r\n- 1 año de experiencia en desarrollo e investigación en productos innovadores del Grupo de Redes de Computadora, Ingeniería de Software y Sistemas GREat, Fortaleza - Brasil.\r\n- 4 años de experiencia docente en la Universidad Nacional de San Agustín y Universidad Católica San Pablo, Arequipa, Perú.\r\n- Participó en concursos de Robótica y Programación Competitiva como concursante y como coach.\r\n- Áreas de especialización: Procesamiento de Lenguaje Natural y Representación de Conocimiento.\r\n",
+            "curr_info": ["Doctorado"]
+          }
+        },
+        {
+          "Intervalo": "13:30 - 14:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Reconocimiento  de acciones  cotidianas en un aula virtual ",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Kelly Vizconde La Motta",
+            "slug": "",
+            "foto": "/images/speakers21/B/Kelly Vizconde La Motta.jpg",
+            "descripcion": "- Bachiller en  Ingeniería de Sistemas , Universidad  Católica  de Santa María.\r\n- Maestría  en Ciencia de la Computación , Universidad  Católica  San Pablo.\r\n- Estudiante de Doctorado en Ciencia de la Computación, UNSA, Arequipa, Peru.\r\n- Directora de Kids & Code\r\n- 12 años de experiencia  en Docencia en instituciones  como: Instituto Unitek,  Universidad  Ciencias  de la Salud , Universidad  Católica  San Pablo.\r\n- 2 años de experiencia  como Analista  Programador  Operador  en Apoyo total.\r\nÁrea de especialización: Procesamiento  de Imágenes\r\n",
+            "curr_info": ["Doctorado"]
+          }
+        },
+        {
+          "Intervalo": "14:00 - 14:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Image Encryption using an Image Pattern based on Advanced Encryption Standard",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Alejandro Antonio Villa Herrera",
+            "slug": "",
+            "foto": "/images/speakers21/B/Alejandro Antonio Villa Herrera.jpeg",
+            "descripcion": "Egresado de la carrera de mecánica automotriz en la cual descubrí mi gusto por la programación y los sistemas automatizados, dichos estudios los llevé en el instituto de educación superior Tecsup. Estudiante de segundo año de la carrera profesional Ciencias de la Computación en la Universidad Nacional de San Agustín de Arequipa, recientemente descubrí gusto por la programación competitiva y la investigación científica; en el futuro me gustaría especializarme en el extranjero y desarrollarme como profesional en mi área.",
+            "curr_info": ["Pre-Grado"]
+          }
+        },
+        {
+          "Intervalo": "14:30 - 15:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Comparative Analysis of the main Graph Coloring Algorithms",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Juan Carlos Postigo Cabana",
+            "slug": "",
+            "foto": "/images/speakers21/B/Juan Carlos Postigo Cabana.jpeg",
+            "descripcion": "Biografía: Estudiante de Ciencias de la Computación e Ingeniería Electrónica (UNSA)",
+            "curr_info": ["Pre-Grado"]
+          }
+        },
+        {
+          "Intervalo": "15:00 - 15:30",
+          "Tipo": "Ponencia",
+          "Titulo": "ArgosMol - A Web tool for visualization and prediction of protein structures",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Jean Carlos Soncco Lupa, Ericka Sejje Condori ",
+            "slug": "",
+            "foto": "/images/speakers21/B/CArlosSoncco.jpeg",
+            "descripcion": "Ericka sejje Condori. Estudiante de Pregrado en Ciencia de la computación de la Universidad Nacional de San Agustín de Arequipa.  Mis Áreas de interés son Ciberseguridad (Haking ético y computación forense), Inteligencia Artificial  y Bioinformática.\r\n\r\nJean Carlos. Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa.  Mis áreas de interés son Ciencia de Datos(procesamiento y análisis visual de datos e información ), aprendizaje automático y Bioinformática,",
+            "curr_info": ["Pre-Grado"]
+          }
+        },
+        {
+          "Intervalo": "15:30 - 16:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Gun detection in Real-Time, using YOLOv5 on Jetson AGX Xavier",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Oscar Rosas Arotaype, Cristopher Dextre",
+            "slug": "",
+            "foto": "/images/speakers21/B/oscarRosas.jpg",
+            "descripcion": "Oscar Rosas. Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa.  Mis áreas de interés son visión computacional e inteligencia artificial.\r\n\r\nCristopher Dextre Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa.  Mis áreas de interés son IoT, Ciberseguridad y visión computacional.",
+            "curr_info": ["Pre-Grado"]
+          }
+        },
+        {
+          "Intervalo": "16:00 - 16:20",
+          "Tipo": "break",
+          "Titulo": "Recorrido virtual de la EPCC (Video)",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "16:20 - 17:00",
+          "Tipo": "break",
+          "Titulo": "Encuentro de la Familia de la EPCC",
+          "Abstract": "",
+          "links": []
+        }
+      ],
+      "Fecha": "Martes 9 de nov"
     },
     "Miercoles": {
-        "eventos": [
-            {
-                "Intervalo": "09:00 - 09:45",
-                "Tipo": "Ponencia",
-                "Titulo": "Forensic Analysis of Digital Data",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/Rossy Soriano.png",
-                    "nombre": "Aurea Rossy Soriano Vargas",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "09:45 - 10:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Semi Automatic Headline Selector for Online Newspaper Based on Natural Language Processing Applied to Tweets",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/Roxana_Quintanilla.jpg",
-                    "nombre": "Roxana Quintanilla Portugal",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "10:30 - 11:15",
-                "Tipo": "Ponencia",
-                "Titulo": "Inteligencia artificial para el análisis de imágenes satelitales",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/cesar_beltran.jpg",
-                    "nombre": "César A. Beltrán Castañón",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "11:15 - 12:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Perspectivas de Internet de las Cosas",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "nombre": "Pablo Calcina",
-                    "imgURL": "/images/speakers/pablo-calcina.jpg",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "12:00 - 13:00",
-                "Tipo": "break",
-                "Titulo": "Break de Almuerzo",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            },
-            {
-                "Intervalo": "13:00 - 15:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Concurso 1: Herramientas de Software",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            },
-            {
-                "Intervalo": "15:00 - 17:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Concurso 2: Programacion Competitiva",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            }
-        ],
-        "Fecha": "Miércoles 10 de nov"
+      "eventos": [
+        {
+          "Intervalo": "09:00 - 09:45",
+          "Tipo": "Ponencia",
+          "Titulo": "Forensic Analysis of Digital Data",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Aurea Rossy Soriano Vargas",
+            "slug": "",
+            "foto": "/images/speakers21/Rossy Soriano.png",
+            "descripcion": "Expert in Visual Analytics, Information Visualization, and Machine Learning with about 10 years of experience in the area. She is currently a senior researcher in Artificial Intelligence at the Recod.ai Laboratory, Institute of Computing,  Research interests: Information visualization, visual analytics, data mining, computer graphics, image processing, and machine learning. University of Campinas and a member of the IEEE Signal Processing Society. She worked on two post-doctoral projects at UNICAMP. She earned a doctorate and a master's degree in Computer Science from the University of São Paulo of Brazil in 2018 and 2013, respectively. She has previously worked as a junior researcher at the University of California, Davis (2015-2016).",
+            "curr_info": [
+              "Recod.ai Lab - UNICAMP,  Brazil",
+              "Senior researcher in Artificial Intelligence"
+            ]
+          }
+        },
+        {
+          "Intervalo": "09:45 - 10:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Semi Automatic Headline Selector for Online Newspaper Based on Natural Language Processing Applied to Tweets",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Roxana Quintanilla Portugal",
+            "slug": "",
+            "foto": "/images/speakers21/Roxana_Quintanilla.jpg",
+            "descripcion": "Doctora y Master en Ciencias Informáticas por la Pontifícia Universidade Católica de Rio de Janeiro (2013-2020). Realizó estudios de Ingeniería de Sistemas en la Universidad Privada del Norte - Perú (2008). Tiene más de 12 años de experiencia en Ciencias de la Computación, en el área de Ingeniería de Software, actuando principalmente en Ingeniería de requisitos, open data, text-mining y calidad de software.",
+            "curr_info": ["UNSAAC", "Profesor e Investigador asociado"]
+          }
+        },
+        {
+          "Intervalo": "10:30 - 11:15",
+          "Tipo": "Ponencia",
+          "Titulo": "Inteligencia artificial para el análisis de imágenes satelitales",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "César A. Beltrán Castañón",
+            "slug": "",
+            "foto": "/images/speakers21/cesar_beltran.jpg",
+            "descripcion": "Profesor Principal e Investigador Senior en Pontificia Universidad Católica del Perú, Dpto. de Ingeniería, Sección Ing. Informática. Doctor en Bioinformática y Magister en Ciencia de la Computación por la USP Sao Paulo, Brasil. Estancia Post-Doctoral en Texas A&M University (2016). Es presidente de la IEEE Computer Society Perú (2019-2020). Lider científico del Grupo de Inteligencia Artificial de la PUCP. Lider científico del Centro de Innovación Científica y Desarrollo Tecnológico en Ciencias de la Computación de la PUCP. Ha dictado cátedra en diferentes universidades del país a nivel de graduación y postgrado. Sus líneas de investigación son: Machine learning, data analytics, deep learning, visión computacional, procesamiento de imágenes, algoritmos de recuperación de imágenes por contenido, bioinformática y computación de alto desempeño.",
+            "curr_info": ["PUCP", "Profesor principal e Investigador senior "]
+          }
+        },
+        {
+          "Intervalo": "11:15 - 12:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Perspectivas de Internet de las Cosas",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Pablo Cesar Calcina Ccori",
+            "slug": "",
+            "foto": "/images/speakers21/pablo-calcina.jpg",
+            "descripcion": "Egresado de la Universidad Nacional de San Agustín. \r\nObtuvo su título de maestría y doctorado en Ciencia de la Computación \r\nen la Universidad de São Paulo de Brazil. Sus principales temas de investigación \r\nson Internet de las Cosas e Inteligencia Artificial. Trabajó en diversas empresas y startups de tecnología, así como proyectos de I+D.",
+            "curr_info": ["UNSA", "Profesor e Investigador asociado"]
+          }
+        },
+        {
+          "Intervalo": "12:00 - 13:00",
+          "Tipo": "break",
+          "Titulo": "Break de Almuerzo",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "13:00 - 15:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Concurso 1: Herramientas de Software",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "15:00 - 17:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Concurso 2: Programacion Competitiva",
+          "Abstract": "",
+          "links": []
+        }
+      ],
+      "Fecha": "Miércoles 10 de nov"
     },
     "Jueves": {
-        "eventos": [
-            {
-                "Intervalo": "09:00 - 09:45",
-                "Tipo": "Ponencia",
-                "Titulo": "Monitoreo de aplicaciones de consumo masivo",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/paz_trillo.jpg",
-                    "nombre": "Christian Danniel Paz Trillo",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "09:45 - 10:30",
-                "Tipo": "Ponencia",
-                "Titulo": "Si te encanta DevOps. Espera a descubrir SRE",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/elizabeth-suescun.jpg",
-                    "nombre": "Elizabeth Suescun Monsalve",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "10:30 - 11:15",
-                "Tipo": "Ponencia",
-                "Titulo": "Desafíos y oportunidades en el mercado de tecnología: Data Science / AIoT",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/Wilfredo Puma.jpeg",
-                    "nombre": "Wilfredo J. Puma Villanueva",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "11:15 - 12:00",
-                "Tipo": "Ponencia",
-                "Titulo": "La importancia de Latam en la industria de la tecnología",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": null,
-                    "genero": "w",
-                    "nombre": "Luisa Gonzales",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "12:00 - 13:00",
-                "Tipo": "break",
-                "Titulo": "Break de Almuerzo",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            },
-            {
-                "Intervalo": "13:00 - 15:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Concurso 3: Poster Cientifico Alumnos",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            },
-            {
-                "Intervalo": "15:00 - 17:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Concurso 4: Logo de la EPCC",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            }
-        ],
-        "Fecha": "Jueves 11 de nov"
+      "eventos": [
+        {
+          "Intervalo": "09:00 - 09:45",
+          "Tipo": "Ponencia",
+          "Titulo": "Monitoreo de aplicaciones de consumo masivo",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Christian Danniel Paz Trillo",
+            "slug": "",
+            "foto": "/images/speakers21/paz_trillo.jpg",
+            "descripcion": "Ingeniero de Sistemas de la segunda promoción de la EPIS-UNSA (1996-2000). MSc. en Ciencias de la Computación por el Instituto de Matemática y Estadística de la Universidad de Sao Paulo en el área de Inteligencia Artificial (2003-2005). Durante 7 años trabajó en SAP Ariba, una plataforma que conecta cerca de 6 millones de proveedores con 800 mil compradores potenciales, como ingeniero de software y arquitecto. SAP Ariba permite  transacciones por un volumen de cerca de 1 trillón de dólares al año. En el 2020 comienza a trabajar en Microsoft en el área de Búsqueda e Inteligencia para el producto de búsqueda de Sharepoint, una herramienta de colaboración e interacción para empresas ampliamente utilizada. A partir de la pandemia, Microsoft está fortaleciendo y ampliando geográficamente sus equipos de trabajo, con lo que han abierto múltiples posiciones en América Latina en el último año.",
+            "curr_info": ["Microsoft ", "Ingeniero de software "]
+          }
+        },
+        {
+          "Intervalo": "09:45 - 10:30",
+          "Tipo": "Ponencia",
+          "Titulo": "Si te encanta DevOps. Espera a descubrir SRE",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Elizabeth Suescun Monsalve",
+            "slug": "",
+            "foto": "/images/speakers21/elizabeth-suescun.jpg",
+            "descripcion": "Profesora investigadora del Departamento de Informática y Sistemas de la Universidad EAFIT, miembro del grupo de investigación GIDITIC de la misma universidad. Ingeniera Informática con Maestría en Ciencias de la Computación y Doctora en Ciencias de la Computación con enfasis en Ingeniería de Software. También es Certified SAFe 4 Agilist (Leading SAFe). \r\nSus intereses académicos e investigativos se centran en las Ciencias de la Computación, enfocándose en Ingeniería de Software: Ingeniería de requisitos, juegos para la educación, transparencia de software, modelado intencional, ingeniería de software basado en evidencia, DevOps, automatización del proceso de desarrollo de software, desarrollo de software ágil y frameworks ágiles escalados. Tiene especial interés proyectos que busquen empoderar a las mujeres en la tecnología y el cierre de brecha en las tecnología digitales. Pertenece al Comité de la Cátedra Abierta Latinoamericana Matilda y las Mujeres en Ingeniería, y apoya a las comunidades de Mujeres en la Tecnología. \r\nComo académica, coordina la Especialización en Desarrollo de Software y el Semillero de Ingeniería de Software de la misma universidad; como investigadora, es directora del proyecto de Investigación en Sistemas Ciberfísicos Sostenibles para el Agro.\r\nTiene publicación de artículos relacionados relacionados a tópicos como: Trasparencia de software, enfoques Ágiles, modelado intencional con I*star y aprendizaje basado en juegos y DevOps. Tiene dirección de trabajos de\r\nmaestría y doctorado en temas relacionados con la ingeniería de Software: Sistemas ciberfísicos, enfoques Ágiles, DevOps, automatización de proceso de desarrollo de software y transparencia de software.",
+            "curr_info": [
+              "Universidad EAFIT, Colombia",
+              "Profesora e investigadora"
+            ]
+          }
+        },
+        {
+          "Intervalo": "10:30 - 11:15",
+          "Tipo": "Ponencia",
+          "Titulo": "Desafíos y oportunidades en el mercado de tecnología: Data Science / AIoT",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Wilfredo J. Puma Villanueva",
+            "slug": "",
+            "foto": "/images/speakers21/Wilfredo Puma.jpeg",
+            "descripcion": "Formado en Ing. de Sistemas UNSA (2001), con maestría y doctorado en la UNICAMP - Brasil (2006 y 2011) y desarrolló su Pos-Doctorado en la FAPESP-UNICAMP entre 2012 y 2015. Los Algoritmos de IA, redes neuronales artificiales y aprendizaje de Mmáquina hacen parte principal de su formación de pos-graduación, donde además participó de proyectos de I+D Público-Privados. Desde 2016 trabaja en la ROBERT BOSCH Brasil ocupando cargo de Científico de Datos y especialista de IA Senior ejerciendo funciones de desarrollador y consultor de soluciones locales y globales de Data Science y AIoT en las áreas de: POC-factory, innovación, nuevos negocios, manufactura/Industria 4.0, minería y agropecuaria de precisión.",
+            "curr_info": [
+              "ROBERT BOSCH",
+              "Científico de datos y Desarrollador IA senior "
+            ]
+          }
+        },
+        {
+          "Intervalo": "11:15 - 12:00",
+          "Tipo": "Ponencia",
+          "Titulo": "La importancia de Latam en la industria de la tecnología",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "genero": "w",
+            "nombre": "Luisa Gonzales",
+            "slug": "",
+            "foto": "/images/speakers21/Luisa Gonzales.jpg",
+            "descripcion": "Luisa tiene más de 4 años de experiencia como Desarrollo de Software.Formada\r\ncomo Front End Developer y actualmente se desempeña como GuideCX Team Lead in Ravn.",
+            "curr_info": ["Ravn"]
+          }
+        },
+        {
+          "Intervalo": "12:00 - 13:00",
+          "Tipo": "break",
+          "Titulo": "Break de Almuerzo",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "13:00 - 15:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Concurso 3: Poster Cientifico Alumnos",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "15:00 - 17:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Concurso 4: Logo de la EPCC",
+          "Abstract": "",
+          "links": []
+        }
+      ],
+      "Fecha": "Jueves 11 de nov"
     },
     "Viernes": {
-        "eventos": [
-            {
-                "Intervalo": "09:00 - 09:45",
-                "Tipo": "Ponencia",
-                "Titulo": "Sensores inerciales para navegación y sus aplicaciones en la robótica",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/JuanCarlos_Cutipa.webp",
-                    "nombre": "Juan Carlos Cutipa Luque",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "09:45 - 10:30",
-                "Tipo": "Ponencia",
-                "Titulo": "ACM/IEEE-CS Computing Currícula 2020",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/ernesto.jpg",
-                    "nombre": "Ernesto Cuadros Vargas",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "10:30 - 11:15",
-                "Tipo": "Ponencia",
-                "Titulo": "Three qualities of great software engineers",
-                "Abstract": "",
-                "links": [],
-                "Ponente": {
-                    "imgURL": null,
-                    "nombre": "Rick Roberts",
-                    "slug": ""
-                },
-                "Keywords": "keywords prueba",
-                
-                "Presentación": []
-            },
-            {
-                "Intervalo": "11:15 - 12:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Desenvolvendo aplicações inteligentes para a Indústria 4.0",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/Claudio_Miceli_de_Farias.jpg",
-                    "nombre": "Cláudio Miceli de Farias",
-                    "slug": ""
-                },
-                "Presentación": []
-            },
-            {
-                "Intervalo": "12:30 - 13:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Premiación de concursos y Sorteo",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Presentación": []
-            },
-            {
-                "Intervalo": "13:00 - 15:00",
-                "Tipo": "Ponencia",
-                "Titulo": "Cierre A Cargo Del Director",
-                "Abstract": "",
-                "links": [],
-                "Keywords": "keywords prueba",
-                "Ponente": {
-                    "imgURL": "/images/speakers21/wilber_ramos.jpg",
-                    "nombre": "Wilber Roberto Ramos Lovón",
-                    "slug": ""
-                },
-                "Presentación": []
-            }
-        ],
-        "Fecha": "Viernes 12 de nov"
+      "eventos": [
+        {
+          "Intervalo": "09:00 - 09:45",
+          "Tipo": "Ponencia",
+          "Titulo": "Sensores inerciales para navegación y sus aplicaciones en la robótica",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Juan Carlos Cutipa Luque",
+            "slug": "",
+            "foto": "/images/speakers21/JuanCarlos_Cutipa.webp",
+            "descripcion": "Es Doctor en Ciencias (PhD) por la Universidad de São Paulo ; MSc. en Ingeniería de Control y Automatización Mecánica por la USP e Ingeniero Electrónico por la Universidad Nacional de San Agustín de Arequipa. Ha participado en proyectos con empresas y de investigación; ha ejercido la docencia en universidades peruanas y del extranjero. Es Docente Ordinario a tiempo completo en la UNSA y ministra asignaturas de Instrumentación y Control. Actualmente, conduce proyectos relacionados con vehículos acuáticos no tripulados de superficie en colaboración con el Instituto Superior Técnico de la Universidad de Lisboa en Portugal y el Instituto de Tecnología de Grenoble en Francia. Desde el 2021 es el coordinador de la Red Iberoamericana de Electromobilidad por parte de Perú.",
+            "curr_info": ["UNSA", "Profesor e investigador"]
+          }
+        },
+        {
+          "Intervalo": "09:45 - 10:30",
+          "Tipo": "Ponencia",
+          "Titulo": "ACM/IEEE-CS Computing Currícula 2020",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Ernesto Cuadros Vargas",
+            "slug": "",
+            "foto": "/images/speakers21/ernesto.jpg",
+            "descripcion": "Doctor en Ciencia de la Computación por el ICMC de la Universidad de Sao Paulo de Brasil en 2004. Realizó proyectos y estudios en conjunto con Carnegie Mellon University (USA) en 2001 y la Technischen Universitat Berlin de Alemania en 2002. Fue fundador y miembro de la Sociedad Peruana de Computación y ha ocupado la presidencia en los periodos 2001 al 2007 y en 2009. Ha sido Secretario Ejecutivo del Centro Latinoamericano de Informática (CLEI) (2009-2016), miembro del Board of Governors of IEEE Computer Society (2020-2022). Actualmente es el único miembro latinoamericano en el Steering Committee de ACM/IEEE-CS Computing Curricula (CC2020). También fue el único miembro latinoamericano en el Steering Committee de ACM/IEEE-CS Computing Curricula for Computer Science (CS2013). Dentro de su larga trayectoria ha sido Director de la carrera de Ciencia de la Computación en la Universidad de Ingeniería y Tecnología en Lima-Perú (2016-2020) así como expositor invitado en diversos eventos internacionales en Brasil, Chile, Colombia, Estados Unidos, Canadá, Rusia, Japón, China, India, España, entre otros.",
+            "curr_info": ["Sociedad Peruana de Computación", "Fundador y miembro"]
+          }
+        },
+        {
+          "Intervalo": "10:30 - 11:15",
+          "Tipo": "Ponencia",
+          "Titulo": "Three qualities of great software engineers",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Rick Roberts",
+            "slug": "",
+            "foto": "/images/speakers21/Rick Roberts.jpg",
+            "descripcion": "Rick has over 12 years experience building and designing software applications for mobile, web and connected devices (IOT). He has helped Ravn grow from a small team of 4 engineers in Utah to an international group of over 100 people. He loves solving problems through technology and helping people grow and develop in the field of software design and development",
+            "curr_info": ["Ravn", "Co-Founder"]
+          }
+        },
+        {
+          "Intervalo": "11:15 - 12:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Desenvolvendo aplicações inteligentes para a Indústria 4.0",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Cláudio Miceli de Farias",
+            "slug": "",
+            "foto": "/images/speakers21/Claudio_Miceli_de_Farias.jpg",
+            "descripcion": "His M.Sc. degree in computer science and the Ph.D. degree were received from the Federal University of Rio de Janeiro, Rio de Janeiro, Brazil, in 2010 and 2014, respectively. He is currently a Professor with the Tercio Pacitti Institute for Applications and Computational Research, Federal University of Rio de Janeiro. His research interests include data fusion, wireless sensor networks, network security, TinyML, real-time communications, and video processing.",
+            "curr_info": [
+              "NCE/PPGI and PESC/COPPE - UFRJ",
+              "Profesor e investigador "
+            ]
+          }
+        },
+        {
+          "Intervalo": "12:30 - 13:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Premiación de concursos y Sorteo",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "13:00 - 15:00",
+          "Tipo": "Ponencia",
+          "Titulo": "Cierre A Cargo Del Director",
+          "Abstract": "",
+          "links": [],
+          "Ponente": {
+            "nombre": "Wilber Roberto Ramos Lovón",
+            "slug": "",
+            "foto": "/images/speakers21/wilber_ramos.jpg",
+            "descripcion": "Pionero y Promotor de la Ciencia de la Computación en Arequipa, participó en el Diseño de la COMPUTER SCIENCE CURRICULA FOR PERUVIAN UNIVERSITIES, ha sido fundador y director de la Escuela Profesional de Ciencia de la Computación de la UNSA, Coordinador de la Cátedra en la FCIFF de la UCSM, Se ha capacitado en Semánticas y Aplicaciones en Montevideo Uruguay, Matemáticas Discretas en el Instituto de Sistemas Complejos de Valparaíso Chile, Evaluación para la Acreditación en Programas de Ingeniería de ICACIT Perú, estudio su Maestría en Matemática en la Pontificia Universidad Catolica del Perú, actualmente es Candidato a Doctor en la Universidad Nacional de San Agustín.",
+            "curr_info": [
+              "Organizador",
+              "Comisión de Organización,  Promoción del Arte"
+            ]
+          }
+        }
+      ],
+      "Fecha": "Viernes 12 de nov"
     }
-}
+  }
+  

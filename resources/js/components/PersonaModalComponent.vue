@@ -4,7 +4,7 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					<h4 id="speaker-1-ModalLabel" class="modal-title sr-only">‪{{ponent.nombre}}</h4>
+					<h4 id="speaker-1-ModalLabel" class="modal-title sr-only">{{ponent.nombre}}</h4>
 				</div>
 				<div class="modal-body p-0">
 					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
