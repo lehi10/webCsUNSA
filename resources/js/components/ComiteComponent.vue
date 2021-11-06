@@ -25,7 +25,7 @@
 					</div><!--//card-->
 				</div><!--//col-->
 			</div><!--//row-->
-			<div class="sponsors-cta text-center pt-5" v-if="route == ''">
+			<div class="sponsors-cta text-center pt-5" v-if="route == '' || route[0] == '#'">
 				<a
 				class="btn-primary btn btn-lg"
 				href="/comite21#committee-section"
