@@ -6,14 +6,14 @@
 			<div class="row">
 				<div class="col-12 col-md-6 col-lg-3 mb-4" v-for="person in comite">
 					<div class="card rounded-0">
-						<a href="jvascript:void(0)" v-on:click="showModal(person)"><img :src="person.foto" class="card-img-top rounded-0" alt=""></a>
+						<a href="javascript:void(0)" v-on:click="showModal(person)"><img :src="person.foto" class="card-img-top rounded-0" alt=""></a>
 						<div class="card-body">
 							<h6 class="card-title mb-2">{{person.nombre}}</h6>
 							<div class="card-text mb-3">
 								<div class="meta">Universidad Nacional de San Agustin de Arequipa, Perú</div>
 								<div class="meta" v-for="info in person.curr_info">{{info}}</div>
 							</div><!--//card-text-->
-							<a href="jvascript:void(0)" v-on:click="showModal(person)">Leer más &rarr;</a>
+							<a href="javascript:void(0)" v-on:click="showModal(person)">Leer más &rarr;</a>
 						</div><!--//card-->
 						<div class="card-footer text-muted">
 							<!-- <ul class="social-list list-inline mb-0">
@@ -37,6 +37,12 @@
 
 	</section><!--//commite-section-->
 </template>
+
+<style scoped>
+.card-body{
+	height: 251px;
+}
+</style>
 
 <script>
 import comite from "./comite.json";
