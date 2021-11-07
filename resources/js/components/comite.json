@@ -130,18 +130,18 @@
       "foto": "/images/speakers21/comite/Aaron Arturo Tapia Rios.jpeg"
     },
     {
-      "curr_info": ["Organizador", "Comisión de Soporte Web"],
-      "grado": ["Est."],
-      "nombre": "Alexander Rusvell Apaza Torres",
-      "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacinal de San Agustin de Arequipa, mis areas de interes son: Inteligencia Artificial, Geometria Computacional y Web Development. Tengo experiencia en aplicaciones web.",
-      "foto": "/images/speakers21/comite/Alexander CS.jpeg"
-    },
-    {
       "curr_info": ["Organizador", "Comisión de Organización"],
       "grado": ["Est."],
       "nombre": "Fernando Thomas Villanueva Sanchez",
       "descripcion": "Estudiante de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa. Sus áreas de interés actualmente son la investigación y desarrollo en deep learning, robótica y bioinformática. Es apasionado de la divulgación científica.",
       "foto": "/images/speakers21/comite/Fernando CS.png"
+    },
+    {
+      "curr_info": ["Organizador", "Comisión de Soporte Web"],
+      "grado": ["Est."],
+      "nombre": "Alexander Rusvell Apaza Torres",
+      "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacinal de San Agustin de Arequipa, mis areas de interes son: Inteligencia Artificial, Geometria Computacional y Web Development. Tengo experiencia en aplicaciones web.",
+      "foto": "/images/speakers21/comite/Alexander CS.jpeg"
     },
     {
       "curr_info": ["Organizador", "Comisión de Imagen y Difusión"],
@@ -262,6 +262,16 @@
       "nombre": "Linghai Joaquin Zhong Callasi",
       "descripcion": "Estudiante de Ciencia de la Computacion de la Universidad Nacional de San Agustin. Me gustan los videojuegos, realizar predicciones matemáticas, dialogar, estudiar las construcciones de personalidad, las máquinas y la biotecnología.",
       "foto": "/images/speakers21/comite/Linghai Joaquin CS.jpeg"
+    },
+    {
+      "curr_info": [
+        "Colaborador",
+        "Comisión de Imagen y Difusión"
+      ],
+      "grado": ["Est."],
+      "nombre": "Carolina Boniee Chávez López",
+      "descripcion": "Técnico en Computación e Informática y actualmente curso el décimo semestre de la carrera  profesional de Ciencia de la Computación; mi crecimiento profesional ha  ido de la mano con mi crecimiento como líder juvenil comprometida con el desarrollo social, he realizado apoyo como Voluntaria en diferentes proyectos sociales en conjunto con ONG’s de Canada, Nicaragüa y Europa.",
+      "foto": "/images/speakers21/comite/Carolina CS.jpeg"
     }
   ]
   

@@ -202,7 +202,7 @@ export default {
 
         this.slideHeight = window.innerHeight;
         console.log("Component mounted.", this.slideHeight);
-        let target_date = new Date("Nov 8, 2021 09:00:00").getTime();
+        let target_date = new Date("Nov 8, 2021 09:30:00").getTime();
         let days, hours, minutes, seconds;
         setInterval(() => {
             // find the amount of "seconds" between now and target
