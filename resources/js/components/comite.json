@@ -1,7 +1,7 @@
 [
     {
       "curr_info": [
-        "Organizador",
+        "Director",
         "Comisión de Organización,  Promoción del Arte"
       ],
       "grado": ["Mg."],
@@ -10,7 +10,7 @@
       "foto": "/images/speakers21/wilber_ramos.jpg"
     },
     {
-      "curr_info": ["Organizador", "Comisión de Organización, Soporte Web"],
+      "curr_info": ["Profesor", "Presidente de la Comisión Organizadora"],
       "grado": ["Dr."],
       "nombre": "Edgar Sarmiento Calisaya",
       "descripcion": "Graduado en Ingeniería de Sistemas (2003, Universidad Nacional de San Agustín - UNSA, Arequipa, Perú); Maestría en Informática (2009, Universidade Federal do Rio de Janeiro - UFRJ, Brasil); Doctorado en Informática (2016, Pontificia Universidade Catolica do Rio de Janeiro,PUC-Rio, Brasil). Experiencia profesional como desarrollador, arquitecto y consultor de software. Experiencia académica como investigador en el área de Ingeniería de Software con énfasis en las siguientes lineas de investigación: Ingeniería de Requisitos, Calidad de Software, Arquitectura de Software, DevOps y Sistemas Conscientes de Contexto - CA-S.",
@@ -18,7 +18,7 @@
     },
     {
       "curr_info": [
-        "Organizador",
+        "Profesor",
         "Comisión de Organización,  Promoción del Arte, Cultura y Ciencia"
       ],
       "grado": ["Mg."],
@@ -27,7 +27,7 @@
       "foto": "/images/speakers21/comite/Profesor Franci.jpg"
     },
     {
-      "curr_info": ["Organizador", "Comisión de Organización "],
+      "curr_info": ["Profesor", "Comisión de Organización "],
       "grado": ["Dr."],
       "nombre": "Alvaro Henry Mamani Aliaga",
       "descripcion": "Soy Doctor en Ciencias de la Computación de la Universidad Nacional de San Agustín, Arequipa, Perú. Actualmente soy profesor en el programa de Ciencias de la Computación de la Universidad Nacional de San Agustín y la Universidad Católica de San Pablo. Experiencia en áreas de la informática, principalmente en los siguientes temas: computación paralela y distribuida, programación y estructuras de datos. Además, trabajé como investigador / ingeniero de software en varios proyectos: en la Universidad Federal de São Paulo (UNIFESP) en el Proyecto Maritaca; en la Universidad Nacional de San Agustín en \"Laboratorio de Computación de Alto Rendimiento\" y \"Proyecto Tunki: Teledetección de Humedales mediante Imágenes Satelitales y Computación de Alto Rendimiento\". Mis áreas de interés de investigación en informática son: Computación de alto rendimiento, Computación en paralelo, Computación en la nube / Grid, Sistemas de archivos distribuidos, Big Data, Computación móvil y Ciencia de datos.",
@@ -35,7 +35,7 @@
     },
     {
       "curr_info": [
-        "Organizador",
+        "Profesora",
         "Comisión de Promoción del Arte, Cultura y Ciencia"
       ],
       "grado": ["Dra."],
@@ -44,28 +44,28 @@
       "foto": "/images/speakers21/comite/Profesora Ana Maria.jpeg"
     },
     {
-      "curr_info": ["Organizador", "Comisión de Organización "],
+      "curr_info": ["Profesor", "Comisión de Organización "],
       "grado": ["Dr."],
       "nombre": "Cristian Jose Lopez Del Alamo",
       "descripcion": "Dr. en ciencia de la computación obtenido con Felicitaciones públicas (summa cum laude), por la Universidad Nacional de San Agustín y Magíster en Ingeniería de Software con Máxima distinción(summa cum laude) por la Universidad de Tarapacá de Chile. Actualmente, es Profesor Investigador de la Universidad de Ingeniería y Tecnología (UTEC). Fue Director General de Investigación en la Universidad La Salle de Arequipa y profesor investigador en la misma universidad. También, es profesor de Ciencia de la Computación en la Universidad Nacional de San Agustín. Fue uno de los científicos que desarrolló el algoritmo de rastreo de contactos vía bluetooth para la PCM con el objetivo de generar alertas tempranas y evitar la expansión del coronavirus en Perú . También, ha sido ponente en diversos lugares del Perú, América Latina y Europa. Sus intereses de investigación están centrados en Geometry Deep Learning, Machine Learning y algoritmia",
       "foto": "/images/speakers21/comite/Profesor Cristian.png"
     },
     {
-      "curr_info": ["Organizador", "Comisión de Organización "],
+      "curr_info": ["Profesor", "Comisión de Organización "],
       "grado": ["Dr."],
       "nombre": "Edward Hinojosa Cardenas",
       "descripcion": "Ingeniero de Sistemas por la Universidad Católica de Santa María, Magíster en Ciencia de la Computación por la Universidad Federal de São Carlos (São Paulo – Brasil) y Doctor en\r\nCiencia de la Computación por la Universidad Nacional de San Agustín de Arequipa. Ha trabajo en diversas empresas de desarrollo de software y ha participado de diversos proyectos de investigación a nivel nacional. Sus áreas de investigación se centran en inteligencia artificial, lógica difusa, aprendizaje de máquina y computación evolutiva. Proyectos de investigación en los cuales ha participado:\r\n1. Aplicación de visión computacional en la generación de un catálogo para la conservación de la biodiversidad de plantas endémicas. Pontificia Universidad Católica del Perú – PUCP.\r\n2. Entornos Virtuales para la toma de Decisiones en caso de Sismos usando Tecnología de Realidad Virtual orientado a estudiantes de secundaria de la Ciudad de Arequipa. Universidad Nacional de San Agustín de Arequipa - UNSA.\r\n3. Mapa Virtual del Potencial Turístico Natural y Arquitectónico con Sistema de Recomendación Fuzzy para la Provincia de Arequipa– Perú. Universidad Nacional de San Agustín de Arequipa - UNSA.",
       "foto": "/images/speakers21/comite/foto_EHinojosa.jpg"
     },
     {
-      "curr_info": ["Organizador", "Comisión de Organización "],
+      "curr_info": ["Profesor", "Comisión de Organización "],
       "grado": ["Dr."],
       "nombre": "Juan Carlos Gutierrez Caceres",
       "descripcion": "Doctor en Ciencias de la Computación por la Cátedra CONCYTEC de la Universidad Nacional de San Agustín (Perú). Master en Ciencias de la Computación y Matemática Computacional, realizado en el Instituto de Ciencias Matemáticas y de Computación (ICMC) de la Universidad de São Paulo (Brasil). Miembro fundador de la Sociedad Peruana de Computación (SPC) Perú. Actualmente es Docente Investigador en la Escuela Profesional de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa Profesor en el Programa Profesional de Ingeniería Informática en la Universidad Católica San Pablo (Arequipa - Perú) Áreas de interés: Deep Learning Redes Complejas Reconocimiento de Patrones, Redes Neuronales, Sistemas dinámicos no lineales, Procesamiento de Imágenes.",
       "foto": "/images/speakers21/comite/Profesor Juan Carlos.jpeg"
     },
     {
-      "curr_info": ["Organizador", "Comisión de Imagen y Difusión"],
+      "curr_info": ["Profesora", "Comisión de Imagen y Difusión"],
       "grado": ["Dra."],
       "nombre": "Roxana Flores Quispe",
       "descripcion": "Dra. en Ciencias de la Computación vengo desempeñándome como Catedrática en pregrado y postgrado desde el año 2005, lo cual me ha permitido tener experiencia en diferentes Universidades del Sur del País. Actualmente soy docente investigador de la UNSA y la UCSP, realizando publicaciones en eventos nacionales e internacionales, en las áreas de inteligencia artificial, aprendizaje de máquinas y procesamiento de imágenes.",
@@ -73,7 +73,7 @@
     },
     {
       "curr_info": [
-        "Organizador",
+        "Profesor",
         "Comisión de Organización,  Promoción del Arte, Cultura y Ciencia"
       ],
       "grado": ["Dr."],
@@ -83,7 +83,7 @@
     },
     {
       "curr_info": [
-        "Organizador",
+        "Profesor",
         "Comisión de Promoción del Arte, Cultura y Ciencia"
       ],
       "grado": ["Mg."],
@@ -92,7 +92,7 @@
       "foto": "/images/speakers21/comite/Profesor Milton.jpeg"
     },
     {
-      "curr_info": ["Organizador", "Comisión de Imagen y Difusión"],
+      "curr_info": ["Profesora", "Comisión de Imagen y Difusión"],
       "grado": ["Mg."],
       "nombre": "Yessenia Deysi Yari Ramos",
       "descripcion": "Bachiller en Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa, en el año 2008. Realice mis estudios de Maestría en la Universidade Federal do Rio Grande do Sul, Brasil, obteniendo el grado de Master en Ciencia de la Computación, en el año del 2011. Actualmente laboro en la Universidad Católica San Pablo. Mis áreas de interés son procesamiento de imágenes y visión computacional.",
@@ -100,7 +100,7 @@
     },
     {
       "curr_info": [
-        "Organizador",
+        "Profesor",
         "Comisión de Promoción del Arte, Cultura y Ciencia"
       ],
       "grado": ["Lic."],

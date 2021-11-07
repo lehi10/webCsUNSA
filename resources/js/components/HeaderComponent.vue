@@ -202,22 +202,22 @@ export default {
 
         this.slideHeight = window.innerHeight;
         console.log("Component mounted.", this.slideHeight);
-        let target_date = new Date("Nov 8, 2021").getTime();
+        let target_date = new Date("Nov 8, 2021 09:00:00").getTime();
         let days, hours, minutes, seconds;
         setInterval(() => {
             // find the amount of "seconds" between now and target
             let current_date = new Date().getTime();
-            let seconds_left = (target_date - current_date) / 1000 + 28800;
+            let seconds_left = (target_date - current_date);
 
             // do some time calculations
-            days = parseInt(seconds_left / 86400);
-            seconds_left = seconds_left % 86400;
+            days = parseInt(seconds_left / (1000 * 60 * 60 * 24));
+            seconds_left = seconds_left % (1000 * 60 * 60 * 24);
 
-            hours = parseInt(seconds_left / 3600);
-            seconds_left = seconds_left % 3600;
+            hours = parseInt(seconds_left / (1000 * 60 * 60));
+            seconds_left = seconds_left % (1000 * 60 * 60);
 
-            minutes = parseInt(seconds_left / 60);
-            seconds = parseInt(seconds_left % 60);
+            minutes = parseInt(seconds_left / (1000*60));
+            seconds = parseInt(seconds_left % (1000*60)/1000);
 
             this.left.days = days;
             this.left.hours = hours;

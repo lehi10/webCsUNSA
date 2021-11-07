@@ -7,7 +7,7 @@
 					<h4 id="speaker-1-ModalLabel" class="modal-title sr-only">	💻 CERTIFICACIÓN GRATUITA  💡</h4>
 				</div>
 				<div class="modal-body p-0">
-					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-5">
+					<div class="media flex-column flex-md-row theme-bg-light p-4 p-lg-4">
 
 						<div class="media-body text-center text-md-left mx-auto">
 							<h3 class="name mb-2 text-center">💻 CERTIFICACIÓN GRATUITA  💡</h3>
@@ -20,9 +20,6 @@
 
 					<div class="desc p-4 py-lg-4 px-lg-5">
 						<p class="mb-0">
-							Semana de la Computación <br>
-							4ta Edición - 2021 <br>
-
 							La Semana de la Computación en su 4ta edición llega a un total de 33 ponencias. El Certificado de participación al evento lo podrán descargar en esta misma página. Para ser acreedor al certificado debes cumplir con lo siguiente:
 							<br><br>
 							<b> PÚBLICO EN GENERAL:</b>
@@ -31,7 +28,11 @@
 									Encontrarse registrado en el evento.
 								</li>
 								<li>
-									Registrar tu asistencia en cada ponencia (mínimo 28 ponencias).
+									Registrar tu asistencia en cada ponencia.
+									<ul>
+										<li><b> Min: </b> 70% de Asistencia (23 Ponencias)</li>
+										<li><b> Max: </b> 100% de Asistencia (33 Ponencias)</li>
+									</ul>
 								</li>
 							</ul>
 
@@ -39,8 +40,13 @@
 							<b> ESTUDIANTES DE LA EPCC: </b>
 							<ul>
 								<li>Encontrarse registrado en el evento.</li>
-								<li>Registrar tu asistencia en cada ponencia (mínimo 32 ponencias).</li>
 								<li>Ingresar a Zoom con el correo, nombres y apellidos que se registraron.	</li>
+								<li>Registrar tu asistencia en cada ponencia. Las ponencias de la mañana valen 2 puntos y las ponencias de la tarde 1 punto.
+									<ul>
+										<li><b> Min: </b> 70% de Asistencia (39 Puntos)</li>
+										<li><b> Max: </b> 100% de Asistencia (52 Puntos)</li>
+									</ul>
+								</li>
 							</ul>
 							
 						</p>

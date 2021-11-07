@@ -146,6 +146,17 @@
         ]
     },
     {
+        "nombre": "Edward Pacheco",
+        "foto": "/images/speakers21/Edward_Jose_Pacheco_Condori.jpg",
+        "grado": "MSc, en Informática",
+        "universidad": "PUC-RJ",
+        "descripcion": "Estudió Ingenieria de Sistemas y maestría en informatica en la PUC-RJ, Brasil. Fue investigador en el \"Brazil Research and Development Center\" de la empresa DellEMC donde participó en varios proyectos de investigación aplicada en la industria del petróleo, en sistemas de almacenamiento y procesamiento distribuidos, e infraestructura on-premises.",
+        "curr_info": [
+          "Dell EMC - Brazil",
+          "Researcher"
+        ]
+    },
+    {
         "nombre": "Carlos Arbieto",
         "descripcion": "Formado en Ingeniería de Sistemas y con una Maestría en Ciencias Informáticas, fue seleccionado para una pasantía en el área de Interacción Humano-Computador en la Universidad de Sao Paulo en Brasil, con más de 5 años de experiencia como Designer, Analista y Desarrollador, también ha participado como investigador en múltiples proyectos de investigación de las Universidades de la región, actualmente se desempeña como Product Designer en Ravn, creando soluciones para diversos clientes alrededor del mundo",
         "grado": " Ing. de Sistemas",
