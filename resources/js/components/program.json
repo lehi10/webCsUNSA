@@ -358,17 +358,17 @@
         {
           "Intervalo": "09:00 - 09:45",
           "Tipo": "Ponencia",
-          "Titulo": "Forensic Analysis of Digital Data",
+          "Titulo": "MLOps",
           "Abstract": "",
           "links": [],
           "Ponente": {
-            "nombre": "Aurea Rossy Soriano Vargas",
+            "nombre": "Edward Pacheco",
             "slug": "",
-            "foto": "/images/speakers21/Rossy Soriano.png",
-            "descripcion": "Expert in Visual Analytics, Information Visualization, and Machine Learning with about 10 years of experience in the area. She is currently a senior researcher in Artificial Intelligence at the Recod.ai Laboratory, Institute of Computing,  Research interests: Information visualization, visual analytics, data mining, computer graphics, image processing, and machine learning. University of Campinas and a member of the IEEE Signal Processing Society. She worked on two post-doctoral projects at UNICAMP. She earned a doctorate and a master's degree in Computer Science from the University of São Paulo of Brazil in 2018 and 2013, respectively. She has previously worked as a junior researcher at the University of California, Davis (2015-2016).",
+            "foto": "/images/speakers21/Edward_Jose_Pacheco_Condori.jpg",
+            "descripcion": "Estudió Ingenieria de Sistemas y maestría en informatica en la PUC-RJ, Brasil. Fue investigador en el \"Brazil Research and Development Center\" de la empresa DellEMC donde participó en varios proyectos de investigación aplicada en la industria del petróleo, en sistemas de almacenamiento y procesamiento distribuidos, e infraestructura on-premises.",
             "curr_info": [
-              "Recod.ai Lab - UNICAMP,  Brazil",
-              "Senior researcher in Artificial Intelligence"
+              "Dell EMC - Brazil",
+              "Researcher"
             ]
           }
         },
@@ -403,15 +403,18 @@
         {
           "Intervalo": "11:15 - 12:00",
           "Tipo": "Ponencia",
-          "Titulo": "Perspectivas de Internet de las Cosas",
+          "Titulo": "Forensic Analysis of Digital Data",
           "Abstract": "",
           "links": [],
           "Ponente": {
-            "nombre": "Pablo Cesar Calcina Ccori",
+            "nombre": "Aurea Rossy Soriano Vargas",
             "slug": "",
-            "foto": "/images/speakers21/pablo-calcina.jpg",
-            "descripcion": "Egresado de la Universidad Nacional de San Agustín. \r\nObtuvo su título de maestría y doctorado en Ciencia de la Computación \r\nen la Universidad de São Paulo de Brazil. Sus principales temas de investigación \r\nson Internet de las Cosas e Inteligencia Artificial. Trabajó en diversas empresas y startups de tecnología, así como proyectos de I+D.",
-            "curr_info": ["UNSA", "Profesor e Investigador asociado"]
+            "foto": "/images/speakers21/Rossy Soriano.png",
+            "descripcion": "Expert in Visual Analytics, Information Visualization, and Machine Learning with about 10 years of experience in the area. She is currently a senior researcher in Artificial Intelligence at the Recod.ai Laboratory, Institute of Computing,  Research interests: Information visualization, visual analytics, data mining, computer graphics, image processing, and machine learning. University of Campinas and a member of the IEEE Signal Processing Society. She worked on two post-doctoral projects at UNICAMP. She earned a doctorate and a master's degree in Computer Science from the University of São Paulo of Brazil in 2018 and 2013, respectively. She has previously worked as a junior researcher at the University of California, Davis (2015-2016).",
+            "curr_info": [
+              "Recod.ai Lab - UNICAMP,  Brazil",
+              "Senior researcher in Artificial Intelligence"
+            ]
           }
         },
         {
@@ -505,10 +508,17 @@
         },
         {
           "Intervalo": "12:00 - 13:00",
-          "Tipo": "break",
-          "Titulo": "Break de Almuerzo",
+          "Tipo": "Ponencia",
+          "Titulo": "Perspectivas de Internet de las Cosas",
           "Abstract": "",
-          "links": []
+          "links": [],
+          "Ponente": {
+            "nombre": "Pablo Cesar Calcina Ccori",
+            "slug": "",
+            "foto": "/images/speakers21/pablo-calcina.jpg",
+            "descripcion": "Egresado de la Universidad Nacional de San Agustín. \r\nObtuvo su título de maestría y doctorado en Ciencia de la Computación \r\nen la Universidad de São Paulo de Brazil. Sus principales temas de investigación \r\nson Internet de las Cosas e Inteligencia Artificial. Trabajó en diversas empresas y startups de tecnología, así como proyectos de I+D.",
+            "curr_info": ["UNSA", "Profesor e Investigador asociado"]
+          }
         },
         {
           "Intervalo": "13:00 - 15:00",
