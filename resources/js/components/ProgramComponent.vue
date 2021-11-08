@@ -65,7 +65,9 @@
             <div class="content">
               <h3 class="title mb-3">{{ eventObj.Titulo || '&nbsp;' }}</h3>
               <div class="location mb-3" v-if="eventObj.Tipo == 'Ponencia'">
-                <i class="fas fa-video mr-2"></i>Google Meet
+                <i class="fab fa-youtube mr-2"></i>Youtube <br>
+                <i class="fab fa-facebook mr-2"></i>Facebook
+
               </div>
               <div :class="`desc ${!eventObj.Ponente ? 'minibr' : 'br'}`">
                 {{ eventObj.Abstract }}
