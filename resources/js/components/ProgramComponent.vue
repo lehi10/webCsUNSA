@@ -28,7 +28,7 @@
         <div
           v-for="(eventlistObjt, diakey, idx) in Programa"
           v-bind:key="diakey"
-          :class="`tab-pane ${idx == 0 ? 'active' : ''}`"
+          :class="`tab-pane ${idx == 0 ? 'active' : 'fade'}`"
           :id="`tab-${idx + 1}-content`"
           role="tabpanel"
           :aria-labelledby="`tab-${idx + 1}`"
