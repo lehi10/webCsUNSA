@@ -1,7 +1,7 @@
 <template>
   <section id="speakers-section" class="speakers-section section">
     <div class="container">
-      <h3 class="section-heading text-center mb-3">Ponentes de Alto Nivel</h3>
+      <h3 class="section-heading text-center mb-3">Ponentes</h3>
       <div class="section-intro text-center single-col-max mx-auto mb-5">
         Los ponentes que estarán presentes para esta Semana de la Computación
         son:
