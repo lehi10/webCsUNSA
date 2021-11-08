@@ -48,7 +48,9 @@
                   v-on:click="showModal(eventObj.Ponente)"
                   ><img
                     class="profile-image rounded-circle mb-2"
-                    :src="`${eventObj.Ponente.foto || '/images/default-speaker.png'}`"
+                    :src="`${
+                      eventObj.Ponente.foto || '/images/default-speaker.png'
+                    }`"
                     alt=""
                 /></a>
                 <div class="name">
@@ -56,41 +58,46 @@
                     href="javascript:void()"
                     class="theme-link"
                     v-on:click="showModal(eventObj.Ponente)"
-                    >{{eventObj.Ponente.nombre}}</a
+                    >{{ eventObj.Ponente.nombre }}</a
                   >
                 </div>
               </div>
               <!--//profile-->
             </div>
             <div class="content">
-              <h3 class="title mb-3">{{ eventObj.Titulo || '&nbsp;' }}</h3>
+              <h3 class="title mb-3">{{ eventObj.Titulo || "&nbsp;" }}</h3>
               <div class="location mb-3" v-if="eventObj.Tipo == 'Ponencia'">
-                <i class="fab fa-youtube mr-2"></i>Youtube <br>
-                <i class="fab fa-facebook mr-2"></i>Facebook
-
+                <div v-for="(link, type_link) in eventObj.links">
+                <i
+                  :class="`fab fa-${type_link} mr-2`"
+                ></i>
+                <a
+                  :href="link"
+                  target="_blank"
+                  style="text-transform: capitalize"
+                  >{{ type_link }}</a
+                >
+                </div>
+                <!-- <i class="fab fa-facebook mr-2"></i> <a href="#">Facebook</a> -->
               </div>
               <div :class="`desc ${!eventObj.Ponente ? 'minibr' : 'br'}`">
                 {{ eventObj.Abstract }}
               </div>
             </div>
-            <!--//content-->
           </div>
         </div>
       </div>
     </div>
-    <!--//container-->
   </section>
-  <!--//schedule-section-->
 </template>
 
 
 
 <script>
-
-import program from './program.json'
+import program from "./program.json";
 export default {
   data: () => ({
-    Programa: program
+    Programa: program,
   }),
   methods: {
     showModal(data) {
@@ -116,15 +123,23 @@ export default {
     },
   },
   mounted: function () {
-    // Object.keys(this.Programa).forEach((dia) => {
-    //   this.Programa[dia].eventos.forEach((eventos) => {
-    //     // let x = eventos.Ponente.nombre;
-    //     // console.log(eventos.Ponente);
-    //     // eventos.Ponente.slug = this.string_to_slug(x);
-    //     // eventos.Ponente.slug = '';
-        
-    //   });
-    // });
+    Object.keys(this.Programa).forEach((dia) => {
+      this.Programa[dia].eventos.forEach((evento) => {
+        if (dia == 'Lunes'){
+          evento.links = {
+            youtube:
+              "https://www.youtube.com/watch?v=vMUD2bLEZgU&ab_channel=ESCUELAPROFESIONALDECIENCIADELACOMPUTACION",
+            facebook: null,
+          };
+        }
+        else{
+          evento.links = {
+            youtube: null,
+            facebook: null
+          }
+        }
+      });
+    });
   },
 };
 </script>
