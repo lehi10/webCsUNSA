@@ -10,7 +10,6 @@
         Las charlas se transmitirán por las plataformas de <a target="_blank" href="https://www.youtube.com/channel/UCIREVPQo9SrJvhgWOTfVgDA">Youtube</a>  y 
         <a href="https://www.facebook.com/epcc.unsa" target="_blank">Facebook</a> de la Escuela Profesional de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa.
         También tendremos actividades dirigidas a estudiantes y egresados de computación, como son:
-        
       </div>
       
       <div class="benefits-list text-center">

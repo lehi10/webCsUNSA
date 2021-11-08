@@ -117,13 +117,12 @@
             <!--//container-->
         </div>
         <!--//hero-block-->
-
         <div class="stats-block theme-bg-primary text-white py-4 text-center">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-12">
                         <div class="event-countdown text-white text-center">
-                            <div class="countdown-box" v-if="left.days != null">
+                            <div class="countdown-box" v-if="left.days != null && !counter_stopped">
                                 <span class="days"
                                     ><span class="number text-white">{{
                                         left.days
@@ -146,8 +145,18 @@
                                     ><span class="unit">Segs</span></span
                                 >
                             </div>
+                            <div v-else-if="counter_stopped" class="countdown-box">
+                                <span class="days">
+                                    <span class="number text-white">
+                                        El evento ya comenzó
+                                    </span>
+                                    <span class="unit"> Sigue al evento por 
+                                        <a target="_blank" href="https://www.youtube.com/channel/UCIREVPQo9SrJvhgWOTfVgDA" class="text-white">Youtube</a> o
+                                        <a class="text-white" href="https://www.facebook.com/epcc.unsa" target="_blank">Facebook</a> </span>
+                                </span>
+                            </div>
                             <div v-else style="height:5em;">
-
+                                
                             </div>
                         </div>
                         <!--//event-countdown-->
@@ -189,6 +198,7 @@ export default {
             mins: 40,
             secs: 10
         },
+        counter_stopped: false,
         route: ''
     }),
     mounted() {
@@ -204,10 +214,15 @@ export default {
         console.log("Component mounted.", this.slideHeight);
         let target_date = new Date("Nov 8, 2021 09:30:00").getTime();
         let days, hours, minutes, seconds;
-        setInterval(() => {
+        const time_left_interval = setInterval(() => {
             // find the amount of "seconds" between now and target
             let current_date = new Date().getTime();
             let seconds_left = (target_date - current_date);
+
+            if (seconds_left < 0){
+                this.counter_stopped = true;
+                clearInterval(time_left_interval)
+            }
 
             // do some time calculations
             days = parseInt(seconds_left / (1000 * 60 * 60 * 24));
@@ -223,11 +238,12 @@ export default {
             this.left.hours = hours;
             this.left.mins = minutes;
             this.left.secs = seconds;
+
+
         }, 1000);
     },
     methods: {
         showCustomModal() {
-            console.log('Modal!')
             this.$root.$emit("showCertModal", true);
         }
     }
