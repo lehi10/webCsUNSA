@@ -6,14 +6,22 @@
           "Tipo": "break",
           "Titulo": "Saludos protocolares",
           "Abstract": null,
-          "links": []
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=vMUD2bLEZgU&ab_channel=ESCUELAPROFESIONALDECIENCIADELACOMPUTACION",
+            "facebook": "https://www.facebook.com/epcc.unsa/posts/4744722402253452"
+          }
         },
         {
           "Intervalo": "09:30 - 09:45",
           "Tipo": "Ponencia",
           "Titulo": "Inauguración A Cargo Del Director Wilber Ramos Lovón",
           "Abstract": null,
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=vMUD2bLEZgU&ab_channel=ESCUELAPROFESIONALDECIENCIADELACOMPUTACION",
+            "facebook": "https://www.facebook.com/epcc.unsa/posts/4744722402253452"
+          },
           "Ponente": {
             "nombre": "Wilber Roberto Ramos Lovón",
             "slug": "",
@@ -30,7 +38,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Un día como Product Designer",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=vMUD2bLEZgU&ab_channel=ESCUELAPROFESIONALDECIENCIADELACOMPUTACION",
+            "facebook": "https://www.facebook.com/epcc.unsa/posts/4744722402253452"
+          },
           "Ponente": {
             "nombre": "Carlos Arbieto",
             "slug": "",
@@ -44,7 +56,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Cross-modality personalization for retrieval",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=vMUD2bLEZgU&ab_channel=ESCUELAPROFESIONALDECIENCIADELACOMPUTACION",
+            "facebook": "https://www.facebook.com/epcc.unsa/posts/4744722402253452"
+          },
           "Ponente": {
             "nombre": "Nils Murrugarra Llerena",
             "foto": "/images/speakers21/Nils_Murrugarra.jpg",
@@ -57,7 +73,11 @@
           "Tipo": "Ponencia",
           "Titulo": "A Robust Feature-aware sparse mesh representation",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=vMUD2bLEZgU&ab_channel=ESCUELAPROFESIONALDECIENCIADELACOMPUTACION",
+            "facebook": "https://www.facebook.com/epcc.unsa/posts/4744722402253452"
+          },
           "Ponente": {
             "nombre": "Lizeth Fuentes Perez",
             "slug": "",
@@ -78,7 +98,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Reconocimiento de emociones en audio",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=MXw1v_Au2NU",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745301088862250/"
+          },
           "Ponente": {
             "nombre": "Luis Antonio Bernal Chahuayo ",
             "slug": "",
@@ -92,7 +116,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Detección de estrés en tiempo real a partir de señales de voz y datos fisiológicos",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=MXw1v_Au2NU",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745301088862250/"
+          },
           "Ponente": {
             "nombre": "Yonel Yvan Mamani Mamani",
             "slug": "",
@@ -106,7 +134,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Un sistema de recomendación dinamico utilizando sistemas de recomendación",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=MXw1v_Au2NU",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745301088862250/"
+          },
           "Ponente": {
             "nombre": "Luis Chirinos",
             "slug": "",
@@ -120,7 +152,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Experiencia sobre publicación de un paper y trabajo en una empresa de EE. UU.",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=MXw1v_Au2NU",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745301088862250/"
+          },
           "Ponente": {
             "nombre": "Lorena Xiomara Castillo Galdos - Grimaldo Jose Davila Guillen",
             "slug": "",
@@ -134,7 +170,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Un corpus oral en idioma español con acento peruano para el reconocimiento de emociones",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=MXw1v_Au2NU",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745301088862250/"
+          },
           "Ponente": {
             "nombre": "Alessandra Daniela Delgado Mattos",
             "slug": "",
@@ -148,7 +188,11 @@
           "Tipo": "Ponencia",
           "Titulo": "EmoViz: Una herramienta para la visualización de datasets de emociones",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=MXw1v_Au2NU",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745301088862250/"
+          },
           "Ponente": {
             "nombre": "Alexis Aldo Mendoza Villarroel",
             "slug": "",
@@ -162,7 +206,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Empresa: Puma Development",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=MXw1v_Au2NU",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745301088862250/"
+          },
           "Ponente": {
             "nombre": "Elías Josué Puma Chávez",
             "slug": "",
@@ -176,7 +224,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Empresa: Paulonia",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=MXw1v_Au2NU",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745301088862250/"
+          },
           "Ponente": {
             "nombre": "Juan Jose León Camilo",
             "slug": "",
