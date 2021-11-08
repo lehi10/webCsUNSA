@@ -2,6 +2,13 @@
     "Lunes": {
       "eventos": [
         {
+          "Intervalo": "09:00 - 09:30",
+          "Tipo": "break",
+          "Titulo": "Saludos protocolares",
+          "Abstract": null,
+          "links": []
+        },
+        {
           "Intervalo": "09:30 - 09:45",
           "Tipo": "Ponencia",
           "Titulo": "Inauguración A Cargo Del Director Wilber Ramos Lovón",

@@ -129,7 +129,7 @@ export default {
           evento.links = {
             youtube:
               "https://www.youtube.com/watch?v=vMUD2bLEZgU&ab_channel=ESCUELAPROFESIONALDECIENCIADELACOMPUTACION",
-            facebook: null,
+            facebook: "https://www.facebook.com/epcc.unsa/posts/4744722402253452",
           };
         }
         else{
