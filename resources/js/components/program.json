@@ -332,7 +332,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Servicios basados en localización utilizando blockchain para centros hospitalarios en Perú.",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
+          },
           "Ponente": {
             "nombre": "Carlos Atencio Torres",
             "slug": "",
@@ -346,7 +350,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Reconocimiento  de acciones  cotidianas en un aula virtual ",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
+          },
           "Ponente": {
             "nombre": "Kelly Vizconde La Motta",
             "slug": "",
@@ -360,7 +368,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Image Encryption using an Image Pattern based on Advanced Encryption Standard",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
+          },
           "Ponente": {
             "nombre": "Alejandro Antonio Villa Herrera",
             "slug": "",
@@ -374,7 +386,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Comparative Analysis of the main Graph Coloring Algorithms",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
+          },
           "Ponente": {
             "nombre": "Juan Carlos Postigo Cabana",
             "slug": "",
@@ -388,7 +404,11 @@
           "Tipo": "Ponencia",
           "Titulo": "ArgosMol - A Web tool for visualization and prediction of protein structures",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
+          },
           "Ponente": {
             "nombre": "Jean Carlos Soncco Lupa, Ericka Sejje Condori ",
             "slug": "",
@@ -402,7 +422,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Gun detection in Real-Time, using YOLOv5 on Jetson AGX Xavier",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
+          },
           "Ponente": {
             "nombre": "Oscar Rosas Arotaype, Cristopher Dextre",
             "slug": "",
@@ -416,14 +440,22 @@
           "Tipo": "break",
           "Titulo": "Recorrido virtual de la EPCC (Video)",
           "Abstract": "",
-          "links": []
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
+          }
         },
         {
           "Intervalo": "16:20 - 17:00",
           "Tipo": "break",
           "Titulo": "Encuentro de la Familia de la EPCC",
           "Abstract": "",
-          "links": []
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
+          }
         }
       ],
       "Fecha": "Martes 9 de nov"
