@@ -434,28 +434,6 @@
             "descripcion": "Oscar Rosas. Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa.  Mis áreas de interés son visión computacional e inteligencia artificial.\r\n\r\nCristopher Dextre Estudiante de pregrado en Ciencia de la computación en la Universidad Nacional de San Agustín de Arequipa.  Mis áreas de interés son IoT, Ciberseguridad y visión computacional.",
             "curr_info": ["Pre-Grado"]
           }
-        },
-        {
-          "Intervalo": "16:00 - 16:20",
-          "Tipo": "break",
-          "Titulo": "Recorrido virtual de la EPCC (Video)",
-          "Abstract": "",
-          "links": {
-            "youtube":
-              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
-            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
-          }
-        },
-        {
-          "Intervalo": "16:20 - 17:00",
-          "Tipo": "break",
-          "Titulo": "Encuentro de la Familia de la EPCC",
-          "Abstract": "",
-          "links": {
-            "youtube":
-              "https://www.youtube.com/watch?v=6iZ8haTtYwA",
-            "facebook": "https://www.facebook.com/224832257575845/posts/4748333658558993/"
-          }
         }
       ],
       "Fecha": "Martes 9 de nov"
