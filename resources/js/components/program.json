@@ -510,9 +510,23 @@
           "links": []
         },
         {
-          "Intervalo": "15:00 - 17:00",
-          "Tipo": "Ponencia",
-          "Titulo": "Concurso 2: Programacion Competitiva",
+          "Intervalo": "15:15 - 15:30",
+          "Tipo": "break",
+          "Titulo": "Concurso: Programacion Competitiva",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "15:30 - 16:00",
+          "Tipo": "break",
+          "Titulo": "Historia de Ciencia de la Computacion UNSA",
+          "Abstract": "",
+          "links": []
+        },
+        {
+          "Intervalo": "16:00 - 17:00",
+          "Tipo": "break",
+          "Titulo": " Encuentro de Egresados",
           "Abstract": "",
           "links": []
         }

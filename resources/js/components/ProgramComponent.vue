@@ -10,7 +10,7 @@
           v-bind:key="diakey"
         >
           <a
-            :class="`nav-link ${idx == 0 ? 'active' : ''}`"
+            :class="`nav-link ${idx == currentDayIdx ? 'active' : ''}`"
             :id="`tab-${idx + 1}`"
             data-toggle="tab"
             :href="`#tab-${idx + 1}-content`"
@@ -28,7 +28,7 @@
         <div
           v-for="(eventlistObjt, diakey, idx) in Programa"
           v-bind:key="diakey"
-          :class="`tab-pane ${idx == 0 ? 'active' : 'fade'}`"
+          :class="`tab-pane ${idx == currentDayIdx ? 'active' : 'fade'}`"
           :id="`tab-${idx + 1}-content`"
           role="tabpanel"
           :aria-labelledby="`tab-${idx + 1}`"
@@ -98,6 +98,7 @@ import program from "./program.json";
 export default {
   data: () => ({
     Programa: program,
+    currentDayIdx: 0,
   }),
   methods: {
     showModal(data) {
@@ -123,6 +124,8 @@ export default {
     },
   },
   mounted: function () {
+    let today_date = new Date().getDate();
+    this.currentDayIdx = today_date - 8
     Object.keys(this.Programa).forEach((dia) => {
       this.Programa[dia].eventos.forEach((evento) => {
         if(evento.links.length == 0){
