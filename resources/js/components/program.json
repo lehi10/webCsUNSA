@@ -247,7 +247,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Aplicaciones de la computación visual en la industria",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=xuIRcJ_pmnA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745980048794354/"
+          },
           "Ponente": {
             "nombre": "Jan Hurtado Jauregui",
             "slug": "",
@@ -264,7 +268,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Introducción al mundo XOps",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=xuIRcJ_pmnA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745980048794354/"
+          },
           "Ponente": {
             "nombre": "V. Alfonso Phocco Diaz",
             "slug": "",
@@ -281,7 +289,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Visualization in particle-based fluids",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=xuIRcJ_pmnA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745980048794354/"
+          },
           "Ponente": {
             "nombre": "J. Filomen Incahuanaco Quispe",
             "slug": "",
@@ -295,7 +307,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Data Science in Crime Data Analysis",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=xuIRcJ_pmnA",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4745980048794354/"
+          },
           "Ponente": {
             "nombre": "Jorge Poco Medina",
             "slug": "",
