@@ -445,7 +445,11 @@
           "Tipo": "Ponencia",
           "Titulo": "MLOps",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=KI-mmsXXZjk",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4749694288422930/"
+          },
           "Ponente": {
             "nombre": "Edward Pacheco",
             "slug": "",
@@ -462,7 +466,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Semi Automatic Headline Selector for Online Newspaper Based on Natural Language Processing Applied to Tweets",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=KI-mmsXXZjk",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4749694288422930/"
+          },
           "Ponente": {
             "nombre": "Roxana Quintanilla Portugal",
             "slug": "",
@@ -476,7 +484,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Inteligencia artificial para el análisis de imágenes satelitales",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=KI-mmsXXZjk",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4749694288422930/"
+          },
           "Ponente": {
             "nombre": "César A. Beltrán Castañón",
             "slug": "",
@@ -490,7 +502,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Forensic Analysis of Digital Data",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=KI-mmsXXZjk",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4749694288422930/"
+          },
           "Ponente": {
             "nombre": "Aurea Rossy Soriano Vargas",
             "slug": "",
@@ -499,7 +515,12 @@
             "curr_info": [
               "Recod.ai Lab - UNICAMP,  Brazil",
               "Senior researcher in Artificial Intelligence"
-            ]
+            ],
+            "links": {
+              "youtube":
+                "https://www.youtube.com/watch?v=KI-mmsXXZjk",
+              "facebook": "https://www.facebook.com/224832257575845/posts/4749694288422930/"
+            }
           }
         },
         {
