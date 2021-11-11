@@ -658,14 +658,22 @@
           "Tipo": "Ponencia",
           "Titulo": "Concurso 3: Poster Cientifico Alumnos",
           "Abstract": "",
-          "links": []
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=GA2Hdmkn3JE",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4755245264534499/"
+          }
         },
         {
           "Intervalo": "15:00 - 17:00",
           "Tipo": "Ponencia",
           "Titulo": "Concurso 4: Logo de la EPCC",
           "Abstract": "",
-          "links": []
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=GA2Hdmkn3JE",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4755245264534499/"
+          }
         }
       ],
       "Fecha": "Jueves 11 de nov"
