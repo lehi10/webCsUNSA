@@ -561,7 +561,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Monitoreo de aplicaciones de consumo masivo",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=suZotkkYEec",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4752382408154118/"
+          },
           "Ponente": {
             "nombre": "Christian Danniel Paz Trillo",
             "slug": "",
@@ -575,7 +579,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Si te encanta DevOps. Espera a descubrir SRE",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=suZotkkYEec",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4752382408154118/"
+          },
           "Ponente": {
             "nombre": "Elizabeth Suescun Monsalve",
             "slug": "",
@@ -592,7 +600,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Desafíos y oportunidades en el mercado de tecnología: Data Science / AIoT",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=suZotkkYEec",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4752382408154118/"
+          },
           "Ponente": {
             "nombre": "Wilfredo J. Puma Villanueva",
             "slug": "",
@@ -609,7 +621,11 @@
           "Tipo": "Ponencia",
           "Titulo": "La importancia de Latam en la industria de la tecnología",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=suZotkkYEec",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4752382408154118/"
+          },
           "Ponente": {
             "genero": "w",
             "nombre": "Luisa Gonzales",
@@ -624,7 +640,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Perspectivas de Internet de las Cosas",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=suZotkkYEec",
+            "facebook": "https://www.facebook.com/224832257575845/posts/4752382408154118/"
+          },
           "Ponente": {
             "nombre": "Pablo Cesar Calcina Ccori",
             "slug": "",
