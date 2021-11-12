@@ -687,7 +687,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Sensores inerciales para navegación y sus aplicaciones en la robótica",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=b59Rays3cjg",
+            "facebook": "https://www.facebook.com/epcc.unsa/videos/1243604722818049"
+          },
           "Ponente": {
             "nombre": "Juan Carlos Cutipa Luque",
             "slug": "",
@@ -701,7 +705,11 @@
           "Tipo": "Ponencia",
           "Titulo": "ACM/IEEE-CS Computing Currícula 2020",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=b59Rays3cjg",
+            "facebook": "https://www.facebook.com/epcc.unsa/videos/1243604722818049"
+          },
           "Ponente": {
             "nombre": "Ernesto Cuadros Vargas",
             "slug": "",
@@ -715,7 +723,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Three qualities of great software engineers",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=b59Rays3cjg",
+            "facebook": "https://www.facebook.com/epcc.unsa/videos/1243604722818049"
+          },
           "Ponente": {
             "nombre": "Rick Roberts",
             "slug": "",
@@ -729,7 +741,11 @@
           "Tipo": "Ponencia",
           "Titulo": "Desenvolvendo aplicações inteligentes para a Indústria 4.0",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=b59Rays3cjg",
+            "facebook": "https://www.facebook.com/epcc.unsa/videos/1243604722818049"
+          },
           "Ponente": {
             "nombre": "Cláudio Miceli de Farias",
             "slug": "",
@@ -742,18 +758,27 @@
           }
         },
         {
-          "Intervalo": "12:30 - 13:00",
+          "Intervalo": "12:00 - 12:30",
           "Tipo": "Ponencia",
           "Titulo": "Premiación de concursos y Sorteo",
           "Abstract": "",
-          "links": []
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=b59Rays3cjg",
+            "facebook": "https://www.facebook.com/epcc.unsa/videos/1243604722818049"
+          }
+
         },
         {
-          "Intervalo": "13:00 - 15:00",
+          "Intervalo": "12:30 - 13:00",
           "Tipo": "Ponencia",
           "Titulo": "Cierre A Cargo Del Director",
           "Abstract": "",
-          "links": [],
+          "links": {
+            "youtube":
+              "https://www.youtube.com/watch?v=b59Rays3cjg",
+            "facebook": "https://www.facebook.com/epcc.unsa/videos/1243604722818049"
+          },
           "Ponente": {
             "nombre": "Wilber Roberto Ramos Lovón",
             "slug": "",
