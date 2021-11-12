@@ -661,7 +661,8 @@
           "links": {
             "youtube":
               "https://www.youtube.com/watch?v=GA2Hdmkn3JE",
-            "facebook": "https://www.facebook.com/224832257575845/posts/4755245264534499/"
+            "facebook": "https://www.facebook.com/224832257575845/posts/4755245264534499/",
+            "ganadores": "/images/winners/posters.png"
           }
         },
         {
@@ -672,7 +673,8 @@
           "links": {
             "youtube":
               "https://www.youtube.com/watch?v=GA2Hdmkn3JE",
-            "facebook": "https://www.facebook.com/224832257575845/posts/4755245264534499/"
+            "facebook": "https://www.facebook.com/224832257575845/posts/4755245264534499/",
+            "ganadores": "/images/winners/logo.jpg"
           }
         }
       ],
