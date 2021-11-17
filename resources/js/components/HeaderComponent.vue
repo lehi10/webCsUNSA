@@ -26,9 +26,9 @@
                             <a
                                 class="btn text-white"
                                 id="registerBtn"
-                                href="https://forms.gle/9iSUb9FBpigLQMyo6"
+                                href="https://forms.gle/bR32w9GmbshGtpVP8"
                                 target="_blank"
-                                >Registrarse</a
+                                >Certificado</a
                             >
                         </div>
 
@@ -55,7 +55,6 @@
                                     <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '': '/'}#schedule-section`">Programa</a></li>
                                     <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '': '/'}#committee-section`">Organización</a></li>
                                     <li class="nav-item"><a :class="`nav-link ${route == '' ? 'scrollto' : ''}`" :href="`${route == '' ? '': '/'}#sponsors-section`">Sponsors</a></li>
-                                    <li class="nav-item"><a class="nav-link scrollto" href="javascript:void(0)" v-on:click="showCustomModal()">Certificado</a></li>
                                     <!-- <li class="nav-item"><a class="nav-link scrollto" href="#venue-section">Participación</a></li> -->
                                     <!-- <li class="nav-item"><a class="nav-link scrollto" href="#committee-section">Organización</a></li> -->
                                     
@@ -106,9 +105,9 @@
                     <div class="hero-cta">
                         <a
                             class="btn btn-secondary bg-cs_secondary  btn-lg"
-                            href="https://forms.gle/9iSUb9FBpigLQMyo6"
+                            href="https://forms.gle/bR32w9GmbshGtpVP8"
                             target="_blank"
-                            >Registrarse</a
+                            >Certificado</a
                         >
                     </div>
                 </div>
