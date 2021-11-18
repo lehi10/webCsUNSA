@@ -26,8 +26,8 @@
                             <a
                                 class="btn text-white"
                                 id="registerBtn"
-                                href="https://forms.gle/bR32w9GmbshGtpVP8"
-                                target="_blank"
+                                href="javascript:void(0)"
+                                @click="showCustomModal()"
                                 >Certificado</a
                             >
                         </div>
@@ -105,8 +105,8 @@
                     <div class="hero-cta">
                         <a
                             class="btn btn-secondary bg-cs_secondary  btn-lg"
-                            href="https://forms.gle/bR32w9GmbshGtpVP8"
-                            target="_blank"
+                            href="javascript:void(0)"
+                            @click="showCustomModal()"
                             >Certificado</a
                         >
                     </div>

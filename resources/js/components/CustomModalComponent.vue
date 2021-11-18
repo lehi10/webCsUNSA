@@ -20,34 +20,17 @@
 
 					<div class="desc p-4 py-lg-4 px-lg-5">
 						<p class="mb-0">
-							La Semana de la Computación en su 4ta edición llega a un total de 33 ponencias. El Certificado de participación al evento lo podrán descargar en esta misma página. Para ser acreedor al certificado debes cumplir con lo siguiente:
+
+							Para solicitar su certificado puede poner sus datos en el siguiente enlace. Este se encontrará abierto hasta el día Viernes 19 de Noviembre a las 23:59 horas.
 							<br><br>
-							<b> PÚBLICO EN GENERAL:</b>
-							<ul>
-								<li>
-									Encontrarse registrado en el evento.
-								</li>
-								<li>
-									Registrar tu asistencia en cada ponencia.
-									<ul>
-										<li><b> Min: </b> 70% de Asistencia (23 Ponencias)</li>
-										<li><b> Max: </b> 100% de Asistencia (33 Ponencias)</li>
-									</ul>
-								</li>
-							</ul>
-
-
-							<b> ESTUDIANTES DE LA EPCC: </b>
-							<ul>
-								<li>Encontrarse registrado en el evento.</li>
-								<li>Ingresar a Zoom con el correo, nombres y apellidos que se registraron.	</li>
-								<li>Registrar tu asistencia en cada ponencia. Las ponencias de la mañana valen 2 puntos y las ponencias de la tarde 1 punto.
-									<ul>
-										<li><b> Min: </b> 70% de Asistencia (39 Puntos)</li>
-										<li><b> Max: </b> 100% de Asistencia (52 Puntos)</li>
-									</ul>
-								</li>
-							</ul>
+							<div class="text-center">
+								<a
+									class="btn btn-primary  btn-lg"
+									href="https://forms.gle/bR32w9GmbshGtpVP8"
+									target="_blank"
+									>Solicitar Certificado</a
+								>
+							</div>
 							
 						</p>
 					</div>
