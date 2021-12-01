@@ -26,8 +26,8 @@
                             <a
                                 class="btn text-white"
                                 id="registerBtn"
-                                href="javascript:void(0)"
-                                @click="showCustomModal()"
+                                href="https://csunsa-certificados.netlify.app/"
+                                target="_blank"
                                 >Certificado</a
                             >
                         </div>
@@ -105,8 +105,8 @@
                     <div class="hero-cta">
                         <a
                             class="btn btn-secondary bg-cs_secondary  btn-lg"
-                            href="javascript:void(0)"
-                            @click="showCustomModal()"
+                            href="https://csunsa-certificados.netlify.app/"
+                            target="_blank"
                             >Certificado</a
                         >
                     </div>
